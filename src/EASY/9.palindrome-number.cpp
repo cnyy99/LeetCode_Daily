@@ -61,7 +61,6 @@ public:
             another = another*10+temp;
             x /= 10;
         }
-        //cout << another;
         return thi == another;
     }
 };
