@@ -76,7 +76,6 @@ class Solution {
             return (int)n;
         else
             return (int)-n;
-    
     }
 }
 
