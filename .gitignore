@@ -27,3 +27,6 @@
 *.out
 *.app
 **/ipch
+
+
+readme.py
