@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2019-04-23 16:27:04, I have solved **31** / **982** problems while **140** are still locked.
+Until 2019-04-23 23:12:30, I have solved **32** / **982** problems while **140** are still locked.
 
 Completion statistic: 
-1. Python: 31
-2. C++: 31
-3. Java: 31
+1. Python: 32
+2. C++: 32
+3. Java: 32
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -616,7 +616,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/) |Easy|To Do|To Do|To Do|
 |672|[Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/description/) |Medium|To Do|To Do|To Do|
 |673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/) |Medium|To Do|To Do|To Do|
-|674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) |Easy|To Do|To Do|To Do|
+|674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/674.%20Longest%20Continuous%20Increasing%20Subsequence/674.longest-continuous-increasing-subsequence.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/674.%20Longest%20Continuous%20Increasing%20Subsequence/674.longest-continuous-increasing-subsequence.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/674.%20Longest%20Continuous%20Increasing%20Subsequence/674.longest-continuous-increasing-subsequence.java)|
 |675|[Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/description/) |Hard|To Do|To Do|To Do|
 |676|[Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/description/) |Medium|To Do|To Do|To Do|
 |677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/) |Medium|To Do|To Do|To Do|
