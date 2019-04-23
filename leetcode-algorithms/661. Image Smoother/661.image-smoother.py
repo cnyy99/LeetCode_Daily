@@ -46,17 +46,17 @@ class Solution:
         k=0
         for i in range(-1,2):
             for j in range(-1,2):
-                m[k].a=i
-                m[k].b = j
+                m[k]['a'] = i
+                m[k]['b'] = j
                 k+=1
-        sol=[[0 for _ in range(len(M[0])) for _ in range(len(M))]]
+        sol=[[0 for _ in range(len(M[0]))] for _ in range(len(M))]
         for i in range(len(M)):
             for j in range(len(M[0])):
                 sum = 0
                 count=0
                 for k in range(9):
-                    newi=i+m[k].a;
-                    newj=j+m[k].b;
+                    newi=i+m[k]['a'];
+                    newj=j+m[k]['b'];
                     if newi>=0 and newi<len(M) and newj>=0 and newj<len(M[0]):
                         sum+=M[newi][newj]
                         count+=1
