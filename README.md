@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2019-04-24 10:24:34, I have solved **33** / **982** problems while **140** are still locked.
+Until 2019-04-24 17:35:10, I have solved **33** / **982** problems while **140** are still locked.
 
 Completion statistic: 
 1. Python: 33
 2. C++: 33
-3. Java: 32
+3. Java: 33
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -639,7 +639,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |694|[Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/description/) :lock:|Medium|To Do|To Do|To Do|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) |Medium|To Do|To Do|To Do|
 |696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) |Easy|To Do|To Do|To Do|
-|697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/697.%20Degree%20of%20an%20Array/697.degree-of-an-array.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/697.%20Degree%20of%20an%20Array/697.degree-of-an-array.cpp)|To Do|
+|697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/697.%20Degree%20of%20an%20Array/697.degree-of-an-array.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/697.%20Degree%20of%20an%20Array/697.degree-of-an-array.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/697.%20Degree%20of%20an%20Array/697.degree-of-an-array.java)|
 |698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/) |Medium|To Do|To Do|To Do|
 |699|[Falling Squares](https://leetcode.com/problems/falling-squares/description/) |Hard|To Do|To Do|To Do|
 |711|[Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/description/) :lock:|Hard|To Do|To Do|To Do|
