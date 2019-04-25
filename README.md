@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2019-04-25 14:15:01, I have solved **36** / **982** problems while **140** are still locked.
+Until 2019-04-25 15:04:23, I have solved **38** / **982** problems while **140** are still locked.
 
 Completion statistic: 
-1. Python: 36
-2. C++: 36
-3. Java: 36
+1. Python: 38
+2. C++: 38
+3. Java: 38
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -679,7 +679,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) |Easy|To Do|To Do|To Do|
 |745|[Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/description/) |Hard|To Do|To Do|To Do|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/746.%20Min%20Cost%20Climbing%20Stairs/746.min-cost-climbing-stairs.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/746.%20Min%20Cost%20Climbing%20Stairs/746.min-cost-climbing-stairs.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/746.%20Min%20Cost%20Climbing%20Stairs/746.min-cost-climbing-stairs.java)|
-|747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) |Easy|To Do|To Do|To Do|
+|747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others/747.largest-number-at-least-twice-of-others.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others/747.largest-number-at-least-twice-of-others.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others/747.largest-number-at-least-twice-of-others.java)|
 |748|[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/description/) |Easy|To Do|To Do|To Do|
 |749|[Contain Virus](https://leetcode.com/problems/contain-virus/description/) |Hard|To Do|To Do|To Do|
 |750|[Number Of Corner Rectangles](https://leetcode.com/problems/number-of-corner-rectangles/description/) :lock:|Medium|To Do|To Do|To Do|
@@ -708,7 +708,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/) |Easy|To Do|To Do|To Do|
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/) |Easy|To Do|To Do|To Do|
 |590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/) |Easy|To Do|To Do|To Do|
-|766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) |Easy|To Do|To Do|To Do|
+|766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/766.%20Toeplitz%20Matrix/766.toeplitz-matrix.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/766.%20Toeplitz%20Matrix/766.toeplitz-matrix.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/766.%20Toeplitz%20Matrix/766.toeplitz-matrix.java)|
 |767|[Reorganize String](https://leetcode.com/problems/reorganize-string/description/) |Medium|To Do|To Do|To Do|
 |768|[Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/description/) |Hard|To Do|To Do|To Do|
 |769|[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/) |Medium|To Do|To Do|To Do|
