@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2019-04-25 13:49:23, I have solved **34** / **982** problems while **140** are still locked.
+Until 2019-04-25 14:06:53, I have solved **35** / **982** problems while **140** are still locked.
 
 Completion statistic: 
-1. Python: 34
-2. C++: 34
-3. Java: 34
+1. Python: 35
+2. C++: 35
+3. Java: 35
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -655,7 +655,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |721|[Accounts Merge](https://leetcode.com/problems/accounts-merge/description/) |Medium|To Do|To Do|To Do|
 |722|[Remove Comments](https://leetcode.com/problems/remove-comments/description/) |Medium|To Do|To Do|To Do|
 |723|[Candy Crush](https://leetcode.com/problems/candy-crush/description/) :lock:|Medium|To Do|To Do|To Do|
-|724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) |Easy|To Do|To Do|To Do|
+|724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/724.%20Find%20Pivot%20Index/724.find-pivot-index.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/724.%20Find%20Pivot%20Index/724.find-pivot-index.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/724.%20Find%20Pivot%20Index/724.find-pivot-index.java)|
 |725|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/) |Medium|To Do|To Do|To Do|
 |726|[Number of Atoms](https://leetcode.com/problems/number-of-atoms/description/) |Hard|To Do|To Do|To Do|
 |727|[Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/description/) :lock:|Hard|To Do|To Do|To Do|
