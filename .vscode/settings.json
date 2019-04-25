@@ -31,5 +31,6 @@
     "python.linting.pylintEnabled": true,
     "python.pythonPath": "D:\\MySoftware\\Anaconda\\python.exe",
     "files.autoSave": "afterDelay",
-    "workbench.editor.enablePreview": false
+    "workbench.editor.enablePreview": false,
+    "editor.formatOnSave": true
 }
