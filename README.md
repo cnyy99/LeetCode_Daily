@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2019-04-25 14:06:53, I have solved **35** / **982** problems while **140** are still locked.
+Until 2019-04-25 14:15:01, I have solved **36** / **982** problems while **140** are still locked.
 
 Completion statistic: 
-1. Python: 35
-2. C++: 35
-3. Java: 35
+1. Python: 36
+2. C++: 36
+3. Java: 36
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -678,7 +678,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/description/) |Medium|To Do|To Do|To Do|
 |744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) |Easy|To Do|To Do|To Do|
 |745|[Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/description/) |Hard|To Do|To Do|To Do|
-|746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) |Easy|To Do|To Do|To Do|
+|746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/746.%20Min%20Cost%20Climbing%20Stairs/746.min-cost-climbing-stairs.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/746.%20Min%20Cost%20Climbing%20Stairs/746.min-cost-climbing-stairs.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/746.%20Min%20Cost%20Climbing%20Stairs/746.min-cost-climbing-stairs.java)|
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) |Easy|To Do|To Do|To Do|
 |748|[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/description/) |Easy|To Do|To Do|To Do|
 |749|[Contain Virus](https://leetcode.com/problems/contain-virus/description/) |Hard|To Do|To Do|To Do|
