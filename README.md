@@ -17,6 +17,8 @@ Note: :lock: means you need to buy a book from LeetCode
 
 ----------------
 ## LeetCode Solution Table
+<div align=center>
+
 | ID | Title | Difficulty | Python | C++ | Java |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/001.%20Two%20Sum/1.two-sum.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/001.%20Two%20Sum/1.two-sum.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/001.%20Two%20Sum/1.two-sum.java)|
@@ -59,3 +61,4 @@ Note: :lock: means you need to buy a book from LeetCode
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/929.%20Unique%20Email%20Addresses/929.unique-email-addresses.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/929.%20Unique%20Email%20Addresses/929.unique-email-addresses.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/929.%20Unique%20Email%20Addresses/929.unique-email-addresses.java)|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/961.%20N-Repeated%20Element%20in%20Size%202N%20Array/961.n-repeated-element-in-size-2-n-array.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/961.%20N-Repeated%20Element%20in%20Size%202N%20Array/961.n-repeated-element-in-size-2-n-array.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/961.%20N-Repeated%20Element%20in%20Size%202N%20Array/961.n-repeated-element-in-size-2-n-array.java)|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/509.%20Fibonacci%20Number/509.fibonacci-number.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/509.%20Fibonacci%20Number/509.fibonacci-number.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/509.%20Fibonacci%20Number/509.fibonacci-number.java)|
+</div>
