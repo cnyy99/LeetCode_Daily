@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **39** / **982** problems while **140** are still locked.
+In this repository, I have solved **40** / **982** problems while **140** are still locked.
 
 Completion statistic: 
-1. Python: 39
-2. C++: 39
-3. Java: 39
+1. Python: 40
+2. C++: 40
+3. Java: 40
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -55,6 +55,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others/747.largest-number-at-least-twice-of-others.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others/747.largest-number-at-least-twice-of-others.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others/747.largest-number-at-least-twice-of-others.java)|
 |766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/766.%20Toeplitz%20Matrix/766.toeplitz-matrix.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/766.%20Toeplitz%20Matrix/766.toeplitz-matrix.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/766.%20Toeplitz%20Matrix/766.toeplitz-matrix.java)|
 |830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/830.%20Positions%20of%20Large%20Groups/830.positions-of-large-groups.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/830.%20Positions%20of%20Large%20Groups/830.positions-of-large-groups.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/830.%20Positions%20of%20Large%20Groups/830.positions-of-large-groups.java)|
+|832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/832.%20Flipping%20an%20Image/832.flipping-an-image.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/832.%20Flipping%20an%20Image/832.flipping-an-image.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/832.%20Flipping%20an%20Image/832.flipping-an-image.java)|
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/929.%20Unique%20Email%20Addresses/929.unique-email-addresses.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/929.%20Unique%20Email%20Addresses/929.unique-email-addresses.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/929.%20Unique%20Email%20Addresses/929.unique-email-addresses.java)|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/961.%20N-Repeated%20Element%20in%20Size%202N%20Array/961.n-repeated-element-in-size-2-n-array.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/961.%20N-Repeated%20Element%20in%20Size%202N%20Array/961.n-repeated-element-in-size-2-n-array.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/961.%20N-Repeated%20Element%20in%20Size%202N%20Array/961.n-repeated-element-in-size-2-n-array.java)|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/509.%20Fibonacci%20Number/509.fibonacci-number.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/509.%20Fibonacci%20Number/509.fibonacci-number.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/509.%20Fibonacci%20Number/509.fibonacci-number.java)|
