@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **46** / **982** problems while **140** are still locked.
+In this repository, I have solved **47** / **982** problems while **140** are still locked.
 
 Completion statistic: 
-1. Python: 46
-2. C++: 46
-3. Java: 46
+1. Python: 47
+2. C++: 47
+3. Java: 47
 ----------------
 ## LeetCode Solution Table
 <div align=center>
@@ -64,4 +64,5 @@ Completion statistic:
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/941.%20Valid%20Mountain%20Array/941.valid-mountain-array.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/941.%20Valid%20Mountain%20Array/941.valid-mountain-array.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/941.%20Valid%20Mountain%20Array/941.valid-mountain-array.java)|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/961.%20N-Repeated%20Element%20in%20Size%202N%20Array/961.n-repeated-element-in-size-2-n-array.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/961.%20N-Repeated%20Element%20in%20Size%202N%20Array/961.n-repeated-element-in-size-2-n-array.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/961.%20N-Repeated%20Element%20in%20Size%202N%20Array/961.n-repeated-element-in-size-2-n-array.java)|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/509.%20Fibonacci%20Number/509.fibonacci-number.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/509.%20Fibonacci%20Number/509.fibonacci-number.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/509.%20Fibonacci%20Number/509.fibonacci-number.java)|
+|976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/976.%20Largest%20Perimeter%20Triangle/976.largest-perimeter-triangle.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/976.%20Largest%20Perimeter%20Triangle/976.largest-perimeter-triangle.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/976.%20Largest%20Perimeter%20Triangle/976.largest-perimeter-triangle.java)|
 </div>
