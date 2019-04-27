@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **57** / **982** problems while **140** are still locked.
+In this repository, I have solved **58** / **982** problems while **140** are still locked.
 
 Completion statistic: 
-1. Python: 57
-2. C++: 57
-3. Java: 57
+1. Python: 58
+2. C++: 58
+3. Java: 58
 ----------------
 ## LeetCode Solution Table
 <div align=center>
@@ -54,6 +54,7 @@ Completion statistic:
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/628.%20Maximum%20Product%20of%20Three%20Numbers/628.maximum-product-of-three-numbers.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/628.%20Maximum%20Product%20of%20Three%20Numbers/628.maximum-product-of-three-numbers.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/628.%20Maximum%20Product%20of%20Three%20Numbers/628.maximum-product-of-three-numbers.java)|
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/643.%20Maximum%20Average%20Subarray%20I/643.maximum-average-subarray-i.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/643.%20Maximum%20Average%20Subarray%20I/643.maximum-average-subarray-i.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/643.%20Maximum%20Average%20Subarray%20I/643.maximum-average-subarray-i.java)|
 |661|[Image Smoother](https://leetcode.com/problems/image-smoother/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/661.%20Image%20Smoother/661.image-smoother.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/661.%20Image%20Smoother/661.image-smoother.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/661.%20Image%20Smoother/661.image-smoother.java)|
+|667|[Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/667.%20Beautiful%20Arrangement%20II/667.beautiful-arrangement-ii.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/667.%20Beautiful%20Arrangement%20II/667.beautiful-arrangement-ii.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/667.%20Beautiful%20Arrangement%20II/667.beautiful-arrangement-ii.java)|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/674.%20Longest%20Continuous%20Increasing%20Subsequence/674.longest-continuous-increasing-subsequence.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/674.%20Longest%20Continuous%20Increasing%20Subsequence/674.longest-continuous-increasing-subsequence.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/674.%20Longest%20Continuous%20Increasing%20Subsequence/674.longest-continuous-increasing-subsequence.java)|
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/697.%20Degree%20of%20an%20Array/697.degree-of-an-array.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/697.%20Degree%20of%20an%20Array/697.degree-of-an-array.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/697.%20Degree%20of%20an%20Array/697.degree-of-an-array.java)|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/717.%201-bit%20and%202-bit%20Characters/717.1-bit-and-2-bit-characters.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/717.%201-bit%20and%202-bit%20Characters/717.1-bit-and-2-bit-characters.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/717.%201-bit%20and%202-bit%20Characters/717.1-bit-and-2-bit-characters.java)|
