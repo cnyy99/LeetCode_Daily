@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **58** / **982** problems while **140** are still locked.
+In this repository, I have solved **59** / **982** problems while **140** are still locked.
 
 Completion statistic: 
-1. Python: 58
-2. C++: 58
-3. Java: 58
+1. Python: 59
+2. C++: 59
+3. Java: 59
 ----------------
 ## LeetCode Solution Table
 <div align=center>
@@ -56,6 +56,7 @@ Completion statistic:
 |661|[Image Smoother](https://leetcode.com/problems/image-smoother/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/661.%20Image%20Smoother/661.image-smoother.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/661.%20Image%20Smoother/661.image-smoother.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/661.%20Image%20Smoother/661.image-smoother.java)|
 |667|[Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/667.%20Beautiful%20Arrangement%20II/667.beautiful-arrangement-ii.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/667.%20Beautiful%20Arrangement%20II/667.beautiful-arrangement-ii.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/667.%20Beautiful%20Arrangement%20II/667.beautiful-arrangement-ii.java)|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/674.%20Longest%20Continuous%20Increasing%20Subsequence/674.longest-continuous-increasing-subsequence.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/674.%20Longest%20Continuous%20Increasing%20Subsequence/674.longest-continuous-increasing-subsequence.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/674.%20Longest%20Continuous%20Increasing%20Subsequence/674.longest-continuous-increasing-subsequence.java)|
+|695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/695.%20Max%20Area%20of%20Island/695.max-area-of-island.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/695.%20Max%20Area%20of%20Island/695.max-area-of-island.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/695.%20Max%20Area%20of%20Island/695.max-area-of-island.java)|
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/697.%20Degree%20of%20an%20Array/697.degree-of-an-array.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/697.%20Degree%20of%20an%20Array/697.degree-of-an-array.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/697.%20Degree%20of%20an%20Array/697.degree-of-an-array.java)|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/717.%201-bit%20and%202-bit%20Characters/717.1-bit-and-2-bit-characters.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/717.%201-bit%20and%202-bit%20Characters/717.1-bit-and-2-bit-characters.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/717.%201-bit%20and%202-bit%20Characters/717.1-bit-and-2-bit-characters.java)|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/724.%20Find%20Pivot%20Index/724.find-pivot-index.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/724.%20Find%20Pivot%20Index/724.find-pivot-index.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/724.%20Find%20Pivot%20Index/724.find-pivot-index.java)|
