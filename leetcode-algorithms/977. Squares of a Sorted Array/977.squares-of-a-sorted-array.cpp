@@ -47,15 +47,25 @@
 class Solution {
 public:
     vector<int> sortedSquares(vector<int>& A) {
-        for(int i=0;i<A.size()&&A[i]<0;i++)
-        {
-            A[i]=abs(A[i]);
-        }
-        sort(A.begin(),A.end());
-        vector<int>sol(A.size(),0);
-        for(int i=0;i<sol.size();i++)
-        {
-            sol[i]=pow(A[i],2);
+        // for(int i=0;i<A.size()&&A[i]<0;i++)
+        // {
+        //     A[i]=abs(A[i]);
+        // }
+        // sort(A.begin(),A.end());
+        // vector<int>sol(A.size(),0);
+        // for(int i=0;i<sol.size();i++)
+        // {
+        //     sol[i]=pow(A[i],2);
+        // }
+        // return sol;
+        int left = 0, right = A.size() - 1;
+        vector<int>sol (A.size(),0);
+        for (int i = A.size() - 1; i >= 0; i--) {
+            if (abs(A[left]) > abs(A[right])) {
+                sol[i] = A[left] * A[left++];
+            } else {
+                sol[i] = A[right] * A[right--];
+            }
         }
         return sol;
     }
