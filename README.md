@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **42** / **982** problems while **140** are still locked.
+In this repository, I have solved **43** / **982** problems while **140** are still locked.
 
 Completion statistic: 
-1. Python: 42
-2. C++: 42
-3. Java: 42
+1. Python: 43
+2. C++: 43
+3. Java: 43
 ----------------
 ## LeetCode Solution Table
 <div align=center>
@@ -57,6 +57,7 @@ Completion statistic:
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/832.%20Flipping%20an%20Image/832.flipping-an-image.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/832.%20Flipping%20an%20Image/832.flipping-an-image.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/832.%20Flipping%20an%20Image/832.flipping-an-image.java)|
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/867.%20Transpose%20Matrix/867.transpose-matrix.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/867.%20Transpose%20Matrix/867.transpose-matrix.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/867.%20Transpose%20Matrix/867.transpose-matrix.java)|
 |888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/888.%20Fair%20Candy%20Swap/888.fair-candy-swap.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/888.%20Fair%20Candy%20Swap/888.fair-candy-swap.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/888.%20Fair%20Candy%20Swap/888.fair-candy-swap.java)|
+|896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/896.%20Monotonic%20Array/896.monotonic-array.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/896.%20Monotonic%20Array/896.monotonic-array.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/896.%20Monotonic%20Array/896.monotonic-array.java)|
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/929.%20Unique%20Email%20Addresses/929.unique-email-addresses.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/929.%20Unique%20Email%20Addresses/929.unique-email-addresses.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/929.%20Unique%20Email%20Addresses/929.unique-email-addresses.java)|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/961.%20N-Repeated%20Element%20in%20Size%202N%20Array/961.n-repeated-element-in-size-2-n-array.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/961.%20N-Repeated%20Element%20in%20Size%202N%20Array/961.n-repeated-element-in-size-2-n-array.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/961.%20N-Repeated%20Element%20in%20Size%202N%20Array/961.n-repeated-element-in-size-2-n-array.java)|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/509.%20Fibonacci%20Number/509.fibonacci-number.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/509.%20Fibonacci%20Number/509.fibonacci-number.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/509.%20Fibonacci%20Number/509.fibonacci-number.java)|
