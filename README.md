@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **44** / **982** problems while **140** are still locked.
+In this repository, I have solved **45** / **982** problems while **140** are still locked.
 
 Completion statistic: 
-1. Python: 44
-2. C++: 44
-3. Java: 44
+1. Python: 45
+2. C++: 45
+3. Java: 45
 ----------------
 ## LeetCode Solution Table
 <div align=center>
@@ -59,6 +59,7 @@ Completion statistic:
 |888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/888.%20Fair%20Candy%20Swap/888.fair-candy-swap.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/888.%20Fair%20Candy%20Swap/888.fair-candy-swap.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/888.%20Fair%20Candy%20Swap/888.fair-candy-swap.java)|
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/896.%20Monotonic%20Array/896.monotonic-array.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/896.%20Monotonic%20Array/896.monotonic-array.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/896.%20Monotonic%20Array/896.monotonic-array.java)|
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/905.%20Sort%20Array%20By%20Parity/905.sort-array-by-parity.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/905.%20Sort%20Array%20By%20Parity/905.sort-array-by-parity.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/905.%20Sort%20Array%20By%20Parity/905.sort-array-by-parity.java)|
+|922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/922.%20Sort%20Array%20By%20Parity%20II/922.sort-array-by-parity-ii.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/922.%20Sort%20Array%20By%20Parity%20II/922.sort-array-by-parity-ii.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/922.%20Sort%20Array%20By%20Parity%20II/922.sort-array-by-parity-ii.java)|
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/929.%20Unique%20Email%20Addresses/929.unique-email-addresses.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/929.%20Unique%20Email%20Addresses/929.unique-email-addresses.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/929.%20Unique%20Email%20Addresses/929.unique-email-addresses.java)|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/961.%20N-Repeated%20Element%20in%20Size%202N%20Array/961.n-repeated-element-in-size-2-n-array.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/961.%20N-Repeated%20Element%20in%20Size%202N%20Array/961.n-repeated-element-in-size-2-n-array.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/961.%20N-Repeated%20Element%20in%20Size%202N%20Array/961.n-repeated-element-in-size-2-n-array.java)|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/509.%20Fibonacci%20Number/509.fibonacci-number.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/509.%20Fibonacci%20Number/509.fibonacci-number.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/509.%20Fibonacci%20Number/509.fibonacci-number.java)|
