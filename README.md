@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **59** / **982** problems while **140** are still locked.
+In this repository, I have solved **60** / **982** problems while **140** are still locked.
 
 Completion statistic: 
-1. Python: 59
-2. C++: 59
-3. Java: 59
+1. Python: 60
+2. C++: 60
+3. Java: 60
 ----------------
 ## LeetCode Solution Table
 <div align=center>
@@ -64,6 +64,7 @@ Completion statistic:
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/746.%20Min%20Cost%20Climbing%20Stairs/746.min-cost-climbing-stairs.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/746.%20Min%20Cost%20Climbing%20Stairs/746.min-cost-climbing-stairs.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/746.%20Min%20Cost%20Climbing%20Stairs/746.min-cost-climbing-stairs.java)|
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others/747.largest-number-at-least-twice-of-others.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others/747.largest-number-at-least-twice-of-others.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others/747.largest-number-at-least-twice-of-others.java)|
 |766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/766.%20Toeplitz%20Matrix/766.toeplitz-matrix.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/766.%20Toeplitz%20Matrix/766.toeplitz-matrix.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/766.%20Toeplitz%20Matrix/766.toeplitz-matrix.java)|
+|769|[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/769.%20Max%20Chunks%20To%20Make%20Sorted/769.max-chunks-to-make-sorted.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/769.%20Max%20Chunks%20To%20Make%20Sorted/769.max-chunks-to-make-sorted.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/769.%20Max%20Chunks%20To%20Make%20Sorted/769.max-chunks-to-make-sorted.java)|
 |830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/830.%20Positions%20of%20Large%20Groups/830.positions-of-large-groups.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/830.%20Positions%20of%20Large%20Groups/830.positions-of-large-groups.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/830.%20Positions%20of%20Large%20Groups/830.positions-of-large-groups.java)|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/832.%20Flipping%20an%20Image/832.flipping-an-image.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/832.%20Flipping%20an%20Image/832.flipping-an-image.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/832.%20Flipping%20an%20Image/832.flipping-an-image.java)|
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/867.%20Transpose%20Matrix/867.transpose-matrix.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/867.%20Transpose%20Matrix/867.transpose-matrix.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/867.%20Transpose%20Matrix/867.transpose-matrix.java)|
