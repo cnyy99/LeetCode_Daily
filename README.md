@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **51** / **982** problems while **140** are still locked.
+In this repository, I have solved **52** / **982** problems while **140** are still locked.
 
 Completion statistic: 
-1. Python: 51
-2. C++: 51
-3. Java: 51
+1. Python: 52
+2. C++: 52
+3. Java: 52
 ----------------
 ## LeetCode Solution Table
 <div align=center>
@@ -26,6 +26,7 @@ Completion statistic:
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/026.%20Remove%20Duplicates%20from%20Sorted%20Array/26.remove-duplicates-from-sorted-array.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/026.%20Remove%20Duplicates%20from%20Sorted%20Array/26.remove-duplicates-from-sorted-array.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/026.%20Remove%20Duplicates%20from%20Sorted%20Array/26.remove-duplicates-from-sorted-array.java)|
 |027|[Remove Element](https://leetcode.com/problems/remove-element/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/027.%20Remove%20Element/27.remove-element.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/027.%20Remove%20Element/27.remove-element.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/027.%20Remove%20Element/27.remove-element.java)|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/035.%20Search%20Insert%20Position/35.search-insert-position.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/035.%20Search%20Insert%20Position/35.search-insert-position.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/035.%20Search%20Insert%20Position/35.search-insert-position.java)|
+|041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) |Hard|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/041.%20First%20Missing%20Positive/41.first-missing-positive.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/041.%20First%20Missing%20Positive/41.first-missing-positive.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/041.%20First%20Missing%20Positive/41.first-missing-positive.java)|
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/053.%20Maximum%20Subarray/53.maximum-subarray.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/053.%20Maximum%20Subarray/53.maximum-subarray.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/053.%20Maximum%20Subarray/53.maximum-subarray.java)|
 |066|[Plus One](https://leetcode.com/problems/plus-one/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/066.%20Plus%20One/66.plus-one.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/066.%20Plus%20One/66.plus-one.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/066.%20Plus%20One/66.plus-one.java)|
 |069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/069.%20Sqrt(x)/69.sqrt-x.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/069.%20Sqrt(x)/69.sqrt-x.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/069.%20Sqrt(x)/69.sqrt-x.java)|
