@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **61** / **986** problems while **140** are still locked.
+In this repository, I have solved **62** / **986** problems while **140** are still locked.
 
 Completion statistic: 
-1. Python: 61
-2. C++: 61
-3. Java: 61
+1. Python: 62
+2. C++: 62
+3. Java: 62
 ----------------
 ## LeetCode Solution Table
 <div align=center>
@@ -22,6 +22,7 @@ Completion statistic:
 |007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/007.%20Reverse%20Integer/7.reverse-integer.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/007.%20Reverse%20Integer/7.reverse-integer.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/007.%20Reverse%20Integer/7.reverse-integer.java)|
 |009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/009.%20Palindrome%20Number/9.palindrome-number.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/009.%20Palindrome%20Number/9.palindrome-number.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/009.%20Palindrome%20Number/9.palindrome-number.java)|
 |011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/011.%20Container%20With%20Most%20Water/11.container-with-most-water.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/011.%20Container%20With%20Most%20Water/11.container-with-most-water.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/011.%20Container%20With%20Most%20Water/11.container-with-most-water.java)|
+|013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/013.%20Roman%20to%20Integer/13.roman-to-integer.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/013.%20Roman%20to%20Integer/13.roman-to-integer.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/013.%20Roman%20to%20Integer/13.roman-to-integer.java)|
 |016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/016.%203Sum%20Closest/16.3-sum-closest.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/016.%203Sum%20Closest/16.3-sum-closest.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/016.%203Sum%20Closest/16.3-sum-closest.java)|
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/026.%20Remove%20Duplicates%20from%20Sorted%20Array/26.remove-duplicates-from-sorted-array.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/026.%20Remove%20Duplicates%20from%20Sorted%20Array/26.remove-duplicates-from-sorted-array.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/026.%20Remove%20Duplicates%20from%20Sorted%20Array/26.remove-duplicates-from-sorted-array.java)|
 |027|[Remove Element](https://leetcode.com/problems/remove-element/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/027.%20Remove%20Element/27.remove-element.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/027.%20Remove%20Element/27.remove-element.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/027.%20Remove%20Element/27.remove-element.java)|
