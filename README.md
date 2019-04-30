@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **62** / **986** problems while **140** are still locked.
+In this repository, I have solved **63** / **986** problems while **140** are still locked.
 
 Completion statistic: 
-1. Python: 62
-2. C++: 62
-3. Java: 62
+1. Python: 63
+2. C++: 63
+3. Java: 63
 ----------------
 ## LeetCode Solution Table
 <div align=center>
@@ -79,5 +79,6 @@ Completion statistic:
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/961.%20N-Repeated%20Element%20in%20Size%202N%20Array/961.n-repeated-element-in-size-2-n-array.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/961.%20N-Repeated%20Element%20in%20Size%202N%20Array/961.n-repeated-element-in-size-2-n-array.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/961.%20N-Repeated%20Element%20in%20Size%202N%20Array/961.n-repeated-element-in-size-2-n-array.java)|
 |976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/976.%20Largest%20Perimeter%20Triangle/976.largest-perimeter-triangle.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/976.%20Largest%20Perimeter%20Triangle/976.largest-perimeter-triangle.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/976.%20Largest%20Perimeter%20Triangle/976.largest-perimeter-triangle.java)|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/977.%20Squares%20of%20a%20Sorted%20Array/977.squares-of-a-sorted-array.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/977.%20Squares%20of%20a%20Sorted%20Array/977.squares-of-a-sorted-array.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/977.%20Squares%20of%20a%20Sorted%20Array/977.squares-of-a-sorted-array.java)|
+|989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/989.%20Add%20to%20Array-Form%20of%20Integer/989.add-to-array-form-of-integer.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/989.%20Add%20to%20Array-Form%20of%20Integer/989.add-to-array-form-of-integer.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/989.%20Add%20to%20Array-Form%20of%20Integer/989.add-to-array-form-of-integer.java)|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/1002.%20Find%20Common%20Characters/1002.find-common-characters.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/1002.%20Find%20Common%20Characters/1002.find-common-characters.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/1002.%20Find%20Common%20Characters/1002.find-common-characters.java)|
 </div>
