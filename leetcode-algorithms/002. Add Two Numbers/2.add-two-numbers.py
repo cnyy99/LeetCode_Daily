@@ -37,9 +37,9 @@
 
 class Solution:
     def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
-        if l1.next == None and l1.val == 0:
+        if not l1.next and l1.val == 0:
             return l2
-        if l2.next == None and l2.val == 0:
+        if not l2.next and l2.val == 0:
             return l1
         p1, p2= l1, l2
         sol = ListNode(0)
@@ -47,12 +47,12 @@ class Solution:
         head.next = None
         plus,sol.val = (p1.val + p2.val) // 10,(p1.val + p2.val) % 10
         p1,p2 = p1.next, p2.next
-        while p1 is not None or p2 is not None:
+        while p1 or p2 :
             temp = ListNode(0)
-            val1 = 0 if p1 is None else p1.val
-            p1 = p1 if p1 is None else p1.next
-            val2 = 0 if p2 is None else p2.val
-            p2 = p2 if p2 is None else p2.next
+            val1 = p1.val if p1 else 0
+            p1 = p1.next if p1 else p1
+            val2 = p2.val if p2 else 0
+            p2 = p2.next if p2 else p2
             temp.next,temp.val = None,val1+val2+plus
             plus = temp.val // 10
             temp.val %= 10

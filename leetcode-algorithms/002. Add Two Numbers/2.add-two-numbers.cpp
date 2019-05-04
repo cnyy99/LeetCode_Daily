@@ -42,9 +42,9 @@ class Solution
 public:
     ListNode *addTwoNumbers(ListNode *l1, ListNode *l2)
     {
-        if (l1->next == NULL && l1->val == 0)
+        if (!l1->next && !l1->val)
             return l2;
-        if (l2->next == NULL && l2->val == 0)
+        if (!l2->next && !l2->val)
             return l1;
         ListNode *p1 = l1, *p2 = l2;
         ListNode *sol = new ListNode(0);
@@ -53,14 +53,14 @@ public:
         int plus = (p1->val + p2->val) / 10;
         sol->val = (p1->val + p2->val) % 10;
         p1 = p1->next, p2 = p2->next;
-        while (p1 != NULL || p2 != NULL)
+        while (p1 || p2)
         {
             ListNode *temp = new ListNode(0);
             int val1, val2;
-            val1 = p1 == NULL ? 0 : p1->val;
-            p1 = p1 == NULL ? p1 : p1->next;
-            val2 = p2 == NULL ? 0 : p2->val;
-            p2 = p2 == NULL ? p2 : p2->next;
+            val1 = p1? p1->val:0;
+            p1 = p1? p1->next:p1;
+            val2 = p2? p2->val:0;
+            p2 = p2? p2->next:p2;
             temp->next = NULL;
             temp->val = val1+val2+plus;
             plus = temp->val / 10;
