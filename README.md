@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **66** / **986** problems while **140** are still locked.
+In this repository, I have solved **67** / **990** problems while **140** are still locked.
 
 Completion statistic: 
-1. Python: 66
-2. C++: 66
-3. Java: 66
+1. Python: 67
+2. C++: 67
+3. Java: 67
 ----------------
 ## LeetCode Solution Table
 <div align=center>
@@ -34,6 +34,7 @@ Completion statistic:
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/053.%20Maximum%20Subarray/53.maximum-subarray.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/053.%20Maximum%20Subarray/53.maximum-subarray.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/053.%20Maximum%20Subarray/53.maximum-subarray.java)|
 |066|[Plus One](https://leetcode.com/problems/plus-one/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/066.%20Plus%20One/66.plus-one.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/066.%20Plus%20One/66.plus-one.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/066.%20Plus%20One/66.plus-one.java)|
 |069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/069.%20Sqrt(x)/69.sqrt-x.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/069.%20Sqrt(x)/69.sqrt-x.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/069.%20Sqrt(x)/69.sqrt-x.java)|
+|075|[Sort Colors](https://leetcode.com/problems/sort-colors/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/075.%20Sort%20Colors/75.sort-colors.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/075.%20Sort%20Colors/75.sort-colors.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/075.%20Sort%20Colors/75.sort-colors.java)|
 |078|[Subsets](https://leetcode.com/problems/subsets/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/078.%20Subsets/78.subsets.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/078.%20Subsets/78.subsets.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/078.%20Subsets/78.subsets.java)|
 |088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/088.%20Merge%20Sorted%20Array/88.merge-sorted-array.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/088.%20Merge%20Sorted%20Array/88.merge-sorted-array.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/088.%20Merge%20Sorted%20Array/88.merge-sorted-array.java)|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/118.%20Pascal's%20Triangle/118.pascals-triangle.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/118.%20Pascal's%20Triangle/118.pascals-triangle.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/118.%20Pascal's%20Triangle/118.pascals-triangle.java)|
