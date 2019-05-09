@@ -1,17 +1,16 @@
 # Keep thinking, keep alive
-<div align=center><img src ="https://raw.githubusercontent.com/cnyy7/LeetCode_EY/master/resources/LeetCode.png"/>
-</div>
+<div align=center><img src ="https://raw.githubusercontent.com/cnyy7/LeetCode_EY/master/resources/LeetCode.png"/></div>
 <div align=center>
 
 ![Solved/Total](https://leetcode-badge.chyroc.cn/?name=chennansoul&leetcode_badge_style=Solved/Total-{{.solved_question}}/{{.all_question}}-green.svg?style=flat-square) ![GitHub language count](https://img.shields.io/github/languages/count/cnyy7/LeetCode_EY.svg?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/cnyy7/LeetCode_EY.svg?style=flat-square) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/cnyy7/LeetCode_EY.svg?style=flat-square) ![GitHub](https://img.shields.io/github/license/cnyy7/LeetCode_EY.svg?style=flat-square)
 
 </div>
 
-In this repository, I have solved **67** / **990** problems while **140** are still locked.
+In this repository, I have solved **68** / **990** problems while **140** are still locked.
 
 Completion statistic: 
 1. Python: 67
-2. C++: 67
+2. C++: 68
 3. Java: 67
 ----------------
 ## LeetCode Solution Table
@@ -44,6 +43,7 @@ Completion statistic:
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/122.best-time-to-buy-and-sell-stock-ii.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/122.best-time-to-buy-and-sell-stock-ii.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/122.best-time-to-buy-and-sell-stock-ii.java)|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/167.two-sum-ii-input-array-is-sorted.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/167.two-sum-ii-input-array-is-sorted.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/167.two-sum-ii-input-array-is-sorted.java)|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/169.%20Majority%20Element/169.majority-element.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/169.%20Majority%20Element/169.majority-element.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/169.%20Majority%20Element/169.majority-element.java)|
+|202|[Happy Number](https://leetcode.com/problems/happy-number/description/) |Easy|To Do|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/202.%20Happy%20Number/202.happy-number.cpp)|To Do|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/217.%20Contains%20Duplicate/217.contains-duplicate.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/217.%20Contains%20Duplicate/217.contains-duplicate.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/217.%20Contains%20Duplicate/217.contains-duplicate.java)|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/219.%20Contains%20Duplicate%20II/219.contains-duplicate-ii.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/219.%20Contains%20Duplicate%20II/219.contains-duplicate-ii.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/219.%20Contains%20Duplicate%20II/219.contains-duplicate-ii.java)|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/238.%20Product%20of%20Array%20Except%20Self/238.product-of-array-except-self.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/238.%20Product%20of%20Array%20Except%20Self/238.product-of-array-except-self.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/238.%20Product%20of%20Array%20Except%20Self/238.product-of-array-except-self.java)|
