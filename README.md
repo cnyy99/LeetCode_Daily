@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **69** / **990** problems while **140** are still locked.
+In this repository, I have solved **70** / **994** problems while **140** are still locked.
 
 Completion statistic: 
-1. Python: 69
-2. C++: 69
-3. Java: 69
+1. Python: 70
+2. C++: 70
+3. Java: 70
 ----------------
 ## LeetCode Solution Table
 <div align=center>
@@ -37,6 +37,7 @@ Completion statistic:
 |075|[Sort Colors](https://leetcode.com/problems/sort-colors/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/075.%20Sort%20Colors/75.sort-colors.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/075.%20Sort%20Colors/75.sort-colors.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/075.%20Sort%20Colors/75.sort-colors.java)|
 |078|[Subsets](https://leetcode.com/problems/subsets/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/078.%20Subsets/78.subsets.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/078.%20Subsets/78.subsets.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/078.%20Subsets/78.subsets.java)|
 |088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/088.%20Merge%20Sorted%20Array/88.merge-sorted-array.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/088.%20Merge%20Sorted%20Array/88.merge-sorted-array.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/088.%20Merge%20Sorted%20Array/88.merge-sorted-array.java)|
+|098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/098.%20Validate%20Binary%20Search%20Tree/98.validate-binary-search-tree.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/098.%20Validate%20Binary%20Search%20Tree/98.validate-binary-search-tree.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/098.%20Validate%20Binary%20Search%20Tree/98.validate-binary-search-tree.java)|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/118.%20Pascal's%20Triangle/118.pascals-triangle.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/118.%20Pascal's%20Triangle/118.pascals-triangle.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/118.%20Pascal's%20Triangle/118.pascals-triangle.java)|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/119.%20Pascal's%20Triangle%20II/119.pascals-triangle-ii.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/119.%20Pascal's%20Triangle%20II/119.pascals-triangle-ii.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/119.%20Pascal's%20Triangle%20II/119.pascals-triangle-ii.java)|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/121.best-time-to-buy-and-sell-stock.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/121.best-time-to-buy-and-sell-stock.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/121.best-time-to-buy-and-sell-stock.java)|
