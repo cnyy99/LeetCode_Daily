@@ -27,10 +27,20 @@
         "-std=c++17",
         "-Wall"
     ],
-    "clang.completion.enable": true,// 效果效果比cpptools要好
+    "clang.completion.enable": true, // 效果效果比cpptools要好
     "python.linting.pylintEnabled": true,
     "python.pythonPath": "D:\\MySoftware\\Anaconda\\python.exe",
     "files.autoSave": "afterDelay",
     "workbench.editor.enablePreview": false,
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "http.proxySupport": "on",
+    "http.proxy": "socks5://127.0.0.1:1080",
+    "files.associations": {
+        "vector": "cpp",
+        "array": "cpp",
+        "bitset": "cpp",
+        "initializer_list": "cpp",
+        "string_view": "cpp",
+        "utility": "cpp"
+    },
 }
