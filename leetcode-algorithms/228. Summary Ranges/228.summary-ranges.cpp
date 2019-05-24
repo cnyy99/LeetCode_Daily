@@ -1,5 +1,5 @@
 /*
- * @lc app=leetcode id=228 lang=java
+ * @lc app=leetcode id=228 lang=cpp
  *
  * [228] Summary Ranges
  *
@@ -33,9 +33,29 @@
  * 
  * 
  */
-class Solution {
-    public List<String> summaryRanges(int[] nums) {
-        
+class Solution
+{
+public:
+    vector<string> summaryRanges(vector<int> &nums)
+    {
+        vector<string> result;
+        int length = nums.size();
+        for (int i = 0; i < length; i++)
+        {
+            int pre = nums[i];
+            while (i + 1 < length && nums[i + 1] == nums[i] + 1)
+            {
+                i++;
+            }
+            if (pre == nums[i])
+            {
+                result.push_back(to_string(pre));
+            }
+            else
+            {
+                result.push_back(to_string(pre) + "->" + to_string(nums[i]));
+            }
+        }
+        return result;
     }
-}
-
+};
