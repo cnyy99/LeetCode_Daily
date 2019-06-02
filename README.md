@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **72** / **1019** problems while **153** are still locked.
+In this repository, I have solved **73** / **1019** problems while **153** are still locked.
 
 Completion statistic: 
-1. Python: 72
-2. C++: 72
-3. Java: 72
+1. Python: 73
+2. C++: 73
+3. Java: 73
 ----------------
 ## LeetCode Solution Table
 <div align=center>
@@ -85,6 +85,7 @@ Completion statistic:
 |922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/922.%20Sort%20Array%20By%20Parity%20II/922.sort-array-by-parity-ii.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/922.%20Sort%20Array%20By%20Parity%20II/922.sort-array-by-parity-ii.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/922.%20Sort%20Array%20By%20Parity%20II/922.sort-array-by-parity-ii.java)|
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/929.%20Unique%20Email%20Addresses/929.unique-email-addresses.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/929.%20Unique%20Email%20Addresses/929.unique-email-addresses.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/929.%20Unique%20Email%20Addresses/929.unique-email-addresses.java)|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/941.%20Valid%20Mountain%20Array/941.valid-mountain-array.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/941.%20Valid%20Mountain%20Array/941.valid-mountain-array.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/941.%20Valid%20Mountain%20Array/941.valid-mountain-array.java)|
+|953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/953.%20Verifying%20an%20Alien%20Dictionary/953.verifying-an-alien-dictionary.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/953.%20Verifying%20an%20Alien%20Dictionary/953.verifying-an-alien-dictionary.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/953.%20Verifying%20an%20Alien%20Dictionary/953.verifying-an-alien-dictionary.java)|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/961.%20N-Repeated%20Element%20in%20Size%202N%20Array/961.n-repeated-element-in-size-2-n-array.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/961.%20N-Repeated%20Element%20in%20Size%202N%20Array/961.n-repeated-element-in-size-2-n-array.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/961.%20N-Repeated%20Element%20in%20Size%202N%20Array/961.n-repeated-element-in-size-2-n-array.java)|
 |976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/976.%20Largest%20Perimeter%20Triangle/976.largest-perimeter-triangle.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/976.%20Largest%20Perimeter%20Triangle/976.largest-perimeter-triangle.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/976.%20Largest%20Perimeter%20Triangle/976.largest-perimeter-triangle.java)|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/977.%20Squares%20of%20a%20Sorted%20Array/977.squares-of-a-sorted-array.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/977.%20Squares%20of%20a%20Sorted%20Array/977.squares-of-a-sorted-array.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/977.%20Squares%20of%20a%20Sorted%20Array/977.squares-of-a-sorted-array.java)|
