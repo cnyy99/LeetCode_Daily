@@ -74,7 +74,7 @@ public:
         {
             return true;
         }
-        if (!p && q || !q && p || p->val != q->val)
+        if (!p || !q || p->val != q->val)
         {
             return false;
         }
