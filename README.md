@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **76** / **1023** problems while **153** are still locked.
+In this repository, I have solved **77** / **1023** problems while **153** are still locked.
 
 Completion statistic: 
-1. Python: 76
-2. C++: 76
-3. Java: 76
+1. Python: 77
+2. C++: 77
+3. Java: 77
 ----------------
 ## LeetCode Solution Table
 <div align=center>
@@ -40,6 +40,7 @@ Completion statistic:
 |088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/088.%20Merge%20Sorted%20Array/88.merge-sorted-array.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/088.%20Merge%20Sorted%20Array/88.merge-sorted-array.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/088.%20Merge%20Sorted%20Array/88.merge-sorted-array.java)|
 |098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/098.%20Validate%20Binary%20Search%20Tree/98.validate-binary-search-tree.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/098.%20Validate%20Binary%20Search%20Tree/98.validate-binary-search-tree.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/098.%20Validate%20Binary%20Search%20Tree/98.validate-binary-search-tree.java)|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/100.%20Same%20Tree/100.same-tree.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/100.%20Same%20Tree/100.same-tree.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/100.%20Same%20Tree/100.same-tree.java)|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/101.%20Symmetric%20Tree/101.symmetric-tree.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/101.%20Symmetric%20Tree/101.symmetric-tree.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/101.%20Symmetric%20Tree/101.symmetric-tree.java)|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/104.%20Maximum%20Depth%20of%20Binary%20Tree/104.maximum-depth-of-binary-tree.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/104.%20Maximum%20Depth%20of%20Binary%20Tree/104.maximum-depth-of-binary-tree.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/104.%20Maximum%20Depth%20of%20Binary%20Tree/104.maximum-depth-of-binary-tree.java)|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/111.%20Minimum%20Depth%20of%20Binary%20Tree/111.minimum-depth-of-binary-tree.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/111.%20Minimum%20Depth%20of%20Binary%20Tree/111.minimum-depth-of-binary-tree.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/111.%20Minimum%20Depth%20of%20Binary%20Tree/111.minimum-depth-of-binary-tree.java)|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/118.%20Pascal's%20Triangle/118.pascals-triangle.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/118.%20Pascal's%20Triangle/118.pascals-triangle.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/118.%20Pascal's%20Triangle/118.pascals-triangle.java)|
