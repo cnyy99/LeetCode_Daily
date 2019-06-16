@@ -81,6 +81,7 @@ public:
         if (abs(left - right) > 1)
         {
             result = false;
+            return 0;
         }
         return 1 + max(left, right);
     }

@@ -72,6 +72,7 @@ class Solution {
         int right = reBalanced(root.right);
         if (Math.abs(left - right) > 1) {
             result = false;
+            return 0;
         }
         return 1 + Math.max(left, right);
     }

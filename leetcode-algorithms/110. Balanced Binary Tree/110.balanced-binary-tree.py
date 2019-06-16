@@ -69,6 +69,7 @@ class Solution:
             right = reBalanced(root.right)
             if abs(left - right) > 1:
                 self.result = False
+                return 0
             return 1 + max(left, right)
         reBalanced(root)
         return self.result
