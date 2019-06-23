@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **84** / **1031** problems while **157** are still locked.
+In this repository, I have solved **85** / **1035** problems while **157** are still locked.
 
 Completion statistic: 
-1. Python: 84
-2. C++: 84
-3. Java: 84
+1. Python: 85
+2. C++: 85
+3. Java: 85
 ----------------
 ## LeetCode Solution Table
 <div align=center>
@@ -49,6 +49,7 @@ Completion statistic:
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/104.%20Maximum%20Depth%20of%20Binary%20Tree/104.maximum-depth-of-binary-tree.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/104.%20Maximum%20Depth%20of%20Binary%20Tree/104.maximum-depth-of-binary-tree.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/104.%20Maximum%20Depth%20of%20Binary%20Tree/104.maximum-depth-of-binary-tree.java)|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/110.%20Balanced%20Binary%20Tree/110.balanced-binary-tree.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/110.%20Balanced%20Binary%20Tree/110.balanced-binary-tree.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/110.%20Balanced%20Binary%20Tree/110.balanced-binary-tree.java)|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/111.%20Minimum%20Depth%20of%20Binary%20Tree/111.minimum-depth-of-binary-tree.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/111.%20Minimum%20Depth%20of%20Binary%20Tree/111.minimum-depth-of-binary-tree.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/111.%20Minimum%20Depth%20of%20Binary%20Tree/111.minimum-depth-of-binary-tree.java)|
+|112|[Path Sum](https://leetcode.com/problems/path-sum/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/112.%20Path%20Sum/112.path-sum.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/112.%20Path%20Sum/112.path-sum.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/112.%20Path%20Sum/112.path-sum.java)|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/118.%20Pascal's%20Triangle/118.pascals-triangle.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/118.%20Pascal's%20Triangle/118.pascals-triangle.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/118.%20Pascal's%20Triangle/118.pascals-triangle.java)|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/119.%20Pascal's%20Triangle%20II/119.pascals-triangle-ii.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/119.%20Pascal's%20Triangle%20II/119.pascals-triangle-ii.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/119.%20Pascal's%20Triangle%20II/119.pascals-triangle-ii.java)|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/121.best-time-to-buy-and-sell-stock.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/121.best-time-to-buy-and-sell-stock.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/121.best-time-to-buy-and-sell-stock.java)|
