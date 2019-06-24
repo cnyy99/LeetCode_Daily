@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **85** / **1035** problems while **157** are still locked.
+In this repository, I have solved **86** / **1035** problems while **157** are still locked.
 
 Completion statistic: 
-1. Python: 85
-2. C++: 85
-3. Java: 85
+1. Python: 86
+2. C++: 86
+3. Java: 86
 ----------------
 ## LeetCode Solution Table
 <div align=center>
@@ -61,6 +61,7 @@ Completion statistic:
 |202|[Happy Number](https://leetcode.com/problems/happy-number/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/202.%20Happy%20Number/202.happy-number.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/202.%20Happy%20Number/202.happy-number.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/202.%20Happy%20Number/202.happy-number.java)|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/217.%20Contains%20Duplicate/217.contains-duplicate.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/217.%20Contains%20Duplicate/217.contains-duplicate.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/217.%20Contains%20Duplicate/217.contains-duplicate.java)|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/219.%20Contains%20Duplicate%20II/219.contains-duplicate-ii.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/219.%20Contains%20Duplicate%20II/219.contains-duplicate-ii.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/219.%20Contains%20Duplicate%20II/219.contains-duplicate-ii.java)|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/226.%20Invert%20Binary%20Tree/226.invert-binary-tree.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/226.%20Invert%20Binary%20Tree/226.invert-binary-tree.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/226.%20Invert%20Binary%20Tree/226.invert-binary-tree.java)|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/228.%20Summary%20Ranges/228.summary-ranges.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/228.%20Summary%20Ranges/228.summary-ranges.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/228.%20Summary%20Ranges/228.summary-ranges.java)|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/238.%20Product%20of%20Array%20Except%20Self/238.product-of-array-except-self.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/238.%20Product%20of%20Array%20Except%20Self/238.product-of-array-except-self.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/238.%20Product%20of%20Array%20Except%20Self/238.product-of-array-except-self.java)|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/268.%20Missing%20Number/268.missing-number.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/268.%20Missing%20Number/268.missing-number.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/268.%20Missing%20Number/268.missing-number.java)|
