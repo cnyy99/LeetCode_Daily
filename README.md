@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **87** / **1035** problems while **157** are still locked.
+In this repository, I have solved **88** / **1039** problems while **161** are still locked.
 
 Completion statistic: 
-1. Python: 87
-2. C++: 87
-3. Java: 87
+1. Python: 88
+2. C++: 88
+3. Java: 88
 ----------------
 ## LeetCode Solution Table
 <div align=center>
@@ -26,6 +26,7 @@ Completion statistic:
 |013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/013.%20Roman%20to%20Integer/13.roman-to-integer.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/013.%20Roman%20to%20Integer/13.roman-to-integer.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/013.%20Roman%20to%20Integer/13.roman-to-integer.java)|
 |016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/016.%203Sum%20Closest/16.3-sum-closest.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/016.%203Sum%20Closest/16.3-sum-closest.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/016.%203Sum%20Closest/16.3-sum-closest.java)|
 |020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/020.%20Valid%20Parentheses/20.valid-parentheses.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/020.%20Valid%20Parentheses/20.valid-parentheses.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/020.%20Valid%20Parentheses/20.valid-parentheses.java)|
+|021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/021.%20Merge%20Two%20Sorted%20Lists/21.merge-two-sorted-lists.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/021.%20Merge%20Two%20Sorted%20Lists/21.merge-two-sorted-lists.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/021.%20Merge%20Two%20Sorted%20Lists/21.merge-two-sorted-lists.java)|
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/026.%20Remove%20Duplicates%20from%20Sorted%20Array/26.remove-duplicates-from-sorted-array.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/026.%20Remove%20Duplicates%20from%20Sorted%20Array/26.remove-duplicates-from-sorted-array.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/026.%20Remove%20Duplicates%20from%20Sorted%20Array/26.remove-duplicates-from-sorted-array.java)|
 |027|[Remove Element](https://leetcode.com/problems/remove-element/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/027.%20Remove%20Element/27.remove-element.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/027.%20Remove%20Element/27.remove-element.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/027.%20Remove%20Element/27.remove-element.java)|
 |028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/028.%20Implement%20strStr()/28.implement-str-str.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/028.%20Implement%20strStr()/28.implement-str-str.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/028.%20Implement%20strStr()/28.implement-str-str.java)|
