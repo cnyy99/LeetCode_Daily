@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **89** / **1043** problems while **161** are still locked.
+In this repository, I have solved **90** / **1043** problems while **161** are still locked.
 
 Completion statistic: 
-1. Python: 89
-2. C++: 89
-3. Java: 89
+1. Python: 90
+2. C++: 90
+3. Java: 90
 ----------------
 ## LeetCode Solution Table
 <div align=center>
@@ -60,6 +60,7 @@ Completion statistic:
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/162.%20Find%20Peak%20Element/162.find-peak-element.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/162.%20Find%20Peak%20Element/162.find-peak-element.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/162.%20Find%20Peak%20Element/162.find-peak-element.java)|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/167.two-sum-ii-input-array-is-sorted.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/167.two-sum-ii-input-array-is-sorted.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/167.two-sum-ii-input-array-is-sorted.java)|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/169.%20Majority%20Element/169.majority-element.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/169.%20Majority%20Element/169.majority-element.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/169.%20Majority%20Element/169.majority-element.java)|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/191.%20Number%20of%201%20Bits/191.number-of-1-bits.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/191.%20Number%20of%201%20Bits/191.number-of-1-bits.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/191.%20Number%20of%201%20Bits/191.number-of-1-bits.java)|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/202.%20Happy%20Number/202.happy-number.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/202.%20Happy%20Number/202.happy-number.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/202.%20Happy%20Number/202.happy-number.java)|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/204.%20Count%20Primes/204.count-primes.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/204.%20Count%20Primes/204.count-primes.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/204.%20Count%20Primes/204.count-primes.java)|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/217.%20Contains%20Duplicate/217.contains-duplicate.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/217.%20Contains%20Duplicate/217.contains-duplicate.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/217.%20Contains%20Duplicate/217.contains-duplicate.java)|
