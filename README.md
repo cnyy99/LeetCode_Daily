@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **91** / **1043** problems while **161** are still locked.
+In this repository, I have solved **92** / **1043** problems while **161** are still locked.
 
 Completion statistic: 
-1. Python: 91
-2. C++: 91
-3. Java: 91
+1. Python: 92
+2. C++: 92
+3. Java: 92
 ----------------
 ## LeetCode Solution Table
 <div align=center>
@@ -71,6 +71,7 @@ Completion statistic:
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/268.%20Missing%20Number/268.missing-number.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/268.%20Missing%20Number/268.missing-number.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/268.%20Missing%20Number/268.missing-number.java)|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/283.%20Move%20Zeroes/283.move-zeroes.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/283.%20Move%20Zeroes/283.move-zeroes.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/283.%20Move%20Zeroes/283.move-zeroes.java)|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/287.%20Find%20the%20Duplicate%20Number/287.find-the-duplicate-number.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/287.%20Find%20the%20Duplicate%20Number/287.find-the-duplicate-number.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/287.%20Find%20the%20Duplicate%20Number/287.find-the-duplicate-number.java)|
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/387.%20First%20Unique%20Character%20in%20a%20String/387.first-unique-character-in-a-string.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/387.%20First%20Unique%20Character%20in%20a%20String/387.first-unique-character-in-a-string.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/387.%20First%20Unique%20Character%20in%20a%20String/387.first-unique-character-in-a-string.java)|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/389.%20Find%20the%20Difference/389.find-the-difference.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/389.%20Find%20the%20Difference/389.find-the-difference.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/389.%20Find%20the%20Difference/389.find-the-difference.java)|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/442.%20Find%20All%20Duplicates%20in%20an%20Array/442.find-all-duplicates-in-an-array.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/442.%20Find%20All%20Duplicates%20in%20an%20Array/442.find-all-duplicates-in-an-array.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/442.%20Find%20All%20Duplicates%20in%20an%20Array/442.find-all-duplicates-in-an-array.java)|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/448.find-all-numbers-disappeared-in-an-array.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/448.find-all-numbers-disappeared-in-an-array.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/448.find-all-numbers-disappeared-in-an-array.java)|
