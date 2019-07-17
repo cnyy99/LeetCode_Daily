@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **93** / **1043** problems while **161** are still locked.
+In this repository, I have solved **94** / **1055** problems while **165** are still locked.
 
 Completion statistic: 
-1. Python: 93
-2. C++: 93
-3. Java: 93
+1. Python: 94
+2. C++: 94
+3. Java: 94
 ----------------
 ## LeetCode Solution Table
 <div align=center>
@@ -88,6 +88,7 @@ Completion statistic:
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/674.%20Longest%20Continuous%20Increasing%20Subsequence/674.longest-continuous-increasing-subsequence.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/674.%20Longest%20Continuous%20Increasing%20Subsequence/674.longest-continuous-increasing-subsequence.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/674.%20Longest%20Continuous%20Increasing%20Subsequence/674.longest-continuous-increasing-subsequence.java)|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/695.%20Max%20Area%20of%20Island/695.max-area-of-island.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/695.%20Max%20Area%20of%20Island/695.max-area-of-island.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/695.%20Max%20Area%20of%20Island/695.max-area-of-island.java)|
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/697.%20Degree%20of%20an%20Array/697.degree-of-an-array.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/697.%20Degree%20of%20an%20Array/697.degree-of-an-array.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/697.%20Degree%20of%20an%20Array/697.degree-of-an-array.java)|
+|705|[Design HashSet](https://leetcode.com/problems/design-hashset/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/705.%20Design%20HashSet/705.design-hash-set.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/705.%20Design%20HashSet/705.design-hash-set.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/705.%20Design%20HashSet/705.design-hash-set.java)|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/709.%20To%20Lower%20Case/709.to-lower-case.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/709.%20To%20Lower%20Case/709.to-lower-case.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/709.%20To%20Lower%20Case/709.to-lower-case.java)|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/717.%201-bit%20and%202-bit%20Characters/717.1-bit-and-2-bit-characters.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/717.%201-bit%20and%202-bit%20Characters/717.1-bit-and-2-bit-characters.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/717.%201-bit%20and%202-bit%20Characters/717.1-bit-and-2-bit-characters.java)|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/724.%20Find%20Pivot%20Index/724.find-pivot-index.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/724.%20Find%20Pivot%20Index/724.find-pivot-index.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/724.%20Find%20Pivot%20Index/724.find-pivot-index.java)|
