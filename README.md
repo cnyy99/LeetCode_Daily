@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **102** / **1059** problems while **165** are still locked.
+In this repository, I have solved **103** / **1063** problems while **169** are still locked.
 
 Completion statistic: 
-1. Python: 102
-2. C++: 102
-3. Java: 101
+1. Python: 103
+2. C++: 103
+3. Java: 102
 ----------------
 ## LeetCode Solution Table
 <div align=center>
@@ -119,5 +119,6 @@ Completion statistic:
 |976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/976.%20Largest%20Perimeter%20Triangle/976.largest-perimeter-triangle.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/976.%20Largest%20Perimeter%20Triangle/976.largest-perimeter-triangle.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/976.%20Largest%20Perimeter%20Triangle/976.largest-perimeter-triangle.java)|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/977.%20Squares%20of%20a%20Sorted%20Array/977.squares-of-a-sorted-array.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/977.%20Squares%20of%20a%20Sorted%20Array/977.squares-of-a-sorted-array.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/977.%20Squares%20of%20a%20Sorted%20Array/977.squares-of-a-sorted-array.java)|
 |989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/989.%20Add%20to%20Array-Form%20of%20Integer/989.add-to-array-form-of-integer.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/989.%20Add%20to%20Array-Form%20of%20Integer/989.add-to-array-form-of-integer.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/989.%20Add%20to%20Array-Form%20of%20Integer/989.add-to-array-form-of-integer.java)|
+|991|[Broken Calculator](https://leetcode.com/problems/broken-calculator/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/991.%20Broken%20Calculator/991.broken-calculator.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/991.%20Broken%20Calculator/991.broken-calculator.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/991.%20Broken%20Calculator/991.broken-calculator.java)|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/1002.%20Find%20Common%20Characters/1002.find-common-characters.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/1002.%20Find%20Common%20Characters/1002.find-common-characters.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/1002.%20Find%20Common%20Characters/1002.find-common-characters.java)|
 </div>
