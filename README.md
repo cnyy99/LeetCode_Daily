@@ -6,11 +6,11 @@
 
 </div>
 
-In this repository, I have solved **104** / **1067** problems while **169** are still locked.
+In this repository, I have solved **105** / **1068** problems while **169** are still locked.
 
 Completion statistic: 
 1. Python: 104
-2. C++: 104
+2. C++: 105
 3. Java: 103
 ----------------
 ## LeetCode Solution Table
@@ -104,6 +104,7 @@ Completion statistic:
 |766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/766.%20Toeplitz%20Matrix/766.toeplitz-matrix.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/766.%20Toeplitz%20Matrix/766.toeplitz-matrix.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/766.%20Toeplitz%20Matrix/766.toeplitz-matrix.java)|
 |769|[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/769.%20Max%20Chunks%20To%20Make%20Sorted/769.max-chunks-to-make-sorted.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/769.%20Max%20Chunks%20To%20Make%20Sorted/769.max-chunks-to-make-sorted.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/769.%20Max%20Chunks%20To%20Make%20Sorted/769.max-chunks-to-make-sorted.java)|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/771.%20Jewels%20and%20Stones/771.jewels-and-stones.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/771.%20Jewels%20and%20Stones/771.jewels-and-stones.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/771.%20Jewels%20and%20Stones/771.jewels-and-stones.java)|
+|791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) |Medium|To Do|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/791.%20Custom%20Sort%20String/791.custom-sort-string.cpp)|To Do|
 |830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/830.%20Positions%20of%20Large%20Groups/830.positions-of-large-groups.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/830.%20Positions%20of%20Large%20Groups/830.positions-of-large-groups.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/830.%20Positions%20of%20Large%20Groups/830.positions-of-large-groups.java)|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/832.%20Flipping%20an%20Image/832.flipping-an-image.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/832.%20Flipping%20an%20Image/832.flipping-an-image.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/832.%20Flipping%20an%20Image/832.flipping-an-image.java)|
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/867.%20Transpose%20Matrix/867.transpose-matrix.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/867.%20Transpose%20Matrix/867.transpose-matrix.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/867.%20Transpose%20Matrix/867.transpose-matrix.java)|
