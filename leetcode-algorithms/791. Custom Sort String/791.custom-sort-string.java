@@ -1,5 +1,5 @@
 /*
- * @lc app=leetcode id=791 lang=cpp
+ * @lc app=leetcode id=791 lang=java
  *
  * [791] Custom Sort String
  *
@@ -47,33 +47,32 @@
  * 
  * 
  */
-class Solution
-{
-public:
-    string customSortString(string S, string T)
-    {
-        unordered_set<char> sset;
-        string st = "";
-        unordered_map<char, int> tmap;
-        for (char ch : S)
+class Solution {
+    public String customSortString(String S, String T) {
+        Set<Character> sset=new HashSet<>();
+        StringBuilder st = new StringBuilder("");
+        int[]tmap=new int[26];
+        Arrays.fill(tmap, 0);
+        char[] sCharArray = S.toCharArray();
+        for (Character ch : sCharArray)
         {
-            sset.insert(ch);
+            sset.add(ch);
         }
-        for (char ch : T)
+        for (Character ch : T.toCharArray())
         {
-            tmap[ch]++;
-            if (!sset.count(ch))
+            tmap[ch-'a']++;
+            if (!sset.contains(ch))
             {
-                st += ch;
+                st .append(ch);
             }
         }
-        for (char ch : S)
+        for (Character ch : sCharArray)
         {
-            for (int i = 0; i < tmap[ch]; i++)
+            for (int i = 0; i < tmap[ch-'a']; i++)
             {
-                st += ch;
+                st .append(ch);
             }
         }
-        return st;
+        return st.toString();
     }
-};
+}
