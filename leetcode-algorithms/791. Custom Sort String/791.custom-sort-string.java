@@ -50,7 +50,7 @@
 class Solution {
     public String customSortString(String S, String T) {
         Set<Character> sset=new HashSet<>();
-        StringBuilder st = new StringBuilder("");
+        StringBuilder st = new StringBuilder();
         int[]tmap=new int[26];
         Arrays.fill(tmap, 0);
         char[] sCharArray = S.toCharArray();
@@ -63,14 +63,14 @@ class Solution {
             tmap[ch-'a']++;
             if (!sset.contains(ch))
             {
-                st .append(ch);
+                st.append(ch);
             }
         }
         for (Character ch : sCharArray)
         {
             for (int i = 0; i < tmap[ch-'a']; i++)
             {
-                st .append(ch);
+                st.append(ch);
             }
         }
         return st.toString();

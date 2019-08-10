@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **105** / **1072** problems while **169** are still locked.
+In this repository, I have solved **106** / **1072** problems while **169** are still locked.
 
 Completion statistic: 
-1. Python: 105
-2. C++: 105
-3. Java: 104
+1. Python: 106
+2. C++: 106
+3. Java: 105
 ----------------
 ## LeetCode Solution Table
 <div align=center>
@@ -68,6 +68,7 @@ Completion statistic:
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/191.%20Number%20of%201%20Bits/191.number-of-1-bits.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/191.%20Number%20of%201%20Bits/191.number-of-1-bits.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/191.%20Number%20of%201%20Bits/191.number-of-1-bits.java)|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/202.%20Happy%20Number/202.happy-number.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/202.%20Happy%20Number/202.happy-number.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/202.%20Happy%20Number/202.happy-number.java)|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/204.%20Count%20Primes/204.count-primes.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/204.%20Count%20Primes/204.count-primes.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/204.%20Count%20Primes/204.count-primes.java)|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/205.%20Isomorphic%20Strings/205.isomorphic-strings.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/205.%20Isomorphic%20Strings/205.isomorphic-strings.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/205.%20Isomorphic%20Strings/205.isomorphic-strings.java)|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/217.%20Contains%20Duplicate/217.contains-duplicate.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/217.%20Contains%20Duplicate/217.contains-duplicate.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/217.%20Contains%20Duplicate/217.contains-duplicate.java)|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/219.%20Contains%20Duplicate%20II/219.contains-duplicate-ii.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/219.%20Contains%20Duplicate%20II/219.contains-duplicate-ii.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/219.%20Contains%20Duplicate%20II/219.contains-duplicate-ii.java)|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/226.%20Invert%20Binary%20Tree/226.invert-binary-tree.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/226.%20Invert%20Binary%20Tree/226.invert-binary-tree.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/226.%20Invert%20Binary%20Tree/226.invert-binary-tree.java)|
