@@ -79,7 +79,7 @@
 class Solution:
     def addToArrayForm(self, A: List[int], K: int) -> List[int]:
         sizeTable = [9, 99, 999, 9999, 99999,
-                     999999, 9999999, 99999999, 999999999]
+                    999999, 9999999, 99999999, 999999999]
 
         def stringSize(x):
             for i in range(len(sizeTable)):
