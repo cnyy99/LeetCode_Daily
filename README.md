@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **106** / **1072** problems while **169** are still locked.
+In this repository, I have solved **107** / **1072** problems while **169** are still locked.
 
 Completion statistic: 
-1. Python: 106
-2. C++: 106
-3. Java: 105
+1. Python: 107
+2. C++: 107
+3. Java: 106
 ----------------
 ## LeetCode Solution Table
 <div align=center>
@@ -25,6 +25,7 @@ Completion statistic:
 |011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/011.%20Container%20With%20Most%20Water/11.container-with-most-water.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/011.%20Container%20With%20Most%20Water/11.container-with-most-water.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/011.%20Container%20With%20Most%20Water/11.container-with-most-water.java)|
 |013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/013.%20Roman%20to%20Integer/13.roman-to-integer.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/013.%20Roman%20to%20Integer/13.roman-to-integer.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/013.%20Roman%20to%20Integer/13.roman-to-integer.java)|
 |016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/016.%203Sum%20Closest/16.3-sum-closest.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/016.%203Sum%20Closest/16.3-sum-closest.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/016.%203Sum%20Closest/16.3-sum-closest.java)|
+|019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/019.%20Remove%20Nth%20Node%20From%20End%20of%20List/19.remove-nth-node-from-end-of-list.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/019.%20Remove%20Nth%20Node%20From%20End%20of%20List/19.remove-nth-node-from-end-of-list.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/019.%20Remove%20Nth%20Node%20From%20End%20of%20List/19.remove-nth-node-from-end-of-list.java)|
 |020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/020.%20Valid%20Parentheses/20.valid-parentheses.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/020.%20Valid%20Parentheses/20.valid-parentheses.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/020.%20Valid%20Parentheses/20.valid-parentheses.java)|
 |021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/021.%20Merge%20Two%20Sorted%20Lists/21.merge-two-sorted-lists.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/021.%20Merge%20Two%20Sorted%20Lists/21.merge-two-sorted-lists.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/021.%20Merge%20Two%20Sorted%20Lists/21.merge-two-sorted-lists.java)|
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/026.%20Remove%20Duplicates%20from%20Sorted%20Array/26.remove-duplicates-from-sorted-array.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/026.%20Remove%20Duplicates%20from%20Sorted%20Array/26.remove-duplicates-from-sorted-array.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/026.%20Remove%20Duplicates%20from%20Sorted%20Array/26.remove-duplicates-from-sorted-array.java)|
