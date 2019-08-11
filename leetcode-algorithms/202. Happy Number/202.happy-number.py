@@ -44,7 +44,7 @@ class Solution:
                 n //= 10
             return ans
         rep = [False for _ in range(1000)]
-        n =int(getNumSum(n))
+        n = int(getNumSum(n))
         while not rep[n]:
             rep[n] = True
             if n == 1:

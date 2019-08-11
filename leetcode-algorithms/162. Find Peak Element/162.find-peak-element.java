@@ -49,23 +49,16 @@
 class Solution {
     public int findPeakElement(int[] nums) {
         int left = 0, right = nums.length - 1;
-        while (left < right - 1)
-        {
+        while (left < right - 1) {
             int medium = (left + right) / 2;
-            if (nums[medium] > nums[medium - 1] && nums[medium] > nums[medium + 1])
-            {
+            if (nums[medium] > nums[medium - 1] && nums[medium] > nums[medium + 1]) {
                 return medium;
-            }
-            else if (nums[medium] > nums[medium - 1])
-            {
+            } else if (nums[medium] > nums[medium - 1]) {
                 left = medium + 1;
-            }
-            else
-            {
+            } else {
                 right = medium - 1;
             }
         }
         return nums[left] > nums[right] ? left : right;
     }
 }
-

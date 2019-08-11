@@ -57,18 +57,18 @@ public:
         {
             ListNode *temp = new ListNode(0);
             int val1, val2;
-            val1 = p1? p1->val:0;
-            p1 = p1? p1->next:p1;
-            val2 = p2? p2->val:0;
-            p2 = p2? p2->next:p2;
+            val1 = p1 ? p1->val : 0;
+            p1 = p1 ? p1->next : p1;
+            val2 = p2 ? p2->val : 0;
+            p2 = p2 ? p2->next : p2;
             temp->next = NULL;
-            temp->val = val1+val2+plus;
+            temp->val = val1 + val2 + plus;
             plus = temp->val / 10;
             temp->val %= 10;
             sol->next = temp;
             sol = sol->next;
         }
-        if(plus)
+        if (plus)
         {
             ListNode *temp = new ListNode(0);
             temp->next = NULL;

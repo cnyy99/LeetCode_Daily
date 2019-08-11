@@ -55,17 +55,16 @@
 class Solution {
     public List<List<Integer>> largeGroupPositions(String S) {
         List<List<Integer>> result = new ArrayList<>();
-        int i = 1,j=0;
-        while(i< S.length()) {
-            while (i < S.length() && S.charAt(i) ==  S.charAt(j)){
+        int i = 1, j = 0;
+        while (i < S.length()) {
+            while (i < S.length() && S.charAt(i) == S.charAt(j)) {
                 i++;
             }
-            if (((i-1) - j) >= 2) {
-                result.add(new ArrayList<Integer>(Arrays.asList(j, i-1)));
+            if (((i - 1) - j) >= 2) {
+                result.add(new ArrayList<Integer>(Arrays.asList(j, i - 1)));
             }
             j = i++;
         }
         return result;
     }
 }
-

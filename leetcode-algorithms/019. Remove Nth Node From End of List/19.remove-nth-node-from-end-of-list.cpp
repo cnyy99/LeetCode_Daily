@@ -42,17 +42,19 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
-class Solution {
+class Solution
+{
 public:
-    ListNode* removeNthFromEnd(ListNode* head, int n) {
+    ListNode *removeNthFromEnd(ListNode *head, int n)
+    {
         ListNode newHead = ListNode(-1);
         newHead.next = head;
-        ListNode* slow = &newHead, *fast = &newHead;
-        for (int i = 0; i < n;i++)
+        ListNode *slow = &newHead, *fast = &newHead;
+        for (int i = 0; i < n; i++)
         {
             fast = fast->next;
         }
-        while(fast->next)
+        while (fast->next)
         {
             slow = slow->next;
             fast = fast->next;

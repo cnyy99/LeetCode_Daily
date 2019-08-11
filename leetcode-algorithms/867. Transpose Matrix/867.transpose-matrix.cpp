@@ -46,20 +46,21 @@
  * 
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    vector<vector<int>> transpose(vector<vector<int>>& A) {
-        vector<vector<int>> map(A[0].size(), vector<int>(A.size(),0));
+    vector<vector<int>> transpose(vector<vector<int>> &A)
+    {
+        vector<vector<int>> map(A[0].size(), vector<int>(A.size(), 0));
         //map.resize(A[0].size());
-        for(int i=0;i<A[0].size();i++)
+        for (int i = 0; i < A[0].size(); i++)
         {
             //map[i].resize(A.size());
-            for(int j=0;j<A.size();j++)
+            for (int j = 0; j < A.size(); j++)
             {
-                map[i][j]=A[j][i];
+                map[i][j] = A[j][i];
             }
         }
         return map;
     }
 };
-

@@ -66,10 +66,12 @@
  * 
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    vector<vector<int>> matrixReshape(vector<vector<int>>& nums, int r, int c) {
-        if(r*c!=nums.size()*nums[0].size())
+    vector<vector<int>> matrixReshape(vector<vector<int>> &nums, int r, int c)
+    {
+        if (r * c != nums.size() * nums[0].size())
         {
             return nums;
         }
@@ -79,14 +81,13 @@ public:
         // {
         //     temp.insert(temp.begin(),nums[i].begin(),nums[i].end());
         // }
-        for(int i=0,k=0;i<r;i++)
+        for (int i = 0, k = 0; i < r; i++)
         {
-            for(int j=0;j<c;j++,k++)
+            for (int j = 0; j < c; j++, k++)
             {
-                sol[i][j]=nums[k/nums[0].size()][k%nums[0].size()];
+                sol[i][j] = nums[k / nums[0].size()][k % nums[0].size()];
             }
         }
         return sol;
     }
 };
-

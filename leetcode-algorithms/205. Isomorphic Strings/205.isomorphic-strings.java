@@ -46,7 +46,7 @@
  */
 class Solution {
     public boolean isIsomorphic(String s, String t) {
-        int[] maps = new int[128],mapt = new int[128];
+        int[] maps = new int[128], mapt = new int[128];
         for (int i = 0; i < s.length(); i++) {
             if (maps[s.charAt(i)] != mapt[t.charAt(i)]) {
                 return false;

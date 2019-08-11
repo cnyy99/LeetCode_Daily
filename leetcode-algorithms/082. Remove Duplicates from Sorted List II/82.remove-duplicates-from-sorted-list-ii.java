@@ -44,7 +44,7 @@ class Solution {
         phead.next = head;
         ListNode p = phead;
         ListNode q = head;
-        while (q!=null) {
+        while (q != null) {
             while (q.next != null && q.val == q.next.val) {
                 q = q.next;
             }

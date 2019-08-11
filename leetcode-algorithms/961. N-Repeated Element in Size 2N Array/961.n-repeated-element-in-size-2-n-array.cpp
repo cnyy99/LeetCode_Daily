@@ -59,13 +59,15 @@
  * 
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    int repeatedNTimes(vector<int>& A) {
+    int repeatedNTimes(vector<int> &A)
+    {
         vector<bool> sol(10000, false);
-        for(auto &t:A)
+        for (auto &t : A)
         {
-            if(!sol[t])
+            if (!sol[t])
             {
                 sol[t] = true;
             }
@@ -77,4 +79,3 @@ public:
         return 0;
     }
 };
-

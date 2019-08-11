@@ -37,14 +37,12 @@
  */
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        Set<Integer>map = new HashSet<>();
-        for(int t:nums)
-        {
-            
-            if(!map.add(t))
+        Set<Integer> map = new HashSet<>();
+        for (int t : nums) {
+
+            if (!map.add(t))
                 return true;
         }
         return false;
     }
 }
-

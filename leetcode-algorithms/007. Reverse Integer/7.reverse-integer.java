@@ -45,37 +45,31 @@ class Solution {
     public int reverse(int x) {
         boolean t = true;
         long newx = x;
-        if(newx<0)
-        {
-            newx=-newx;
-            t= false;
+        if (newx < 0) {
+            newx = -newx;
+            t = false;
         }
-        long n=0;
-        if(0<=newx&&newx<10)
-        {
-            if(t)
-                return (int)newx;
+        long n = 0;
+        if (0 <= newx && newx < 10) {
+            if (t)
+                return (int) newx;
             else
-                return (int)-newx;
+                return (int) -newx;
         }
-        while(newx>0)
-        {
-            n=newx%10+(n*10);
-            if(n>Integer.MAX_VALUE&&t)
-            {
+        while (newx > 0) {
+            n = newx % 10 + (n * 10);
+            if (n > Integer.MAX_VALUE && t) {
                 return 0;
             }
-            if(-n<Integer.MIN_VALUE&&!t)
-            {
+            if (-n < Integer.MIN_VALUE && !t) {
                 return 0;
             }
-    //        std::cout<<old<<"\t"<<n<<std::endl;
-            newx=newx/10;
+            // std::cout<<old<<"\t"<<n<<std::endl;
+            newx = newx / 10;
         }
-        if(t)
-            return (int)n;
+        if (t)
+            return (int) n;
         else
-            return (int)-n;
+            return (int) -n;
     }
 }
-

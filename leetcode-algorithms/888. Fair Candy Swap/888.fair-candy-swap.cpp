@@ -80,12 +80,14 @@
  * 
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    vector<int> fairCandySwap(vector<int>& A, vector<int>& B) {
+    vector<int> fairCandySwap(vector<int> &A, vector<int> &B)
+    {
         int dif = (accumulate(A.begin(), A.end(), 0) - accumulate(B.begin(), B.end(), 0)) / 2;
-        unordered_set<int>S(A.begin(), A.end());
-        for (auto b: B)
+        unordered_set<int> S(A.begin(), A.end());
+        for (auto b : B)
         {
             if (S.count(b + dif))
             {
@@ -95,4 +97,3 @@ public:
         return {};
     }
 };
-

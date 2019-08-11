@@ -58,23 +58,24 @@
  * 
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    int pivotIndex(vector<int>& nums) {
-        int sum=0,temp=0;
-        for(auto t:nums)
+    int pivotIndex(vector<int> &nums)
+    {
+        int sum = 0, temp = 0;
+        for (auto t : nums)
         {
-            sum+=t;
+            sum += t;
         }
-        for(int i=0;i<nums.size();i++)
+        for (int i = 0; i < nums.size(); i++)
         {
-            if(temp*2+nums[i]==sum)
+            if (temp * 2 + nums[i] == sum)
             {
                 return i;
             }
-            temp+=nums[i];
+            temp += nums[i];
         }
         return -1;
     }
 };
-

@@ -31,18 +31,20 @@
  * Note: You may assume the string contain only lowercase letters.
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    int firstUniqChar(string s) {
+    int firstUniqChar(string s)
+    {
         int result[26];
-        memset(result, 0, sizeof(int)*26);
-        for(auto t:s)
+        memset(result, 0, sizeof(int) * 26);
+        for (auto t : s)
         {
-            result[t-'a']++;
+            result[t - 'a']++;
         }
-        for (int i = 0; i < s.length();i++)
+        for (int i = 0; i < s.length(); i++)
         {
-            if(result[s[i]-'a']==1)
+            if (result[s[i] - 'a'] == 1)
             {
                 return i;
             }

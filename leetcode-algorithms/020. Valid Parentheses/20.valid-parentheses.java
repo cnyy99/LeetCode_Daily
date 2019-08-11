@@ -63,34 +63,32 @@
  */
 class Solution {
     public boolean isValid(String s) {
-        if(s.length()%2!=0)
+        if (s.length() % 2 != 0)
             return false;
-        Stack<Character> sol=new Stack<>();
+        Stack<Character> sol = new Stack<>();
         Map<Character, Character> m = new HashMap<>();
         m.put('[', ']');
         m.put('{', '}');
         m.put('(', ')');
-        for (int i = 0; i < s.length();i++)
-        {
-            switch(s.charAt(i)){
-                case '[':
-                case '{':
-                case '(':sol.push(s.charAt(i));
-                            break;
-                case ']':
-                case ')':
-                case '}':if(sol.size()==0)
-                        {
-                            return false;
-                        }
-                        if(s.charAt(i)==m.get(sol.peek()))
-                        {
-                            sol.pop();
-                        }
-                        break;
+        for (int i = 0; i < s.length(); i++) {
+            switch (s.charAt(i)) {
+            case '[':
+            case '{':
+            case '(':
+                sol.push(s.charAt(i));
+                break;
+            case ']':
+            case ')':
+            case '}':
+                if (sol.size() == 0) {
+                    return false;
+                }
+                if (s.charAt(i) == m.get(sol.peek())) {
+                    sol.pop();
+                }
+                break;
             }
         }
         return sol.size() == 0;
     }
 }
-

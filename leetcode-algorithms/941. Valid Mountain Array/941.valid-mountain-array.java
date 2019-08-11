@@ -71,25 +71,20 @@
  */
 class Solution {
     public boolean validMountainArray(int[] A) {
-        if (A == null || A.length <= 2)
-        {
+        if (A == null || A.length <= 2) {
             return false;
         }
         int N = A.length;
         int i = 0;
-        while (i < N - 1 && A[i] < A[i + 1])
-        {
+        while (i < N - 1 && A[i] < A[i + 1]) {
             i++;
         }
-        if (i == 0 || i == N - 1)
-        {
+        if (i == 0 || i == N - 1) {
             return false;
         }
-        while (i < N - 1 && A[i] > A[i + 1])
-        {
+        while (i < N - 1 && A[i] > A[i + 1]) {
             i++;
         }
         return i == N - 1;
     }
 }
-

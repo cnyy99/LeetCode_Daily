@@ -41,42 +41,44 @@
  * 
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    vector<vector<int>> imageSmoother(vector<vector<int>>& M) {
-        struct dir{
-            int a,b;
+    vector<vector<int>> imageSmoother(vector<vector<int>> &M)
+    {
+        struct dir
+        {
+            int a, b;
         };
         dir m[9];
-        for(int i=-1,k=0;i<2;i++)
+        for (int i = -1, k = 0; i < 2; i++)
         {
-            for(int j=-1;j<2;j++,k++)
+            for (int j = -1; j < 2; j++, k++)
             {
-                m[k].a=i;
-                m[k].b=j;
+                m[k].a = i;
+                m[k].b = j;
             }
         }
-        vector<vector<int>> sol(M.size(),vector<int>(M[0].size()));
-        for(auto i=0;i<M.size();i++)
+        vector<vector<int>> sol(M.size(), vector<int>(M[0].size()));
+        for (auto i = 0; i < M.size(); i++)
         {
-            for(auto j=0;j<M[0].size();j++)
+            for (auto j = 0; j < M[0].size(); j++)
             {
-                int sum=0,count=0;
-                for(int k=0;k<9;k++)
+                int sum = 0, count = 0;
+                for (int k = 0; k < 9; k++)
                 {
-                    int newi=i+m[k].a;
-                    int newj=j+m[k].b;
-                    if(newi>=0&&newi<M.size()&&newj>=0&&newj<M[0].size())
+                    int newi = i + m[k].a;
+                    int newj = j + m[k].b;
+                    if (newi >= 0 && newi < M.size() && newj >= 0 && newj < M[0].size())
                     {
-                        sum+=M[newi][newj]; 
+                        sum += M[newi][newj];
                         count++;
                     }
                 }
-                if(count)
-                    sol[i][j]=sum/count;
+                if (count)
+                    sol[i][j] = sum / count;
             }
         }
         return sol;
     }
 };
-

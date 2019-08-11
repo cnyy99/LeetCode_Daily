@@ -42,31 +42,32 @@
  * Note: The length of each dimension in the given grid does not exceed 50.
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    int depth(vector<vector<int>>& grid,int row,int col)
+    int depth(vector<vector<int>> &grid, int row, int col)
     {
-        if(row>=grid.size()||col>=grid[0].size()||row<0||col<0||grid[row][col]==0)
+        if (row >= grid.size() || col >= grid[0].size() || row < 0 || col < 0 || grid[row][col] == 0)
         {
             return 0;
         }
-        grid[row][col]=0;
-        return 1+depth(grid,row-1,col)+depth(grid,row+1,col)+depth(grid,row,col-1)+depth(grid,row,col+1);
+        grid[row][col] = 0;
+        return 1 + depth(grid, row - 1, col) + depth(grid, row + 1, col) + depth(grid, row, col - 1) + depth(grid, row, col + 1);
     }
-    int maxAreaOfIsland(vector<vector<int>>& grid) {
-        int maxarea=0;
-        for(int i=0;i<grid.size();i++)
+    int maxAreaOfIsland(vector<vector<int>> &grid)
+    {
+        int maxarea = 0;
+        for (int i = 0; i < grid.size(); i++)
         {
-            for(int j=0;j<grid[0].size();j++)
+            for (int j = 0; j < grid[0].size(); j++)
             {
-                if(!grid[i][j])
+                if (!grid[i][j])
                 {
                     continue;
                 }
-                maxarea=max(maxarea,depth(grid,i,j));
+                maxarea = max(maxarea, depth(grid, i, j));
             }
         }
         return maxarea;
     }
 };
-

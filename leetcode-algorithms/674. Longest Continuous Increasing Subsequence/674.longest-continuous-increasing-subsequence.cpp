@@ -40,22 +40,23 @@
  * Length of the array will not exceed 10,000.
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    int findLengthOfLCIS(vector<int>& nums) {
-        int  sol=0,count=0;
-        for(int i=0;i<nums.size();i++)
+    int findLengthOfLCIS(vector<int> &nums)
+    {
+        int sol = 0, count = 0;
+        for (int i = 0; i < nums.size(); i++)
         {
-            if(i==0||nums[i]>nums[i-1])
+            if (i == 0 || nums[i] > nums[i - 1])
             {
-                sol=max(++count,sol);
+                sol = max(++count, sol);
             }
             else
             {
-                count=1;
+                count = 1;
             }
         }
         return sol;
     }
 };
-

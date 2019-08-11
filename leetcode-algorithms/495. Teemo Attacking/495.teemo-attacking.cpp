@@ -65,20 +65,21 @@
  * 
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    int findPoisonedDuration(vector<int>& timeSeries, int duration) {
-        if(timeSeries.size()==0)
+    int findPoisonedDuration(vector<int> &timeSeries, int duration)
+    {
+        if (timeSeries.size() == 0)
         {
             return 0;
         }
-        int sol=0;
-        for(int i=timeSeries.size()-1;i>0;i--)
+        int sol = 0;
+        for (int i = timeSeries.size() - 1; i > 0; i--)
         {
-            int temp=timeSeries[i]-timeSeries[i-1];
-            sol+=temp>duration?duration:temp;
+            int temp = timeSeries[i] - timeSeries[i - 1];
+            sol += temp > duration ? duration : temp;
         }
-        return sol+duration;
+        return sol + duration;
     }
 };
-

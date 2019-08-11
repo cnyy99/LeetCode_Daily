@@ -29,9 +29,11 @@
  *
  *
  */
-class Solution {
+class Solution
+{
 public:
-    vector<int> twoSum(vector<int>& nums, int target) {
+    vector<int> twoSum(vector<int> &nums, int target)
+    {
         // vector<int>temp;
         // bool t=false;
         // for(int i=0;i<nums.size();i++)
@@ -53,18 +55,17 @@ public:
         //         break;
         // }
         // return temp;
-        map<int,int>a;
-        vector <int> sol(2);
-        for(int i=0;i<nums.size();i++)
+        map<int, int> a;
+        vector<int> sol(2);
+        for (int i = 0; i < nums.size(); i++)
         {
-            if(a.find(target-nums[i])!=a.end())
+            if (a.find(target - nums[i]) != a.end())
             {
-                sol[0]=a[target-nums[i]];
-                sol[1]=i;
+                sol[0] = a[target - nums[i]];
+                sol[1] = i;
             }
-            a[nums[i]]=i;
+            a[nums[i]] = i;
         }
         return sol;
     }
 };
-

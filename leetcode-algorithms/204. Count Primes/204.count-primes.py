@@ -30,12 +30,12 @@ class Solution:
     def countPrimes(self, n: int) -> int:
         if not n or n == 1:
             return 0
-        res=[False]*n
+        res = [False]*n
         res[0] = True
         res[1] = True
-        i=0
-        while i**2<n:
+        i = 0
+        while i**2 < n:
             if not res[i]:
-                res[i**2:n:i]=[True]*len(res[i**2:n:i])
+                res[i**2:n:i] = [True]*len(res[i**2:n:i])
             i += 1
         return res.count(False)

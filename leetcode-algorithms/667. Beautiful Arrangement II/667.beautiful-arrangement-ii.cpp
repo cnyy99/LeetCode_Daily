@@ -48,31 +48,34 @@
  * 
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    vector<int> constructArray(int n, int k) {
-        vector<int>sol;
-        int first=1;
-        int second=k+1;
-        int limit=k/2+1;
-        while(limit--)
+    vector<int> constructArray(int n, int k)
+    {
+        vector<int> sol;
+        int first = 1;
+        int second = k + 1;
+        int limit = k / 2 + 1;
+        while (limit--)
         {
-            if(first!=second)
+            if (first != second)
             {
                 sol.push_back(first);
                 sol.push_back(second);
-            }else{
+            }
+            else
+            {
                 sol.push_back(first);
             }
             first++;
             second--;
         }
-        first=first+second;
-        while(sol.size()!=n)
+        first = first + second;
+        while (sol.size() != n)
         {
             sol.push_back(first++);
         }
         return sol;
     }
 };
-

@@ -41,21 +41,23 @@
  * 
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    bool canJump(vector<int>& nums) {
-        if(nums.size()<=1)
+    bool canJump(vector<int> &nums)
+    {
+        if (nums.size() <= 1)
         {
             return true;
         }
-        int target = nums[0],last=nums.size()-1;
-        for (int i = 1;i<=target;i++)
+        int target = nums[0], last = nums.size() - 1;
+        for (int i = 1; i <= target; i++)
         {
-            if(i+nums[i]>target)
+            if (i + nums[i] > target)
             {
                 target = i + nums[i];
             }
-            if(target>=last)
+            if (target >= last)
             {
                 return true;
             }

@@ -72,7 +72,7 @@ public:
     }
     int reBalanced(TreeNode *root)
     {
-        if (!root||!result)
+        if (!root || !result)
         {
             return 0;
         }

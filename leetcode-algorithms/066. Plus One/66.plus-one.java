@@ -37,37 +37,30 @@
  * 
  */
 class Solution {
-    public int[] plusOne(int[] digits) {
-        if (digits.length == 1 && digits[0] == 0)
-		{
+	public int[] plusOne(int[] digits) {
+		if (digits.length == 1 && digits[0] == 0) {
 			digits[0] = 1;
 			return digits;
 		}
 		int plus = (digits[digits.length - 1] + 1) / 10;
 		digits[digits.length - 1] += 1;
 		digits[digits.length - 1] %= 10;
-		for (int i = digits.length - 2; i >= 0; i--)
-		{
-			//int &temp = digits[i];
+		for (int i = digits.length - 2; i >= 0; i--) {
+			// int &temp = digits[i];
 			digits[i] += plus;
 			plus = digits[i] / 10;
-			if (plus == 0)
-			{
+			if (plus == 0) {
 				break;
-			}
-			else
-			{
+			} else {
 				digits[i] = 0;
 			}
 		}
-		if (plus==1)
-		{
-            int []sol=new int[digits.length+1];
-            System.arraycopy(digits,0,sol,1,digits.length);
-			sol[0]=1;
-            return sol;
+		if (plus == 1) {
+			int[] sol = new int[digits.length + 1];
+			System.arraycopy(digits, 0, sol, 1, digits.length);
+			sol[0] = 1;
+			return sol;
 		}
 		return digits;
-    }
+	}
 }
-

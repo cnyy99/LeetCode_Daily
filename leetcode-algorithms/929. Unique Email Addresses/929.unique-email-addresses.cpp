@@ -60,26 +60,28 @@
  * 
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    int numUniqueEmails(vector<string>& emails) {
+    int numUniqueEmails(vector<string> &emails)
+    {
         set<string> sol;
-        for (auto it = 0; it < emails.size();it++)
+        for (auto it = 0; it < emails.size(); it++)
         {
-            for (auto i = 0; i < emails[it].length();i++)
+            for (auto i = 0; i < emails[it].length(); i++)
             {
-                if (emails[it][i]=='@')
+                if (emails[it][i] == '@')
                 {
                     sol.insert(emails[it]);
                     break;
                 }
-                if (emails[it][i]=='.')
+                if (emails[it][i] == '.')
                 {
                     emails[it].erase(i--, 1);
                 }
-                if (emails[it][i]=='+')
+                if (emails[it][i] == '+')
                 {
-                    while(i < emails[it].length()&&emails[it][i]!='@')
+                    while (i < emails[it].length() && emails[it][i] != '@')
                     {
                         emails[it].erase(i, 1);
                     }
@@ -90,4 +92,3 @@ public:
         return sol.size();
     }
 };
-

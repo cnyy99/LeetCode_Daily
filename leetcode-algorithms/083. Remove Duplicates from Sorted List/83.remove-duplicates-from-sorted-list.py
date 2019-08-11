@@ -15,21 +15,21 @@
 #
 # Given a sorted linked list, delete all duplicates such that each element
 # appear only once.
-# 
+#
 # Example 1:
-# 
-# 
+#
+#
 # Input: 1->1->2
 # Output: 1->2
-# 
-# 
+#
+#
 # Example 2:
-# 
-# 
+#
+#
 # Input: 1->1->2->3->3
 # Output: 1->2->3
-# 
-# 
+#
+#
 #
 # Definition for singly-linked list.
 # class ListNode:
@@ -37,11 +37,12 @@
 #         self.val = x
 #         self.next = None
 
+
 class Solution:
     def deleteDuplicates(self, head: ListNode) -> ListNode:
         if not head:
             return head
-        p, q = head, head.next;
+        p, q = head, head.next
         while q:
             if p.val == q.val:
                 p.next = q.next

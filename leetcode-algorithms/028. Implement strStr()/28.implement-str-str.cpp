@@ -41,31 +41,34 @@
  * string. This is consistent to C's strstr() and Java's indexOf().
  * 
  */
-class Solution {
+class Solution
+{
 public:
     int bc[256];
-    int * getbc(const string & pattern)					//求模板串坏字符表
+    int *getbc(const string &pattern) //求模板串坏字符表
     {
-        int  patternLen = pattern.length();
+        int patternLen = pattern.length();
         for (int i = 0; i < 256; ++i)
             bc[i] = -1;
 
-        for (int i = 0; i <  patternLen; ++i)
+        for (int i = 0; i < patternLen; ++i)
         {
             bc[pattern[i]] = i;
         }
         return bc;
     }
 
-    int strStr(string haystack, string needle) {
+    int strStr(string haystack, string needle)
+    {
         if (needle == "")
             return 0;
         int *abc = getbc(needle);
-        long long i = 0, j,span;
-        const long long patternlast = needle.length() - 1,patternLen = needle.length(),strLen = haystack.length();
+        long long i = 0, j, span;
+        const long long patternlast = needle.length() - 1, patternLen = needle.length(), strLen = haystack.length();
         while (i + patternLen <= strLen)
         {
-            for (j = patternlast; j >= 0 && needle[j] == haystack[i + j]; --j);
+            for (j = patternlast; j >= 0 && needle[j] == haystack[i + j]; --j)
+                ;
             if (j == -1)
                 break;
             else
@@ -76,6 +79,4 @@ public:
         }
         return j == -1 ? i : -1;
     }
-
 };
-

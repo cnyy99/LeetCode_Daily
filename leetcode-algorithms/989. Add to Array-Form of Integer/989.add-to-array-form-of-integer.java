@@ -75,41 +75,35 @@
  * 
  */
 class Solution {
-    int [] sizeTable = new int[]{ 9, 99, 999, 9999, 99999, 999999 ,9999999,99999999,999999999};
+    int[] sizeTable = new int[] { 9, 99, 999, 9999, 99999, 999999, 9999999, 99999999, 999999999 };
 
     int stringSize(int x) {
-        for (int i=0; ; i++)
+        for (int i = 0;; i++)
             if (x <= sizeTable[i])
-                return i+1;
+                return i + 1;
     }
 
     public List<Integer> addToArrayForm(int[] A, int K) {
         int len = Math.max(A.length, stringSize(K));
         List<Integer> sol = new ArrayList<>(len);
-        for(int i=0;i<len;i++)
-        {
+        for (int i = 0; i < len; i++) {
             sol.add(0);
         }
-        for (int i=1; i < A.length+1;i++)
-        {
+        for (int i = 1; i < A.length + 1; i++) {
             sol.set(sol.size() - i, A[A.length - i]);
         }
         int plus = (sol.get(sol.size() - 1) + K) / 10;
-		sol.set(sol.size() - 1,(sol.get(sol.size() - 1)+K)%10);
-        for (int i = sol.size() - 2; i >= 0; i--)
-        {
-            sol.set(i,sol.get(i)+plus);
+        sol.set(sol.size() - 1, (sol.get(sol.size() - 1) + K) % 10);
+        for (int i = sol.size() - 2; i >= 0; i--) {
+            sol.set(i, sol.get(i) + plus);
             plus = sol.get(i) / 10;
-            if (plus != 0)
-            {
-                sol.set(i,sol.get(i) % 10);
+            if (plus != 0) {
+                sol.set(i, sol.get(i) % 10);
             }
         }
-		if (plus!=0)
-		{
-			sol.add(0, 1);
-		}
-		return sol;
+        if (plus != 0) {
+            sol.add(0, 1);
+        }
+        return sol;
     }
 }
-

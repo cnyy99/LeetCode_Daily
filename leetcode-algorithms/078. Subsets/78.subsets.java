@@ -37,9 +37,9 @@ class Solution {
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> sol = new ArrayList<>();
         sol.add(new ArrayList<>());
-        for(int n : nums){
+        for (int n : nums) {
             int size = sol.size();
-            for(int i=0; i<size; i++){
+            for (int i = 0; i < size; i++) {
                 List<Integer> subset = new ArrayList<>(sol.get(i));
                 subset.add(n);
                 sol.add(subset);
@@ -48,4 +48,3 @@ class Solution {
         return sol;
     }
 }
-

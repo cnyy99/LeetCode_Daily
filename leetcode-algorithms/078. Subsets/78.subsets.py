@@ -13,12 +13,12 @@
 #
 # Given a set of distinct integers, nums, return all possible subsets (the
 # power set).
-# 
+#
 # Note: The solution set must not contain duplicate subsets.
-# 
+#
 # Example:
-# 
-# 
+#
+#
 # Input: nums = [1,2,3]
 # Output:
 # [
@@ -31,12 +31,13 @@
 # [1,2],
 # []
 # ]
-# 
 #
+#
+
+
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
         ret = [[]]
         for n in nums:
             ret += [r + [n] for r in ret]
         return ret
-

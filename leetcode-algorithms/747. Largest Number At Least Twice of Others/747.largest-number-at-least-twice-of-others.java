@@ -54,23 +54,18 @@
  */
 class Solution {
     public int dominantIndex(int[] nums) {
-        int indexmax1=0,max1=0,indexmax=0,max=0;
-        for(int i=0;i<nums.length;i++)
-        {
-            if(nums[i]>max)
-            {
-                max1=max;
-                indexmax1=indexmax;
-                max=nums[i];
-                indexmax=i;
-            }
-            else if(nums[i]>max1)
-            {
-                max1=nums[i];
-                indexmax1=i;
+        int indexmax1 = 0, max1 = 0, indexmax = 0, max = 0;
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] > max) {
+                max1 = max;
+                indexmax1 = indexmax;
+                max = nums[i];
+                indexmax = i;
+            } else if (nums[i] > max1) {
+                max1 = nums[i];
+                indexmax1 = i;
             }
         }
-        return max>=2*max1?indexmax:-1;
+        return max >= 2 * max1 ? indexmax : -1;
     }
 }
-

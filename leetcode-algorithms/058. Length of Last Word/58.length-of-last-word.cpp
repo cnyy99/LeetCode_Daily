@@ -39,7 +39,7 @@ public:
         int len = 0, tail = s.length();
         while (tail >= 0 && s[tail--] == ' ')
             ;
-        while (tail >= 0 && s[tail--] != ' '&&++len)
+        while (tail >= 0 && s[tail--] != ' ' && ++len)
             ;
         return len;
     }

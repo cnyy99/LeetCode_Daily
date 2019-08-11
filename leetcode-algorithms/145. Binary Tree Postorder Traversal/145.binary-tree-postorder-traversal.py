@@ -14,22 +14,22 @@
 # Testcase Example:  '[1,null,2,3]'
 #
 # Given a binary tree, return the postorder traversal of its nodes' values.
-# 
+#
 # Example:
-# 
-# 
+#
+#
 # Input: [1,null,2,3]
 # ⁠  1
 # ⁠   \
 # ⁠    2
 # ⁠   /
 # ⁠  3
-# 
+#
 # Output: [3,2,1]
-# 
-# 
+#
+#
 # Follow up: Recursive solution is trivial, could you do it iteratively?
-# 
+#
 #
 # Definition for a binary tree node.
 # class TreeNode:
@@ -38,13 +38,14 @@
 #         self.left = None
 #         self.right = None
 
+
 class Solution:
     def postorderTraversal(self, root: TreeNode) -> List[int]:
         res = []
         self.postorder(res, root)
         return res
 
-    def postorder(self, res,node):
+    def postorder(self, res, node):
         if node:
             self.postorder(res, node.left)
             self.postorder(res, node.right)

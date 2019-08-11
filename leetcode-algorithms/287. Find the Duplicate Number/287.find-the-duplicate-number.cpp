@@ -39,13 +39,15 @@
  * 
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    int findDuplicate(vector<int>& nums) {
-        vector<int>sol(nums.size(),0);
-        for(auto &t:nums)
+    int findDuplicate(vector<int> &nums)
+    {
+        vector<int> sol(nums.size(), 0);
+        for (auto &t : nums)
         {
-            if(sol[t])
+            if (sol[t])
             {
                 return t;
             }
@@ -54,4 +56,3 @@ public:
         return 0;
     }
 };
-

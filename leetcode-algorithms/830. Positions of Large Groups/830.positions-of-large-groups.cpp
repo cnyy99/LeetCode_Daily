@@ -52,24 +52,25 @@
  * Note:  1 <= S.length <= 1000
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    vector<vector<int>> largeGroupPositions(string S) {
-        vector<vector<int>> sol(0,vector<int>(2));
-        int i=1,j=0;
-        while(i<S.length())
+    vector<vector<int>> largeGroupPositions(string S)
+    {
+        vector<vector<int>> sol(0, vector<int>(2));
+        int i = 1, j = 0;
+        while (i < S.length())
         {
-            while(i<S.length()&&S[i]==S[j])
+            while (i < S.length() && S[i] == S[j])
             {
                 i++;
             }
-            if(((i-1) - j) >= 2)
+            if (((i - 1) - j) >= 2)
             {
-                sol.push_back({j,i-1});
+                sol.push_back({j, i - 1});
             }
-            j=i++;
+            j = i++;
         }
         return sol;
     }
 };
-

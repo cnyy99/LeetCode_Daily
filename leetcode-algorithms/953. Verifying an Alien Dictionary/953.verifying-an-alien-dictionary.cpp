@@ -70,36 +70,40 @@
  * 
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    bool isAlienSorted(vector<string>& words, string order) {
+    bool isAlienSorted(vector<string> &words, string order)
+    {
         map<char, int> ordermap;
         int value = 1;
-        for (int i = 0; i < order.length();i++)
+        for (int i = 0; i < order.length(); i++)
         {
             ordermap[order[i]] = value++;
         }
-        for (int i = 0; i < words.size() - 1;i++)
+        for (int i = 0; i < words.size() - 1; i++)
         {
-            if(!compare(words[i],words[i+1],ordermap))
+            if (!compare(words[i], words[i + 1], ordermap))
             {
                 return false;
             }
         }
         return true;
     }
-    bool compare(string&a,string&b,map<char, int> &ordermap)
+    bool compare(string &a, string &b, map<char, int> &ordermap)
     {
         int i = 0;
-        while(i<a.length()&&i<b.length())
+        while (i < a.length() && i < b.length())
         {
-            if(ordermap[a[i]]<ordermap[b[i]])
+            if (ordermap[a[i]] < ordermap[b[i]])
             {
                 return true;
-            }else if(ordermap[a[i]]>ordermap[b[i]])
+            }
+            else if (ordermap[a[i]] > ordermap[b[i]])
             {
                 return false;
-            }else
+            }
+            else
             {
                 i++;
             }

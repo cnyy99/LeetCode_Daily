@@ -49,27 +49,22 @@
  */
 class Solution {
     public String customSortString(String S, String T) {
-        Set<Character> sset=new HashSet<>();
+        Set<Character> sset = new HashSet<>();
         StringBuilder st = new StringBuilder();
-        int[]tmap=new int[26];
+        int[] tmap = new int[26];
         Arrays.fill(tmap, 0);
         char[] sCharArray = S.toCharArray();
-        for (Character ch : sCharArray)
-        {
+        for (Character ch : sCharArray) {
             sset.add(ch);
         }
-        for (Character ch : T.toCharArray())
-        {
-            tmap[ch-'a']++;
-            if (!sset.contains(ch))
-            {
+        for (Character ch : T.toCharArray()) {
+            tmap[ch - 'a']++;
+            if (!sset.contains(ch)) {
                 st.append(ch);
             }
         }
-        for (Character ch : sCharArray)
-        {
-            for (int i = 0; i < tmap[ch-'a']; i++)
-            {
+        for (Character ch : sCharArray) {
+            for (int i = 0; i < tmap[ch - 'a']; i++) {
                 st.append(ch);
             }
         }

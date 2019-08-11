@@ -34,28 +34,27 @@
  * 
  */
 class Solution {
-    int getNumSum(int n){
+    int getNumSum(int n) {
         int ans = 0;
-        while(n!=0){
-            ans += Math.pow(n%10, 2);
-			n/=10;
+        while (n != 0) {
+            ans += Math.pow(n % 10, 2);
+            n /= 10;
         }
         return ans;
     }
+
     public boolean isHappy(int n) {
         boolean[] rep = new boolean[1000];
-        for (int i = 0; i < 1000; i++)
-        {
+        for (int i = 0; i < 1000; i++) {
             rep[i] = false;
         }
-		n = getNumSum(n);
-        while(!rep[n]){
-			rep[n] = true;
-            if(n == 1)
+        n = getNumSum(n);
+        while (!rep[n]) {
+            rep[n] = true;
+            if (n == 1)
                 return true;
-			n = getNumSum(n);
+            n = getNumSum(n);
         }
         return false;
     }
 }
-

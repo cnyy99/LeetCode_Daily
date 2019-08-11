@@ -62,18 +62,19 @@
  *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
  * };
  */
-class Solution {
+class Solution
+{
 public:
-    bool isValidBST(TreeNode* root) {
+    bool isValidBST(TreeNode *root)
+    {
         return dfsearch(root, LONG_MIN, LONG_MAX);
     }
-    bool dfsearch(TreeNode* root,long min,long high)
+    bool dfsearch(TreeNode *root, long min, long high)
     {
-        if(!root)
+        if (!root)
         {
             return true;
         }
         return root->val > min && root->val < high && dfsearch(root->left, min, root->val) && dfsearch(root->right, root->val, high);
     }
 };
-

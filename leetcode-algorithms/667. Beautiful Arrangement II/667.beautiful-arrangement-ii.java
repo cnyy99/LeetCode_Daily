@@ -50,31 +50,27 @@
  */
 class Solution {
     public int[] constructArray(int n, int k) {
-        int []sol=new int [n];
-//        List<Integer> sol=new ArrayList<>();
-        int first=1;
-        int second=k+1;
-        int limit=k/2+1;
-        int i=0;
-        while(limit!=0)
-        {
+        int[] sol = new int[n];
+        // List<Integer> sol=new ArrayList<>();
+        int first = 1;
+        int second = k + 1;
+        int limit = k / 2 + 1;
+        int i = 0;
+        while (limit != 0) {
             limit--;
-            if(first!=second)
-            {
-                sol[i++]=first;
-                sol[i++]=second;
-            }else{
-                sol[i++]=first;
+            if (first != second) {
+                sol[i++] = first;
+                sol[i++] = second;
+            } else {
+                sol[i++] = first;
             }
             first++;
             second--;
         }
-        first=first+second;
-        while(i<n)
-        {
-            sol[i++]=first++;
+        first = first + second;
+        while (i < n) {
+            sol[i++] = first++;
         }
         return sol;
     }
 }
-

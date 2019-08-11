@@ -44,14 +44,15 @@
  * 
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    string toLowerCase(string str) {
-        for(auto &t:str)
+    string toLowerCase(string str)
+    {
+        for (auto &t : str)
         {
             t = tolower(t);
         }
         return str;
     }
 };
-

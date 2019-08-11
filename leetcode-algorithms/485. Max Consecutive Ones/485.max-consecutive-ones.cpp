@@ -31,23 +31,24 @@
  * 
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    int findMaxConsecutiveOnes(vector<int>& nums) {
-        int m=0,max=0;
-        for(auto it=nums.begin();it!=nums.end();it++)
+    int findMaxConsecutiveOnes(vector<int> &nums)
+    {
+        int m = 0, max = 0;
+        for (auto it = nums.begin(); it != nums.end(); it++)
         {
-            if(*it==1)
+            if (*it == 1)
             {
                 m++;
-                max=max>m?max:m;
+                max = max > m ? max : m;
             }
             else
             {
-                m=0;
+                m = 0;
             }
         }
         return max;
     }
 };
-

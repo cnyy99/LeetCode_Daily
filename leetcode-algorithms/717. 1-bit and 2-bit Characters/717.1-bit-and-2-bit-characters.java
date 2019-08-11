@@ -48,21 +48,16 @@
  */
 class Solution {
     public boolean isOneBitCharacter(int[] bits) {
-        for(int i=0;i<bits.length;)
-        {
-            if(bits[i]==1)
-            {
-                i+=2;
-                if(i==bits.length)
+        for (int i = 0; i < bits.length;) {
+            if (bits[i] == 1) {
+                i += 2;
+                if (i == bits.length)
                     return false;
-            }
-            else
-            {
-                if(++i==bits.length)
+            } else {
+                if (++i == bits.length)
                     return true;
             }
         }
         return false;
     }
 }
-

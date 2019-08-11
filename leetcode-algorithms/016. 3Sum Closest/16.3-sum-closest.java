@@ -26,32 +26,26 @@
  */
 class Solution {
     public int threeSumClosest(int[] nums, int target) {
-        int closest=Integer.MAX_VALUE;
-        int this_len=0;
-        int sol=0;
+        int closest = Integer.MAX_VALUE;
+        int this_len = 0;
+        int sol = 0;
         Arrays.sort(nums);
-        for(int i=0;i<nums.length;i++)
-        {
-            int left=i+1;
-            int right=nums.length-1;
-            while(left<right)
-            {
-                int this_sum=nums[i]+nums[left]+nums[right];
-                this_len=Math.abs(this_sum-target);
-                if(this_sum==target)
-                {
+        for (int i = 0; i < nums.length; i++) {
+            int left = i + 1;
+            int right = nums.length - 1;
+            while (left < right) {
+                int this_sum = nums[i] + nums[left] + nums[right];
+                this_len = Math.abs(this_sum - target);
+                if (this_sum == target) {
                     return this_sum;
                 }
-                if(this_len<closest)
-                {
-                    closest=this_len;
-                    sol=this_sum;
+                if (this_len < closest) {
+                    closest = this_len;
+                    sol = this_sum;
                 }
-                if(this_sum>target)
-                {
+                if (this_sum > target) {
                     right--;
-                }
-                else{
+                } else {
                     left++;
                 }
             }
@@ -59,4 +53,3 @@ class Solution {
         return sol;
     }
 }
-

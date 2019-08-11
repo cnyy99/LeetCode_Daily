@@ -28,18 +28,19 @@
  * the divide and conquer approach, which is more subtle.
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    int maxSubArray(vector<int>& nums) {
-        int sum=0,maxs=INT_MIN;
-        for(int i=0;i<nums.size();i++)
+    int maxSubArray(vector<int> &nums)
+    {
+        int sum = 0, maxs = INT_MIN;
+        for (int i = 0; i < nums.size(); i++)
         {
-            if(maxs!=INT_MIN&&sum<0)
-                sum=0;
-            sum+=nums[i];
-            maxs=max(sum,maxs);
+            if (maxs != INT_MIN && sum < 0)
+                sum = 0;
+            sum += nums[i];
+            maxs = max(sum, maxs);
         }
         return maxs;
     }
 };
-

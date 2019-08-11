@@ -43,15 +43,17 @@
  * 
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    bool containsNearbyDuplicate(vector<int>& nums, int k) {
-        unordered_map<int,int>sol;
-        for(int i=0;i<nums.size();i++)
+    bool containsNearbyDuplicate(vector<int> &nums, int k)
+    {
+        unordered_map<int, int> sol;
+        for (int i = 0; i < nums.size(); i++)
         {
-            if(sol[nums[i]]&&abs(sol[nums[i]]-i-1)<=k)
+            if (sol[nums[i]] && abs(sol[nums[i]] - i - 1) <= k)
                 return true;
-            sol[nums[i]]=i+1;
+            sol[nums[i]] = i + 1;
         }
         return false;
         // unordered_map<int,vector<int>>sol;
@@ -81,4 +83,3 @@ public:
         // return false;
     }
 };
-

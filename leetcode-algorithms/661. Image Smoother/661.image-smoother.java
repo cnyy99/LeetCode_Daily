@@ -45,39 +45,33 @@ class Solution {
     class dir {
         public int a, b;
     }
+
     public int[][] imageSmoother(int[][] M) {
-        dir m[]=new dir[9];
-        for(int i=-1,k=0;i<2;i++)
-        {
-            for(int j=-1;j<2;j++,k++)
-            {
+        dir m[] = new dir[9];
+        for (int i = -1, k = 0; i < 2; i++) {
+            for (int j = -1; j < 2; j++, k++) {
                 dir temp = new dir();
                 temp.a = i;
                 temp.b = j;
                 m[k] = temp;
             }
         }
-        int[][] sol=new int[M.length][M[0].length];
-        for(int i=0;i<M.length;i++)
-        {
-            for(int j=0;j<M[0].length;j++)
-            {
-                int sum=0,count=0;
-                for(int k=0;k<9;k++)
-                {
-                    int newi=i+m[k].a;
-                    int newj=j+m[k].b;
-                    if(newi>=0&&newi<M.length&&newj>=0&&newj<M[0].length)
-                    {
-                        sum+=M[newi][newj];
+        int[][] sol = new int[M.length][M[0].length];
+        for (int i = 0; i < M.length; i++) {
+            for (int j = 0; j < M[0].length; j++) {
+                int sum = 0, count = 0;
+                for (int k = 0; k < 9; k++) {
+                    int newi = i + m[k].a;
+                    int newj = j + m[k].b;
+                    if (newi >= 0 && newi < M.length && newj >= 0 && newj < M[0].length) {
+                        sum += M[newi][newj];
                         count++;
                     }
                 }
-                if(count!=0)
-                    sol[i][j]=sum/count;
+                if (count != 0)
+                    sol[i][j] = sum / count;
             }
         }
         return sol;
     }
 }
-

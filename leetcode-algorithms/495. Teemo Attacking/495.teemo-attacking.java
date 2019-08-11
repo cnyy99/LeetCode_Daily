@@ -67,17 +67,14 @@
  */
 class Solution {
     public int findPoisonedDuration(int[] timeSeries, int duration) {
-        if(timeSeries.length==0)
-        {
+        if (timeSeries.length == 0) {
             return 0;
         }
-        int sol=0;
-        for(int i=timeSeries.length-1;i>0;i--)
-        {
-            int temp=timeSeries[i]-timeSeries[i-1];
-            sol+=temp>duration?duration:temp;
+        int sol = 0;
+        for (int i = timeSeries.length - 1; i > 0; i--) {
+            int temp = timeSeries[i] - timeSeries[i - 1];
+            sol += temp > duration ? duration : temp;
         }
-        return sol+duration;
+        return sol + duration;
     }
 }
-

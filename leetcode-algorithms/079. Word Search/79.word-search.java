@@ -46,21 +46,20 @@ class Solution {
         }
         return false;
     }
-    public boolean dfs(char[][] board,int row,int col,String word)
-    {
-        if(word.length()==0)
-        {
+
+    public boolean dfs(char[][] board, int row, int col, String word) {
+        if (word.length() == 0) {
             return true;
         }
-        if(row<0||col<0||row>=board.length||col>=board[0].length||word.charAt(0)!=board[row][col])
-        {
+        if (row < 0 || col < 0 || row >= board.length || col >= board[0].length || word.charAt(0) != board[row][col]) {
             return false;
         }
         char ch = board[row][col];
         board[row][col] = '.';
         String newword = word.substring(1);
-        boolean result = dfs(board, row - 1, col, newword) || dfs(board, row, col - 1, newword) || dfs(board, row + 1, col, newword) || dfs(board, row, col + 1, newword);
-        board[row][col]=ch;
+        boolean result = dfs(board, row - 1, col, newword) || dfs(board, row, col - 1, newword)
+                || dfs(board, row + 1, col, newword) || dfs(board, row, col + 1, newword);
+        board[row][col] = ch;
         return result;
     }
 }

@@ -32,19 +32,20 @@
  * Could you optimize your algorithm to use only O(k) extra space?
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    vector<int> getRow(int rowIndex) {
-        vector<int>sol={1};
-        for(int i=1;i<rowIndex+1;i++)
+    vector<int> getRow(int rowIndex)
+    {
+        vector<int> sol = {1};
+        for (int i = 1; i < rowIndex + 1; i++)
         {
-            sol.resize(i+1,1);
-            for(int j=i-1;j>=1;j--)
+            sol.resize(i + 1, 1);
+            for (int j = i - 1; j >= 1; j--)
             {
-                sol[j]=sol[j]+sol[j-1];
+                sol[j] = sol[j] + sol[j - 1];
             }
         }
         return sol;
     }
 };
-

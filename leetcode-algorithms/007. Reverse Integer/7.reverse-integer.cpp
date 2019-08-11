@@ -43,44 +43,43 @@
  */
 class Solution
 {
-  public:
+public:
     int reverse(int x)
     {
-        bool t=true;
-        long newx=x;
-        if(newx<0)
+        bool t = true;
+        long newx = x;
+        if (newx < 0)
         {
-            newx=-newx;
-            t= false;
+            newx = -newx;
+            t = false;
         }
-        long long n=0;
-        if(0<=newx&&newx<10)
+        long long n = 0;
+        if (0 <= newx && newx < 10)
         {
-            if(t)
+            if (t)
                 return newx;
             else
                 return -newx;
         }
         int old = 0;
-        while(newx>0)
+        while (newx > 0)
         {
-            old=n;
-            n=newx%10+(n*10);
-            if(n>INT_MAX&&t)
+            old = n;
+            n = newx % 10 + (n * 10);
+            if (n > INT_MAX && t)
             {
                 return 0;
             }
-            if(-n<INT_MIN&&!t)
+            if (-n < INT_MIN && !t)
             {
                 return 0;
             }
-    //        std::cout<<old<<"\t"<<n<<std::endl;
-            newx=newx/10;
+            //        std::cout<<old<<"\t"<<n<<std::endl;
+            newx = newx / 10;
         }
-        if(t)
+        if (t)
             return n;
         else
             return -n;
     }
-}
-;
+};

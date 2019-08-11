@@ -44,33 +44,34 @@
  *   nums[i]  will be an integer between 0 and 49,999. 
  *  
  */
-class Solution {
+class Solution
+{
 public:
-    int findShortestSubArray(vector <int>& nums) {
-        unordered_map<int,int>sol;
-        unordered_map<int,int>begin;
-        unordered_map<int,int>end;
-        int it=0,max=0;
-        for(auto t:nums)
+    int findShortestSubArray(vector<int> &nums)
+    {
+        unordered_map<int, int> sol;
+        unordered_map<int, int> begin;
+        unordered_map<int, int> end;
+        int it = 0, max = 0;
+        for (auto t : nums)
         {
             sol[t]++;
-            max=max>sol[t]?max:sol[t];
-            if(!begin.count(t))
+            max = max > sol[t] ? max : sol[t];
+            if (!begin.count(t))
             {
-                begin[t]=it;
+                begin[t] = it;
             }
-            end[t]=it++;
+            end[t] = it++;
         }
-        int soultion=INT_MAX;
-        for(auto t:sol)
+        int soultion = INT_MAX;
+        for (auto t : sol)
         {
-            if(t.second==max)
+            if (t.second == max)
             {
-                int dis=end[t.first]-begin[t.first]+1;
-                soultion=soultion<dis?soultion:dis;
+                int dis = end[t.first] - begin[t.first] + 1;
+                soultion = soultion < dis ? soultion : dis;
             }
         }
         return soultion;
     }
 };
-

@@ -34,17 +34,14 @@
  */
 class Solution {
     public List<Integer> getRow(int rowIndex) {
-        ArrayList<Integer>sol=new ArrayList<>();
+        ArrayList<Integer> sol = new ArrayList<>();
         sol.add(1);
-        for(int i=1;i<rowIndex+1;i++)
-        {
+        for (int i = 1; i < rowIndex + 1; i++) {
             sol.add(1);
-            for(int j=i-1;j>=1;j--)
-            {
-                sol.set(j,sol.get(j)+sol.get(j-1));
+            for (int j = i - 1; j >= 1; j--) {
+                sol.set(j, sol.get(j) + sol.get(j - 1));
             }
         }
         return sol;
     }
 }
-

@@ -40,28 +40,22 @@
  */
 class Solution {
     public int[] sortArrayByParity(int[] A) {
-        ArrayList<Integer> a=new ArrayList<>();
-    ArrayList<Integer> b=new ArrayList<>();
-    for (Integer t:A)
-	{
-		if (t % 2 == 0)
-		{
-			a.add(t);
-		}
-		else
-		{
-			b.add(t);
-		}
-	}
-        a.addAll(b);
-        Integer [] c= a.toArray(new Integer[A.length]);
-        int []d=new int[c.length];
-        int i=0;
-        for(Integer t:c)
-        {
-            d[i++]=t;
+        ArrayList<Integer> a = new ArrayList<>();
+        ArrayList<Integer> b = new ArrayList<>();
+        for (Integer t : A) {
+            if (t % 2 == 0) {
+                a.add(t);
+            } else {
+                b.add(t);
+            }
         }
-    return d;
+        a.addAll(b);
+        Integer[] c = a.toArray(new Integer[A.length]);
+        int[] d = new int[c.length];
+        int i = 0;
+        for (Integer t : c) {
+            d[i++] = t;
+        }
+        return d;
     }
 }
-

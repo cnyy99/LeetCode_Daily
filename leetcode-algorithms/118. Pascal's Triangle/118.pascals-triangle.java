@@ -35,26 +35,24 @@
  */
 class Solution {
     public List<List<Integer>> generate(int numRows) {
-        Integer [][]map=new Integer [numRows][];
-        ArrayList<List<Integer>> sol=new ArrayList<List<Integer>>();                  //初始化二维数组
-        for (int i = 0; i < numRows; i++)                 //初始化二维数组的每一行
+        Integer[][] map = new Integer[numRows][];
+        ArrayList<List<Integer>> sol = new ArrayList<List<Integer>>(); // 初始化二维数组
+        for (int i = 0; i < numRows; i++) // 初始化二维数组的每一行
         {
-            map[i]=new Integer[i+1];
-            //map[i] = new int[i + 1];
-            map[i][0]=map[i][i]=1;         //每一行的开头和末尾置1
+            map[i] = new Integer[i + 1];
+            // map[i] = new int[i + 1];
+            map[i][0] = map[i][i] = 1; // 每一行的开头和末尾置1
         }
-        for (int i = 2; i < numRows; i++)                 //从第三行开始
+        for (int i = 2; i < numRows; i++) // 从第三行开始
         {
-            for (int j = 1; j < i; j++)             //对于这一行中的第二个到倒数第二个数
+            for (int j = 1; j < i; j++) // 对于这一行中的第二个到倒数第二个数
             {
-                map[i][j] = (map[i - 1][j] + map[i - 1][j - 1]);   //每一个数位上一行上一列于这一列的和模10
+                map[i][j] = (map[i - 1][j] + map[i - 1][j - 1]); // 每一个数位上一行上一列于这一列的和模10
             }
         }
-        for(int i=0;i<numRows;i++)
-        {
+        for (int i = 0; i < numRows; i++) {
             sol.add(Arrays.asList(map[i]));
         }
         return sol;
     }
 }
-

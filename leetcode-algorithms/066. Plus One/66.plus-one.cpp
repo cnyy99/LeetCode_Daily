@@ -36,10 +36,12 @@
  * Explanation: The array represents the integer 4321.
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    vector<int> plusOne(vector<int>& digits) {
-        if (digits.size() == 1 && digits[0] == 0)
+	vector<int> plusOne(vector<int> &digits)
+	{
+		if (digits.size() == 1 && digits[0] == 0)
 		{
 			digits[0] = 1;
 			return digits;
@@ -66,6 +68,5 @@ public:
 			digits.insert(digits.begin(), 1);
 		}
 		return digits;
-    }
+	}
 };
-

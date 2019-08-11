@@ -60,20 +60,16 @@
  */
 class Solution {
     public int pivotIndex(int[] nums) {
-        int sum=0,temp=0;
-        for(int t:nums)
-        {
-            sum+=t;
+        int sum = 0, temp = 0;
+        for (int t : nums) {
+            sum += t;
         }
-        for(int i=0;i<nums.length;i++)
-        {
-            if(temp*2+nums[i]==sum)
-            {
+        for (int i = 0; i < nums.length; i++) {
+            if (temp * 2 + nums[i] == sum) {
                 return i;
             }
-            temp+=nums[i];
+            temp += nums[i];
         }
         return -1;
     }
 }
-

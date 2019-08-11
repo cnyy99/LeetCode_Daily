@@ -35,15 +35,16 @@
  * Output: true
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    bool containsDuplicate(vector<int>& nums) {
-        unordered_set<int>myset;
-        for(auto&a:nums)
+    bool containsDuplicate(vector<int> &nums)
+    {
+        unordered_set<int> myset;
+        for (auto &a : nums)
         {
             myset.insert(a);
         }
-        return !(myset.size()==nums.size());
+        return !(myset.size() == nums.size());
     }
 };
-

@@ -12,53 +12,54 @@
 # Testcase Example:  '[1,0,0]'
 #
 # We have two special characters. The first character can be represented by one
-# bit 0. The second character can be represented by two bits (10 or 11).  
-# 
+# bit 0. The second character can be represented by two bits (10 or 11).
+#
 # Now given a string represented by several bits. Return whether the last
 # character must be a one-bit character or not. The given string will always
 # end with a zero.
-# 
+#
 # Example 1:
-# 
-# Input: 
+#
+# Input:
 # bits = [1, 0, 0]
 # Output: True
-# Explanation: 
+# Explanation:
 # The only way to decode it is two-bit character and one-bit character. So the
 # last character is one-bit character.
-# 
-# 
-# 
+#
+#
+#
 # Example 2:
-# 
-# Input: 
+#
+# Input:
 # bits = [1, 1, 1, 0]
 # Output: False
-# Explanation: 
+# Explanation:
 # The only way to decode it is two-bit character and two-bit character. So the
 # last character is NOT one-bit character.
-# 
-# 
-# 
+#
+#
+#
 # Note:
 # 1 .
 # bits[i] is always 0 or 1.
-# 
 #
+#
+
+
 class Solution:
     def isOneBitCharacter(self, bits: List[int]) -> bool:
-        i=0
-        l=len(bits)
-        if bits[l-2]==0:
+        i = 0
+        l = len(bits)
+        if bits[l-2] == 0:
             return True
         while i < l:
-            if bits[i]==1:
-                i+=2
-                if i ==l:
+            if bits[i] == 1:
+                i += 2
+                if i == l:
                     return False
             else:
-                i+=1
-                if i==l:
+                i += 1
+                if i == l:
                     return True
         return False
-

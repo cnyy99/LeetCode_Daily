@@ -46,24 +46,25 @@
  * bits[i] is always 0 or 1.
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    bool isOneBitCharacter(vector<int>& bits) {
-        for(int i=0;i<bits.size();)
+    bool isOneBitCharacter(vector<int> &bits)
+    {
+        for (int i = 0; i < bits.size();)
         {
-            if(bits[i]==1)
+            if (bits[i] == 1)
             {
-                i+=2;
-                if(i==bits.size())
+                i += 2;
+                if (i == bits.size())
                     return false;
             }
             else
             {
-                if(++i==bits.size())
+                if (++i == bits.size())
                     return true;
             }
         }
         return false;
     }
 };
-

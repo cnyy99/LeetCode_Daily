@@ -47,18 +47,19 @@
  * 
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    vector<vector<int>> flipAndInvertImage(vector<vector<int>>& A) {
-        for(auto &t:A)
+    vector<vector<int>> flipAndInvertImage(vector<vector<int>> &A)
+    {
+        for (auto &t : A)
         {
-            reverse(t.begin(),t.end());
-            for(auto &m:t)
+            reverse(t.begin(), t.end());
+            for (auto &m : t)
             {
-                m^=1;
+                m ^= 1;
             }
         }
         return A;
     }
 };
-

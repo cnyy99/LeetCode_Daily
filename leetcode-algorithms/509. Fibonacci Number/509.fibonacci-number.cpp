@@ -55,16 +55,17 @@
  * 0 ≤ N ≤ 30.
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    int fib(int N) {
-        vector<int>sol(31,0);
-        sol[1]=1;
-        for(int i=2;i<=N;i++)
+    int fib(int N)
+    {
+        vector<int> sol(31, 0);
+        sol[1] = 1;
+        for (int i = 2; i <= N; i++)
         {
-            sol[i]=sol[i-1]+sol[i-2];
+            sol[i] = sol[i - 1] + sol[i - 2];
         }
         return sol[N];
     }
 };
-

@@ -61,23 +61,17 @@
  */
 class Solution {
     public int repeatedNTimes(int[] A) {
-        boolean [] sol=new boolean[10000];
-        for(int i=0;i<10000;i++)
-        {
-            sol[i]=false;
+        boolean[] sol = new boolean[10000];
+        for (int i = 0; i < 10000; i++) {
+            sol[i] = false;
         }
-        for(int t:A)
-        {
-            if(!sol[t])
-            {
+        for (int t : A) {
+            if (!sol[t]) {
                 sol[t] = true;
-            }
-            else
-            {
+            } else {
                 return t;
             }
         }
         return 0;
     }
 }
-

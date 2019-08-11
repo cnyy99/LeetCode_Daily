@@ -54,25 +54,19 @@
  * 
  */
 /**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode(int x) { val = x; }
- * }
+ * Definition for a binary tree node. public class TreeNode { int val; TreeNode
+ * left; TreeNode right; TreeNode(int x) { val = x; } }
  */
 class Solution {
     public boolean isValidBST(TreeNode root) {
         return dfsearch(root, Long.MIN_VALUE, Long.MAX_VALUE);
     }
-    boolean dfsearch(TreeNode root,long min,long high)
-    {
-        if(root==null)
-        {
+
+    boolean dfsearch(TreeNode root, long min, long high) {
+        if (root == null) {
             return true;
         }
-        return root.val > min && root.val < high && dfsearch(root.left, min, root.val) && dfsearch(root.right, root.val, high);
+        return root.val > min && root.val < high && dfsearch(root.left, min, root.val)
+                && dfsearch(root.right, root.val, high);
     }
 }
-

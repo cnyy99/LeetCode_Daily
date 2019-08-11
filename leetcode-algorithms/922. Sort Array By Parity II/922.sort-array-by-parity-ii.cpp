@@ -44,27 +44,28 @@
  * 
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    vector<int> sortArrayByParityII(vector<int>& A) {
+    vector<int> sortArrayByParityII(vector<int> &A)
+    {
         int out[A.size()];
         //vector<int>out(A.size());
         //out.resize((int)A.size(),0);
-        int i=0,j=1;
-        for(auto t:A)
+        int i = 0, j = 1;
+        for (auto t : A)
         {
-            if(t%2==0)
+            if (t % 2 == 0)
             {
-                out[i]=t;
-                i+=2;
+                out[i] = t;
+                i += 2;
             }
             else
             {
-                out[j]=t;
-                j+=2;
+                out[j] = t;
+                j += 2;
             }
         }
-        return vector<int>(out,out+A.size());
+        return vector<int>(out, out + A.size());
     }
 };
-

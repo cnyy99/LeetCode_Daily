@@ -42,13 +42,14 @@ class Solution:
         def dfs(board, row, col, word):
             if not word:
                 return True
-            if row<0 or col<0 or row>=len(board) or col>=len(board[0]) or word[0]!=board[row][col]:
+            if row < 0 or col < 0 or row >= len(board) or col >= len(board[0]) or word[0] != board[row][col]:
                 return False
             ch = board[row][col]
             board[row][col] = '.'
             newword = word[1:]
-            result = dfs(board, row - 1, col, newword)  or  dfs(board, row, col - 1, newword)  or  dfs(board, row + 1, col, newword)  or  dfs(board, row, col + 1, newword)
-            board[row][col]=ch
+            result = dfs(board, row - 1, col, newword) or dfs(board, row, col - 1, newword) or dfs(
+                board, row + 1, col, newword) or dfs(board, row, col + 1, newword)
+            board[row][col] = ch
             return result
         for i in range(len(board)):
             for j in range(len(board[0])):

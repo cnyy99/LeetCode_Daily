@@ -38,23 +38,25 @@
  * solution to such case?
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    bool isAnagram(string s, string t) {
-        if(s.length()!=t.length())
+    bool isAnagram(string s, string t)
+    {
+        if (s.length() != t.length())
         {
             return false;
         }
         int map[26];
         memset(map, 0, sizeof(int) * 26);
-        for (int i = 0; i < s.length();i++)
+        for (int i = 0; i < s.length(); i++)
         {
             map[s[i] - 'a']++;
             map[t[i] - 'a']--;
         }
-        for(auto c:map)
+        for (auto c : map)
         {
-            if(c)
+            if (c)
             {
                 return false;
             }

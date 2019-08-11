@@ -72,34 +72,27 @@
  */
 class Solution {
     public boolean isAlienSorted(String[] words, String order) {
-        Map<Character, Integer>  ordermap=new HashMap<>();
+        Map<Character, Integer> ordermap = new HashMap<>();
         int value = 1;
-        for (int i = 0; i < order.length();i++)
-        {
-            ordermap.put(order.charAt(i),value++);
+        for (int i = 0; i < order.length(); i++) {
+            ordermap.put(order.charAt(i), value++);
         }
-        for (int i = 0; i < words.length - 1;i++)
-        {
-            if(!compare(words[i],words[i+1],ordermap))
-            {
+        for (int i = 0; i < words.length - 1; i++) {
+            if (!compare(words[i], words[i + 1], ordermap)) {
                 return false;
             }
         }
         return true;
     }
-    public boolean compare(String a,String b,Map<Character, Integer> ordermap)
-    {
+
+    public boolean compare(String a, String b, Map<Character, Integer> ordermap) {
         int i = 0;
-        while(i<a.length()&&i<b.length())
-        {
-            if(ordermap.get(a.charAt(i))<ordermap.get(b.charAt(i)))
-            {
+        while (i < a.length() && i < b.length()) {
+            if (ordermap.get(a.charAt(i)) < ordermap.get(b.charAt(i))) {
                 return true;
-            }else if(ordermap.get(a.charAt(i))>ordermap.get(b.charAt(i)))
-            {
+            } else if (ordermap.get(a.charAt(i)) > ordermap.get(b.charAt(i))) {
                 return false;
-            }else
-            {
+            } else {
                 i++;
             }
         }

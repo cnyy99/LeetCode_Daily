@@ -82,20 +82,16 @@
  */
 class Solution {
     public int[] fairCandySwap(int[] A, int[] B) {
-        int dif = (IntStream.of(A).sum()-IntStream.of(B).sum())/2;
-        HashSet<Integer>map=new HashSet<>();
-        for(int t:A)
-        {
+        int dif = (IntStream.of(A).sum() - IntStream.of(B).sum()) / 2;
+        HashSet<Integer> map = new HashSet<>();
+        for (int t : A) {
             map.add(t);
         }
-        for(int t:B)
-        {
-            if(map.contains(t+dif))
-            {
-                return new int[]{t+dif,t};
+        for (int t : B) {
+            if (map.contains(t + dif)) {
+                return new int[] { t + dif, t };
             }
         }
         return null;
     }
 }
-

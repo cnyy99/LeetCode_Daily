@@ -51,7 +51,7 @@
 
 class Solution:
     def customSortString(self, S: str, T: str) -> str:
-        sset, st, base, tcounter= set(S), '', ord('a'),collections.Counter(T)
+        sset, st, base, tcounter = set(S), '', ord('a'), collections.Counter(T)
         for ch in T:
             if ch not in sset:
                 st += ch

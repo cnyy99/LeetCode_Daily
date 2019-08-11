@@ -34,11 +34,13 @@
  * 'e' is the letter that was added.
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    char findTheDifference(string s, string t) {
+    char findTheDifference(string s, string t)
+    {
         int res = t[t.length() - 1];
-        for (int i = 0; i < s.length();++i)
+        for (int i = 0; i < s.length(); ++i)
         {
             res ^= s[i];
             res ^= t[i];

@@ -29,22 +29,23 @@
  * 
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    vector<int> findDisappearedNumbers(vector<int>& nums) {
-        for(int i = 0; i < nums.size(); i++) 
+    vector<int> findDisappearedNumbers(vector<int> &nums)
+    {
+        for (int i = 0; i < nums.size(); i++)
         {
-            nums[abs(nums[i]) - 1] = -1*abs(nums[abs(nums[i]) - 1]); 
+            nums[abs(nums[i]) - 1] = -1 * abs(nums[abs(nums[i]) - 1]);
         }
         vector<int> temp;
-        for(int i = 0; i < nums.size(); i++) 
+        for (int i = 0; i < nums.size(); i++)
         {
-            if(nums[i] > 0) 
+            if (nums[i] > 0)
             {
                 temp.push_back(i + 1);
-            } 
+            }
         }
         return temp;
     }
 };
-

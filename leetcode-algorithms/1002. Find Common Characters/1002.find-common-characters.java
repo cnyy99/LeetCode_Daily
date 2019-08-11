@@ -51,32 +51,25 @@
  */
 class Solution {
     public List<String> commonChars(String[] A) {
-        int[]charcount =new int[26];
-        for(char t:A[0].toCharArray())
-        {
-            charcount[t-'a']++;
+        int[] charcount = new int[26];
+        for (char t : A[0].toCharArray()) {
+            charcount[t - 'a']++;
         }
-        for(int i=1;i<A.length;i++)
-        {
-            int[]tempcount =new int[26];
-            for(char t:A[i].toCharArray())
-            {
-                tempcount[t-'a']++;
+        for (int i = 1; i < A.length; i++) {
+            int[] tempcount = new int[26];
+            for (char t : A[i].toCharArray()) {
+                tempcount[t - 'a']++;
             }
-            for(int j=0;j<26;j++)
-            {
-                charcount[j]=Math.min(charcount[j],tempcount[j]);
+            for (int j = 0; j < 26; j++) {
+                charcount[j] = Math.min(charcount[j], tempcount[j]);
             }
         }
-        List<String>sol=new ArrayList<>();
-        for(int i=0;i<26;i++)
-        {
-            for(int j=0;j<charcount[i];j++)
-            {
-                sol.add((char)('a'+i)+"");
+        List<String> sol = new ArrayList<>();
+        for (int i = 0; i < 26; i++) {
+            for (int j = 0; j < charcount[i]; j++) {
+                sol.add((char) ('a' + i) + "");
             }
         }
         return sol;
     }
 }
-

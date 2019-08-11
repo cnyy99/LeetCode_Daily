@@ -35,21 +35,22 @@
  * 
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    double findMaxAverage(vector<int>& nums, int k) {
-        int sum=0,maxsum;
-        for(int i=0;i<k;i++)
+    double findMaxAverage(vector<int> &nums, int k)
+    {
+        int sum = 0, maxsum;
+        for (int i = 0; i < k; i++)
         {
-            sum+=nums[i];
+            sum += nums[i];
         }
-        maxsum=sum;
-        for(int i=k;i<nums.size();i++)
+        maxsum = sum;
+        for (int i = k; i < nums.size(); i++)
         {
-            sum=sum-nums[i-k]+nums[i];
-            maxsum=max(maxsum,sum);
+            sum = sum - nums[i - k] + nums[i];
+            maxsum = max(maxsum, sum);
         }
-        return maxsum*1.0/k;
+        return maxsum * 1.0 / k;
     }
 };
-

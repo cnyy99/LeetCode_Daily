@@ -64,22 +64,25 @@
  * }
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    int removeElement(vector<int>& nums, int val) {
-        int i=0;
-        int len=nums.size();
-        if(len==0)
+    int removeElement(vector<int> &nums, int val)
+    {
+        int i = 0;
+        int len = nums.size();
+        if (len == 0)
         {
             return 0;
         }
-        for(int j=0;j<len;j++){
-            if(nums[j]!=val){
-                nums[i]=nums[j];
+        for (int j = 0; j < len; j++)
+        {
+            if (nums[j] != val)
+            {
+                nums[i] = nums[j];
                 i++;
             }
         }
         return i;
     }
 };
-

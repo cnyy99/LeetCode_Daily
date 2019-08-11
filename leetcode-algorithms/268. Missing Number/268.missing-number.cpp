@@ -32,11 +32,13 @@
  * Your algorithm should run in linear runtime complexity. Could you implement
  * it using only constant extra space complexity?
  */
-class Solution {
+class Solution
+{
 public:
-    int missingNumber(vector<int>& nums) {
+    int missingNumber(vector<int> &nums)
+    {
         int sol = nums.size();
-        for (int i = 0; i < nums.size(); i ++) 
+        for (int i = 0; i < nums.size(); i++)
         {
             sol ^= nums[i];
             sol ^= i;
@@ -55,4 +57,3 @@ public:
         // return 0;
     }
 };
-

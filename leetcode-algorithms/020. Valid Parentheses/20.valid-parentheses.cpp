@@ -61,37 +61,41 @@
  * 
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    bool isValid(string s) {
+    bool isValid(string s)
+    {
         stack<char> sol;
-        if(s.length()%2!=0)
+        if (s.length() % 2 != 0)
             return false;
         map<char, char> m;
         m['['] = ']';
         m['{'] = '}';
         m['('] = ')';
-        for (int i = 0; i < s.length();i++)
+        for (int i = 0; i < s.length(); i++)
         {
-            switch(s[i]){
-                case '[':
-                case '{':
-                case '(':sol.push(s[i]);
-                            break;
-                case ']':
-                case ')':
-                case '}':if(sol.size()==0)
-                        {
-                            return false;
-                        }
-                        if(s[i]==m[sol.top()])
-                        {
-                            sol.pop();
-                        }
-                        break;
+            switch (s[i])
+            {
+            case '[':
+            case '{':
+            case '(':
+                sol.push(s[i]);
+                break;
+            case ']':
+            case ')':
+            case '}':
+                if (sol.size() == 0)
+                {
+                    return false;
+                }
+                if (s[i] == m[sol.top()])
+                {
+                    sol.pop();
+                }
+                break;
             }
         }
         return sol.size() == 0;
     }
 };
-

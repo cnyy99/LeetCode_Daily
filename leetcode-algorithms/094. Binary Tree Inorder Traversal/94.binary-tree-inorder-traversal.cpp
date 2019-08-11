@@ -44,12 +44,12 @@ class Solution
 public:
     vector<int> inorderTraversal(TreeNode *root)
     {
-        stack<TreeNode*> st;
+        stack<TreeNode *> st;
         vector<int> res2;
-        TreeNode* p = root;
+        TreeNode *p = root;
         while (p || !st.empty())
         {
-            while(p)
+            while (p)
             {
                 st.push(p);
                 p = p->left;

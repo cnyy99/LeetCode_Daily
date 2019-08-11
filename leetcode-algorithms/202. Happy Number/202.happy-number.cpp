@@ -33,27 +33,31 @@
  * 1^2 + 0^2 + 0^2 = 1
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    int getNumSum(int n){
+    int getNumSum(int n)
+    {
         int ans = 0;
-        while(n){
-            ans += pow(n%10, 2);
-			n/=10;
+        while (n)
+        {
+            ans += pow(n % 10, 2);
+            n /= 10;
         }
         return ans;
     }
-    bool isHappy(int n) {
+    bool isHappy(int n)
+    {
         bool rep[1000];
         memset(rep, 0, sizeof(rep));
-		n = getNumSum(n);
-        while(!rep[n]){
-			rep[n] = true;
-            if(n == 1)
+        n = getNumSum(n);
+        while (!rep[n])
+        {
+            rep[n] = true;
+            if (n == 1)
                 return true;
-			n = getNumSum(n);
+            n = getNumSum(n);
         }
         return false;
     }
 };
-

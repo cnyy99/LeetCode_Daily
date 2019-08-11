@@ -31,9 +31,11 @@
  * 
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    int majorityElement(vector<int>& nums) {
+    int majorityElement(vector<int> &nums)
+    {
         // int max=0;
         // map<int,int>m,p;
         // for(auto it=nums.begin();it!=nums.end();it++)
@@ -51,4 +53,3 @@ public:
         return nums[nums.size() / 2];
     }
 };
-

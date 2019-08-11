@@ -34,25 +34,18 @@ import java.util.ArrayList;
  * 
  */
 /**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode(int x) { val = x; }
- * }
+ * Definition for a binary tree node. public class TreeNode { int val; TreeNode
+ * left; TreeNode right; TreeNode(int x) { val = x; } }
  */
 class Solution {
     public List<Integer> postorderTraversal(TreeNode root) {
-        List<Integer> res=new ArrayList<>();
+        List<Integer> res = new ArrayList<>();
         postorder(res, root);
         return res;
     }
 
-    void postorder(List<Integer> res, TreeNode node)
-    {
-        if (node!=null)
-        {
+    void postorder(List<Integer> res, TreeNode node) {
+        if (node != null) {
             postorder(res, node.left);
             postorder(res, node.right);
             res.add(node.val);

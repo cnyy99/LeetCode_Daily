@@ -67,19 +67,20 @@
  * 
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    bool isToeplitzMatrix(vector<vector<int>>& matrix) {
-        for(int i=0;i<matrix.size()-1;i++)
+    bool isToeplitzMatrix(vector<vector<int>> &matrix)
+    {
+        for (int i = 0; i < matrix.size() - 1; i++)
         {
-            vector<int>temp1=matrix[i];
+            vector<int> temp1 = matrix[i];
             temp1.pop_back();
-            vector<int>temp2=matrix[i+1];
+            vector<int> temp2 = matrix[i + 1];
             temp2.erase(temp2.begin());
-            if(temp1!=temp2)
+            if (temp1 != temp2)
                 return false;
         }
         return true;
     }
 };
-

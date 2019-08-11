@@ -45,14 +45,12 @@
  */
 class Solution {
     public boolean containsNearbyDuplicate(int[] nums, int k) {
-        Map<Integer,Integer> sol=new HashMap<>();
-        for(int i=0;i<nums.length;i++)
-        {
-            if(sol.get(nums[i])!=null&&Math.abs(sol.get(nums[i])-i-1)<=k)
+        Map<Integer, Integer> sol = new HashMap<>();
+        for (int i = 0; i < nums.length; i++) {
+            if (sol.get(nums[i]) != null && Math.abs(sol.get(nums[i]) - i - 1) <= k)
                 return true;
-            sol.put(nums[i],i+1);
+            sol.put(nums[i], i + 1);
         }
         return false;
     }
 }
-

@@ -44,29 +44,24 @@
  */
 class Solution {
     public int maxAreaOfIsland(int[][] grid) {
-        int maxarea=0;
-        for(int i=0;i<grid.length;i++)
-        {
-            for(int j=0;j<grid[0].length;j++)
-            {
-                if(grid[i][j]==0)
-                {
+        int maxarea = 0;
+        for (int i = 0; i < grid.length; i++) {
+            for (int j = 0; j < grid[0].length; j++) {
+                if (grid[i][j] == 0) {
                     continue;
                 }
-                maxarea=Math.max(maxarea,depth(grid,i,j));
+                maxarea = Math.max(maxarea, depth(grid, i, j));
             }
         }
         return maxarea;
     }
-    
-    int depth(int[][] grid,int row,int col)
-    {
-        if(row>=grid.length||col>=grid[0].length||row<0||col<0||grid[row][col]==0)
-        {
+
+    int depth(int[][] grid, int row, int col) {
+        if (row >= grid.length || col >= grid[0].length || row < 0 || col < 0 || grid[row][col] == 0) {
             return 0;
         }
-        grid[row][col]=0;
-        return 1+depth(grid,row-1,col)+depth(grid,row+1,col)+depth(grid,row,col-1)+depth(grid,row,col+1);
+        grid[row][col] = 0;
+        return 1 + depth(grid, row - 1, col) + depth(grid, row + 1, col) + depth(grid, row, col - 1)
+                + depth(grid, row, col + 1);
     }
 }
-

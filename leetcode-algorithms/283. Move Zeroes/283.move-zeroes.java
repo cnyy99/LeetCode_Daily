@@ -29,20 +29,15 @@
  */
 class Solution {
     public void moveZeroes(int[] nums) {
-        int snowsize=0;
-        for(int i=0;i<nums.length;i++)
-        {
-            if(nums[i]==0)
-            {
+        int snowsize = 0;
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] == 0) {
                 snowsize++;
-            }
-            else
-            {
-                int temp=nums[i-snowsize];
-                nums[i-snowsize]=nums[i];
-                nums[i]=temp;
+            } else {
+                int temp = nums[i - snowsize];
+                nums[i - snowsize] = nums[i];
+                nums[i] = temp;
             }
         }
     }
 }
-

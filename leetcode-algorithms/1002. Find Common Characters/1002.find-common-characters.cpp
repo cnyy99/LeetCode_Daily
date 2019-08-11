@@ -49,37 +49,38 @@
  * 
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    vector<string> commonChars(vector<string>& A) {
-        vector<int>charcount(26,0);
-        for(auto i=0;i<A[0].length();i++)
+    vector<string> commonChars(vector<string> &A)
+    {
+        vector<int> charcount(26, 0);
+        for (auto i = 0; i < A[0].length(); i++)
         {
-            charcount[A[0][i]-'a']++;
+            charcount[A[0][i] - 'a']++;
         }
-        for(auto i=1;i<A.size();i++)
+        for (auto i = 1; i < A.size(); i++)
         {
-            vector<int>tempcount(26,0);
-            for(char t:A[i])
+            vector<int> tempcount(26, 0);
+            for (char t : A[i])
             {
-                tempcount[t-'a']++;
+                tempcount[t - 'a']++;
             }
-            for(auto j=0;j<26;j++)
+            for (auto j = 0; j < 26; j++)
             {
-                charcount[j]=min(charcount[j],tempcount[j]);
+                charcount[j] = min(charcount[j], tempcount[j]);
             }
         }
-        vector<string>sol;
-        for(auto i=0;i<26;i++)
+        vector<string> sol;
+        for (auto i = 0; i < 26; i++)
         {
-            for(auto j=0;j<charcount[i];j++)
+            for (auto j = 0; j < charcount[i]; j++)
             {
-                char temp='a'+i;
-                string tempp=string(1,temp);
+                char temp = 'a' + i;
+                string tempp = string(1, temp);
                 sol.push_back(tempp);
             }
         }
         return sol;
     }
 };
-

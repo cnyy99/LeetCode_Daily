@@ -39,18 +39,19 @@
  * 
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    int maxProfit(vector<int>& prices) {
-        if(prices.size()==0)
+    int maxProfit(vector<int> &prices)
+    {
+        if (prices.size() == 0)
             return 0;
-        int mins=prices[0],maxs=0;
-        for(int i=1;i<prices.size();i++)
+        int mins = prices[0], maxs = 0;
+        for (int i = 1; i < prices.size(); i++)
         {
-            mins=min(mins,prices[i]);
-            maxs=max(prices[i]-mins,maxs);
+            mins = min(mins, prices[i]);
+            maxs = max(prices[i] - mins, maxs);
         }
         return maxs;
     }
 };
-

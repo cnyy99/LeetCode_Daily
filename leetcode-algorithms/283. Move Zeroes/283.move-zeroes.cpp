@@ -27,20 +27,21 @@
  * Minimize the total number of operations.
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    void moveZeroes(vector<int>& nums) {
-        int size=nums.size();
-        for(auto it=nums.begin();it<nums.end();)
+    void moveZeroes(vector<int> &nums)
+    {
+        int size = nums.size();
+        for (auto it = nums.begin(); it < nums.end();)
         {
-            if(*it==0)
+            if (*it == 0)
             {
-                it=nums.erase(it);
+                it = nums.erase(it);
                 continue;
             }
             it++;
         }
-        nums.resize(size,0);
+        nums.resize(size, 0);
     }
 };
-

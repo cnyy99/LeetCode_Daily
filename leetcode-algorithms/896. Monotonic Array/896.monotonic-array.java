@@ -82,47 +82,37 @@
 class Solution {
     public boolean isMonotonic(int[] A) {
         boolean inc = false, dec = false;
-        int j=1;
-        for(int i=1;i<A.length;i++)
-        {
-            j=i+1;
-            if(A[i-1]<A[i])
-            {
-                inc=true;
+        int j = 1;
+        for (int i = 1; i < A.length; i++) {
+            j = i + 1;
+            if (A[i - 1] < A[i]) {
+                inc = true;
                 break;
             }
-            if(A[i-1]>A[i])
-            {
-                dec=true;
+            if (A[i - 1] > A[i]) {
+                dec = true;
                 break;
             }
         }
-        for (; j < A.length; ++j)
-        {
-            if(inc)
-            {
-                if(A[j-1]<=A[j])
+        for (; j < A.length; ++j) {
+            if (inc) {
+                if (A[j - 1] <= A[j])
                     continue;
-                else
-                {
+                else {
                     return false;
                 }
             }
-            if(dec)
-            {
-                if(A[j-1]>=A[j])
+            if (dec) {
+                if (A[j - 1] >= A[j])
                     continue;
-                else
-                {
+                else {
                     return false;
                 }
             }
-            if(!inc&&!dec)
-            {
-                if(A[j-1]==A[j])
+            if (!inc && !dec) {
+                if (A[j - 1] == A[j])
                     continue;
-                else
-                {
+                else {
                     return false;
                 }
             }
@@ -130,4 +120,3 @@ class Solution {
         return true;
     }
 }
-

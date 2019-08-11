@@ -62,25 +62,19 @@
  */
 class Solution {
     public int numUniqueEmails(String[] emails) {
-        Set<String>sol=new HashSet<>();
-        for (int it = 0; it < emails.length;it++)
-        {
+        Set<String> sol = new HashSet<>();
+        for (int it = 0; it < emails.length; it++) {
             StringBuilder stringBuilder = new StringBuilder(emails[it]);
-            for (int i = 0; i < emails[it].length();i++)
-            {
-                if (stringBuilder.charAt(i)=='@')
-                {
+            for (int i = 0; i < emails[it].length(); i++) {
+                if (stringBuilder.charAt(i) == '@') {
                     sol.add(stringBuilder.toString());
                     break;
                 }
-                if (stringBuilder.charAt(i)=='.')
-                {
+                if (stringBuilder.charAt(i) == '.') {
                     stringBuilder.deleteCharAt(i--);
                 }
-                if (stringBuilder.charAt(i)=='+')
-                {
-                    while(i < emails[it].length()&&stringBuilder.charAt(i)!='@')
-                    {
+                if (stringBuilder.charAt(i) == '+') {
+                    while (i < emails[it].length() && stringBuilder.charAt(i) != '@') {
                         stringBuilder.deleteCharAt(i);
                     }
                     i--;
@@ -90,4 +84,3 @@ class Solution {
         return sol.size();
     }
 }
-

@@ -54,7 +54,7 @@ public:
         ListNode *q = head;
         while (q)
         {
-            while (q->next&& q->val == q->next->val)
+            while (q->next && q->val == q->next->val)
             {
                 q = q->next;
             }

@@ -46,22 +46,19 @@
  */
 class Solution {
     public boolean isPalindrome(int x) {
-        if(x<0)
-        {
+        if (x < 0) {
             return false;
         }
         long thi = x;
         long another = thi % 10;
         thi /= 10;
         long temp = 0;
-        while(thi!=0)
-        {
+        while (thi != 0) {
             temp = thi % 10;
-            another = another*10+temp;
+            another = another * 10 + temp;
             thi /= 10;
         }
-        //cout << another;
-        return x==another;
+        // cout << another;
+        return x == another;
     }
 }
-

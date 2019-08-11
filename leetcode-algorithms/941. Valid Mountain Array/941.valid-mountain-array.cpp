@@ -69,26 +69,27 @@
  * 
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    bool validMountainArray(vector<int>& A) {
-        bool  des=false;
-        if(A.size()<3)
+    bool validMountainArray(vector<int> &A)
+    {
+        bool des = false;
+        if (A.size() < 3)
             return false;
-        if(A[0]>A[1])
+        if (A[0] > A[1])
             return false;
-        for(int i=0;i<A.size()-1;i++)
+        for (int i = 0; i < A.size() - 1; i++)
         {
-            if(A[i]==A[i+1])
+            if (A[i] == A[i + 1])
                 return false;
-            if(des&&A[i]<A[i+1])
+            if (des && A[i] < A[i + 1])
                 return false;
-            if(A[i]>A[i+1])
+            if (A[i] > A[i + 1])
             {
-                des=true;
+                des = true;
             }
         }
         return des;
     }
 };
-

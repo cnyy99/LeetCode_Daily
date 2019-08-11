@@ -33,20 +33,22 @@
  * Explanation: The sum of 2 and 7 is 9. Therefore index1 = 1, index2 = 2.
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    vector<int> twoSum(vector<int>& numbers, int target) {
-        int i=0,j=numbers.size()-1;
-        vector<int>sol(2);
-        for(;i!=j;)
+    vector<int> twoSum(vector<int> &numbers, int target)
+    {
+        int i = 0, j = numbers.size() - 1;
+        vector<int> sol(2);
+        for (; i != j;)
         {
-            if(numbers[i]+numbers[j]==target)
+            if (numbers[i] + numbers[j] == target)
             {
-                sol[0]=i+1;
-                sol[1]=j+1;
+                sol[0] = i + 1;
+                sol[1] = j + 1;
                 return sol;
             }
-            if(numbers[i]+numbers[j]>target)
+            if (numbers[i] + numbers[j] > target)
                 j--;
             else
                 i++;
@@ -54,4 +56,3 @@ public:
         return sol;
     }
 };
-

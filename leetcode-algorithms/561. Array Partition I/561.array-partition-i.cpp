@@ -34,16 +34,17 @@
  * 
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    int arrayPairSum(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        int sum=0;
-        for(auto iter=nums.begin();iter!=nums.end();iter+=2)
+    int arrayPairSum(vector<int> &nums)
+    {
+        sort(nums.begin(), nums.end());
+        int sum = 0;
+        for (auto iter = nums.begin(); iter != nums.end(); iter += 2)
         {
-            sum+=*iter;
+            sum += *iter;
         }
         return sum;
     }
 };
-

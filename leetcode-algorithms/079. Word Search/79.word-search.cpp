@@ -35,14 +35,16 @@
  * 
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    bool exist(vector<vector<char>>& board, string word) {
-        for (auto i = 0; i < board.size();i++)
+    bool exist(vector<vector<char>> &board, string word)
+    {
+        for (auto i = 0; i < board.size(); i++)
         {
-            for (auto j = 0; j < board[0].size();j++)
+            for (auto j = 0; j < board[0].size(); j++)
             {
-                if(dfs(board,i,j,word))
+                if (dfs(board, i, j, word))
                 {
                     return true;
                 }
@@ -50,13 +52,13 @@ public:
         }
         return false;
     }
-    bool dfs(vector<vector<char>>& board,int row,int col,string& word)
+    bool dfs(vector<vector<char>> &board, int row, int col, string &word)
     {
-        if(word.empty())
+        if (word.empty())
         {
             return true;
         }
-        if(row<0||col<0||row>=board.size()||col>=board[0].size()||word[0]!=board[row][col])
+        if (row < 0 || col < 0 || row >= board.size() || col >= board[0].size() || word[0] != board[row][col])
         {
             return false;
         }
@@ -64,7 +66,7 @@ public:
         board[row][col] = '.';
         string newword = word.substr(1);
         bool result = dfs(board, row - 1, col, newword) || dfs(board, row, col - 1, newword) || dfs(board, row + 1, col, newword) || dfs(board, row, col + 1, newword);
-        board[row][col]=ch;
+        board[row][col] = ch;
         return result;
     }
 };

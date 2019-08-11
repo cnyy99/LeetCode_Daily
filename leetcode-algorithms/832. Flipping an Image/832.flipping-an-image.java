@@ -49,17 +49,14 @@
  */
 class Solution {
     public int[][] flipAndInvertImage(int[][] A) {
-        for(int i=0;i<A.length;i++)
-        {
-            int length=A[i].length;
-            for(int j=0;j<(length+1)/2;j++)
-            {
-                int temp=(A[i][j]==0?1:0);
-                A[i][j]=(A[i][length-j-1]==0?1:0);
-                A[i][length-j-1]=temp;
+        for (int i = 0; i < A.length; i++) {
+            int length = A[i].length;
+            for (int j = 0; j < (length + 1) / 2; j++) {
+                int temp = (A[i][j] == 0 ? 1 : 0);
+                A[i][j] = (A[i][length - j - 1] == 0 ? 1 : 0);
+                A[i][length - j - 1] = temp;
             }
         }
         return A;
     }
 }
-

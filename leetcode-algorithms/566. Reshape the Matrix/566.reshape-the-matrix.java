@@ -68,19 +68,15 @@
  */
 class Solution {
     public int[][] matrixReshape(int[][] nums, int r, int c) {
-        if(r*c!=nums.length*nums[0].length)
-        {
+        if (r * c != nums.length * nums[0].length) {
             return nums;
         }
-        int [][]sol=new int[r][c];
-        for(int i=0,k=0;i<r;i++)
-        {
-            for(int j=0;j<c;j++,k++)
-            {
-                sol[i][j]=nums[k/nums[0].length][k%nums[0].length];
+        int[][] sol = new int[r][c];
+        for (int i = 0, k = 0; i < r; i++) {
+            for (int j = 0; j < c; j++, k++) {
+                sol[i][j] = nums[k / nums[0].length][k % nums[0].length];
             }
         }
         return sol;
     }
 }
-

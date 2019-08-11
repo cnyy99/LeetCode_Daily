@@ -45,17 +45,13 @@
 class Solution {
     public int numJewelsInStones(String J, String S) {
         int sol = 0;
-        for(char ch1:J.toCharArray())
-        {
-            for(char ch2:S.toCharArray())
-            {
-                if(ch1==ch2)
-                {
+        for (char ch1 : J.toCharArray()) {
+            for (char ch2 : S.toCharArray()) {
+                if (ch1 == ch2) {
                     sol++;
                 }
             }
         }
-            return sol;
+        return sol;
     }
 }
-

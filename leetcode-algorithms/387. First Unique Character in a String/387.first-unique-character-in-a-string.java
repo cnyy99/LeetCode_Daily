@@ -35,14 +35,11 @@ class Solution {
     public int firstUniqChar(String s) {
         int[] result = new int[26];
         Arrays.fill(result, 0);
-        for(char t:s.toCharArray())
-        {
-            result[t-'a']++;
+        for (char t : s.toCharArray()) {
+            result[t - 'a']++;
         }
-        for (int i = 0; i < s.length();i++)
-        {
-            if(result[s.charAt(i)-'a']==1)
-            {
+        for (int i = 0; i < s.length(); i++) {
+            if (result[s.charAt(i) - 'a'] == 1) {
                 return i;
             }
         }

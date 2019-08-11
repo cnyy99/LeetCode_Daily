@@ -74,23 +74,26 @@
  * 
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    int  sizeTable [9]= { 9, 99, 999, 9999, 99999, 999999 ,9999999,99999999,999999999};
+    int sizeTable[9] = {9, 99, 999, 9999, 99999, 999999, 9999999, 99999999, 999999999};
 
-    int stringSize(int x) {
-        for (int i=0; ; i++)
+    int stringSize(int x)
+    {
+        for (int i = 0;; i++)
             if (x <= sizeTable[i])
-                return i+1;
+                return i + 1;
     }
-    vector<int> addToArrayForm(vector<int>& A, int K) {
+    vector<int> addToArrayForm(vector<int> &A, int K)
+    {
         vector<int> sol(max((int)A.size(), stringSize(K)), 0);
-        for (int i=1; i < A.size()+1;i++)
+        for (int i = 1; i < A.size() + 1; i++)
         {
             sol[sol.size() - i] = A[A.size() - i];
         }
         int plus = (sol[sol.size() - 1] + K) / 10;
-		sol[sol.size() - 1] = (sol[sol.size() - 1] + K)%10;
+        sol[sol.size() - 1] = (sol[sol.size() - 1] + K) % 10;
         for (int i = sol.size() - 2; i >= 0; i--)
         {
             sol[i] += plus;
@@ -100,11 +103,10 @@ public:
                 sol[i] %= 10;
             }
         }
-		if (plus)
-		{
-			sol.insert(sol.begin(), 1);
-		}
-		return sol;
+        if (plus)
+        {
+            sol.insert(sol.begin(), 1);
+        }
+        return sol;
     }
 };
-

@@ -33,18 +33,20 @@
  * ]
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    vector<vector<int>> subsets(vector<int>& nums) {
+    vector<vector<int>> subsets(vector<int> &nums)
+    {
         vector<vector<int>> sol;
-        vector<int>temp;
+        vector<int> temp;
         sol.push_back(temp);
-        for(auto t:nums)
+        for (auto t : nums)
         {
             int size = sol.size();
-            for(int i = 0 ; i < size ; i++)
+            for (int i = 0; i < size; i++)
             {
-                vector<int>subsets(sol[i]);
+                vector<int> subsets(sol[i]);
                 subsets.push_back(t);
                 sol.push_back(subsets);
             }
@@ -52,4 +54,3 @@ public:
         return sol;
     }
 };
-

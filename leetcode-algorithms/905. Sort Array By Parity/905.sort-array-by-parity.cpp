@@ -38,13 +38,15 @@
  * 
  * 
  */
-class Solution {
+class Solution
+{
 public:
-    vector<int> sortArrayByParity(vector<int>& A) {
+    vector<int> sortArrayByParity(vector<int> &A)
+    {
         int length = A.size();
-        vector<int>a;
-        vector<int>b;
-        for (auto t:A)
+        vector<int> a;
+        vector<int> b;
+        for (auto t : A)
         {
             if (t % 2 == 0)
             {
@@ -59,4 +61,3 @@ public:
         return a;
     }
 };
-

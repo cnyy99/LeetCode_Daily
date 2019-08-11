@@ -42,14 +42,14 @@
  * 
  */
 class Solution {
-    int []bc=new int[256];
-    int[] getbc(String pattern)					//求模板串坏字符表
+    int[] bc = new int[256];
+
+    int[] getbc(String pattern) // 求模板串坏字符表
     {
-        int  patternLen = pattern.length();
+        int patternLen = pattern.length();
         for (int i = 0; i < 256; ++i)
             bc[i] = -1;
-        for (int i = 0; i <  patternLen; ++i)
-        {
+        for (int i = 0; i < patternLen; ++i) {
             bc[pattern.charAt(i)] = i;
         }
         return bc;
@@ -57,17 +57,16 @@ class Solution {
 
     public int strStr(String haystack, String needle) {
         if (needle == "")
-		    return 0;
-        int []abc = getbc(needle);
-        int i = 0, j=0,span;
-        int patternlast = needle.length() - 1,patternLen = needle.length(),strLen = haystack.length();
-        while (i + patternLen <= strLen)
-        {
-            for (j = patternlast; j >= 0 && needle.charAt(j) == haystack.charAt(i+j); --j);
+            return 0;
+        int[] abc = getbc(needle);
+        int i = 0, j = 0, span;
+        int patternlast = needle.length() - 1, patternLen = needle.length(), strLen = haystack.length();
+        while (i + patternLen <= strLen) {
+            for (j = patternlast; j >= 0 && needle.charAt(j) == haystack.charAt(i + j); --j)
+                ;
             if (j == -1)
                 break;
-            else
-            {
+            else {
                 span = j - abc[haystack.charAt(i + j)];
                 i += (span > 0) ? span : 1;
             }
@@ -75,4 +74,3 @@ class Solution {
         return j == -1 ? i : -1;
     }
 }
-

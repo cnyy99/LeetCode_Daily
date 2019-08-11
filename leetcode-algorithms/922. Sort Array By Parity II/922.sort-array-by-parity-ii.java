@@ -46,22 +46,17 @@
  */
 class Solution {
     public int[] sortArrayByParityII(int[] A) {
-        int []out=new int[A.length];
-        int i=0,j=1;
-        for(int t:A)
-        {
-            if((t&1)==0)
-            {
-                out[i]=t;
-                i+=2;
-            }
-            else
-            {
-                out[j]=t;
-                j+=2;
+        int[] out = new int[A.length];
+        int i = 0, j = 1;
+        for (int t : A) {
+            if ((t & 1) == 0) {
+                out[i] = t;
+                i += 2;
+            } else {
+                out[j] = t;
+                j += 2;
             }
         }
         return out;
     }
 }
-
