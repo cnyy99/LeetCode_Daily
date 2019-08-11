@@ -28,21 +28,16 @@
 
 class Solution:
     def threeSumClosest(self, nums: List[int], target: int) -> int:
-        closest = 9999999999999999999999999999
-        this_len = 0
-        sol = 0
-        nums = sorted(nums)
+        closest, this_len, sol, nums = 9999999999999999999999999999, 0, 0, sorted(nums)
         for i in range(len(nums)):
-            left = i+1
-            right = len(nums)-1
+            left, right = i + 1, len(nums) - 1
             while left < right:
-                this_sum = nums[i]+nums[left]+nums[right]
-                this_len = abs(this_sum-target)
+                this_sum = nums[i] + nums[left] + nums[right]
+                this_len = abs(this_sum - target)
                 if this_sum == target:
                     return this_sum
                 if this_len < closest:
-                    closest = this_len
-                    sol = this_sum
+                    closest, sol = this_len, this_sum
                 if this_sum > target:
                     right -= 1
                 else:
