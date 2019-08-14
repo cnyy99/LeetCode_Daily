@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **109** / **1080** problems while **173** are still locked.
+In this repository, I have solved **110** / **1080** problems while **173** are still locked.
 
 Completion statistic: 
-1. Python: 109
-2. C++: 109
-3. Java: 108
+1. Python: 110
+2. C++: 110
+3. Java: 109
 ----------------
 ## LeetCode Solution Table
 <div align=center>
@@ -69,6 +69,7 @@ Completion statistic:
 |169|[Majority Element](https://leetcode.com/problems/majority-element/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/169.%20Majority%20Element/169.majority-element.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/169.%20Majority%20Element/169.majority-element.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/169.%20Majority%20Element/169.majority-element.java)|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/191.%20Number%20of%201%20Bits/191.number-of-1-bits.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/191.%20Number%20of%201%20Bits/191.number-of-1-bits.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/191.%20Number%20of%201%20Bits/191.number-of-1-bits.java)|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/202.%20Happy%20Number/202.happy-number.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/202.%20Happy%20Number/202.happy-number.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/202.%20Happy%20Number/202.happy-number.java)|
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/203.%20Remove%20Linked%20List%20Elements/203.remove-linked-list-elements.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/203.%20Remove%20Linked%20List%20Elements/203.remove-linked-list-elements.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/203.%20Remove%20Linked%20List%20Elements/203.remove-linked-list-elements.java)|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/204.%20Count%20Primes/204.count-primes.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/204.%20Count%20Primes/204.count-primes.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/204.%20Count%20Primes/204.count-primes.java)|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/205.%20Isomorphic%20Strings/205.isomorphic-strings.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/205.%20Isomorphic%20Strings/205.isomorphic-strings.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/205.%20Isomorphic%20Strings/205.isomorphic-strings.java)|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/206.%20Reverse%20Linked%20List/206.reverse-linked-list.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/206.%20Reverse%20Linked%20List/206.reverse-linked-list.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/206.%20Reverse%20Linked%20List/206.reverse-linked-list.java)|
