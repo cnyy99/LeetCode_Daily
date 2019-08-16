@@ -61,7 +61,7 @@ public:
         }
         return newHead.next;
     }
-    
+
     void swapNode(ListNode *p, ListNode *q, ListNode *r)
     {
         q->next = r->next;

@@ -28,7 +28,8 @@
 
 class Solution:
     def threeSumClosest(self, nums: List[int], target: int) -> int:
-        closest, this_len, sol, nums = 9999999999999999999999999999, 0, 0, sorted(nums)
+        closest, this_len, sol, nums = 9999999999999999999999999999, 0, 0, sorted(
+            nums)
         for i in range(len(nums)):
             left, right = i + 1, len(nums) - 1
             while left < right:
