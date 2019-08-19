@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **112** / **1080** problems while **173** are still locked.
+In this repository, I have solved **113** / **1084** problems while **173** are still locked.
 
 Completion statistic: 
-1. Python: 112
-2. C++: 112
-3. Java: 111
+1. Python: 113
+2. C++: 113
+3. Java: 112
 ----------------
 ## LeetCode Solution Table
 <div align=center>
@@ -86,6 +86,7 @@ Completion statistic:
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/328.%20Odd%20Even%20Linked%20List/328.odd-even-linked-list.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/328.%20Odd%20Even%20Linked%20List/328.odd-even-linked-list.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/328.%20Odd%20Even%20Linked%20List/328.odd-even-linked-list.java)|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/387.%20First%20Unique%20Character%20in%20a%20String/387.first-unique-character-in-a-string.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/387.%20First%20Unique%20Character%20in%20a%20String/387.first-unique-character-in-a-string.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/387.%20First%20Unique%20Character%20in%20a%20String/387.first-unique-character-in-a-string.java)|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/389.%20Find%20the%20Difference/389.find-the-difference.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/389.%20Find%20the%20Difference/389.find-the-difference.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/389.%20Find%20the%20Difference/389.find-the-difference.java)|
+|415|[Add Strings](https://leetcode.com/problems/add-strings/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/415.%20Add%20Strings/415.add-strings.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/415.%20Add%20Strings/415.add-strings.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/415.%20Add%20Strings/415.add-strings.java)|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/442.%20Find%20All%20Duplicates%20in%20an%20Array/442.find-all-duplicates-in-an-array.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/442.%20Find%20All%20Duplicates%20in%20an%20Array/442.find-all-duplicates-in-an-array.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/442.%20Find%20All%20Duplicates%20in%20an%20Array/442.find-all-duplicates-in-an-array.java)|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/448.find-all-numbers-disappeared-in-an-array.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/448.find-all-numbers-disappeared-in-an-array.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/448.find-all-numbers-disappeared-in-an-array.java)|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/485.%20Max%20Consecutive%20Ones/485.max-consecutive-ones.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/485.%20Max%20Consecutive%20Ones/485.max-consecutive-ones.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/485.%20Max%20Consecutive%20Ones/485.max-consecutive-ones.java)|
