@@ -6,11 +6,11 @@
 
 </div>
 
-In this repository, I have solved **114** / **1084** problems while **173** are still locked.
+In this repository, I have solved **115** / **1092** problems while **177** are still locked.
 
 Completion statistic: 
 1. Python: 114
-2. C++: 114
+2. C++: 115
 3. Java: 113
 ----------------
 ## LeetCode Solution Table
@@ -41,6 +41,7 @@ Completion statistic:
 |066|[Plus One](https://leetcode.com/problems/plus-one/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/066.%20Plus%20One/66.plus-one.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/066.%20Plus%20One/66.plus-one.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/066.%20Plus%20One/66.plus-one.java)|
 |067|[Add Binary](https://leetcode.com/problems/add-binary/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/067.%20Add%20Binary/67.add-binary.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/067.%20Add%20Binary/67.add-binary.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/067.%20Add%20Binary/67.add-binary.java)|
 |069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/069.%20Sqrt(x)/69.sqrt-x.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/069.%20Sqrt(x)/69.sqrt-x.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/069.%20Sqrt(x)/69.sqrt-x.java)|
+|074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) |Medium|To Do|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/074.%20Search%20a%202D%20Matrix/74.search-a-2-d-matrix.cpp)|To Do|
 |075|[Sort Colors](https://leetcode.com/problems/sort-colors/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/075.%20Sort%20Colors/75.sort-colors.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/075.%20Sort%20Colors/75.sort-colors.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/075.%20Sort%20Colors/75.sort-colors.java)|
 |078|[Subsets](https://leetcode.com/problems/subsets/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/078.%20Subsets/78.subsets.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/078.%20Subsets/78.subsets.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/078.%20Subsets/78.subsets.java)|
 |079|[Word Search](https://leetcode.com/problems/word-search/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/079.%20Word%20Search/79.word-search.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/079.%20Word%20Search/79.word-search.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/079.%20Word%20Search/79.word-search.java)|
