@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **116** / **1092** problems while **177** are still locked.
+In this repository, I have solved **117** / **1096** problems while **177** are still locked.
 
 Completion statistic: 
-1. Python: 116
-2. C++: 116
-3. Java: 115
+1. Python: 117
+2. C++: 117
+3. Java: 116
 ----------------
 ## LeetCode Solution Table
 <div align=center>
@@ -80,6 +80,7 @@ Completion statistic:
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/219.%20Contains%20Duplicate%20II/219.contains-duplicate-ii.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/219.%20Contains%20Duplicate%20II/219.contains-duplicate-ii.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/219.%20Contains%20Duplicate%20II/219.contains-duplicate-ii.java)|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/226.%20Invert%20Binary%20Tree/226.invert-binary-tree.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/226.%20Invert%20Binary%20Tree/226.invert-binary-tree.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/226.%20Invert%20Binary%20Tree/226.invert-binary-tree.java)|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/228.%20Summary%20Ranges/228.summary-ranges.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/228.%20Summary%20Ranges/228.summary-ranges.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/228.%20Summary%20Ranges/228.summary-ranges.java)|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/231.%20Power%20of%20Two/231.power-of-two.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/231.%20Power%20of%20Two/231.power-of-two.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/231.%20Power%20of%20Two/231.power-of-two.java)|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/237.%20Delete%20Node%20in%20a%20Linked%20List/237.delete-node-in-a-linked-list.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/237.%20Delete%20Node%20in%20a%20Linked%20List/237.delete-node-in-a-linked-list.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/237.%20Delete%20Node%20in%20a%20Linked%20List/237.delete-node-in-a-linked-list.java)|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/238.%20Product%20of%20Array%20Except%20Self/238.product-of-array-except-self.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/238.%20Product%20of%20Array%20Except%20Self/238.product-of-array-except-self.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/238.%20Product%20of%20Array%20Except%20Self/238.product-of-array-except-self.java)|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/242.%20Valid%20Anagram/242.valid-anagram.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/242.%20Valid%20Anagram/242.valid-anagram.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/242.%20Valid%20Anagram/242.valid-anagram.java)|
