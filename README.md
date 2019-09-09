@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **118** / **1100** problems while **178** are still locked.
+In this repository, I have solved **119** / **1104** problems while **182** are still locked.
 
 Completion statistic: 
-1. Python: 118
-2. C++: 118
-3. Java: 117
+1. Python: 119
+2. C++: 119
+3. Java: 118
 ----------------
 ## LeetCode Solution Table
 <div align=center>
@@ -70,6 +70,7 @@ Completion statistic:
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/162.%20Find%20Peak%20Element/162.find-peak-element.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/162.%20Find%20Peak%20Element/162.find-peak-element.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/162.%20Find%20Peak%20Element/162.find-peak-element.java)|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/167.two-sum-ii-input-array-is-sorted.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/167.two-sum-ii-input-array-is-sorted.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/167.two-sum-ii-input-array-is-sorted.java)|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/169.%20Majority%20Element/169.majority-element.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/169.%20Majority%20Element/169.majority-element.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/169.%20Majority%20Element/169.majority-element.java)|
+|172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/172.%20Factorial%20Trailing%20Zeroes/172.factorial-trailing-zeroes.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/172.%20Factorial%20Trailing%20Zeroes/172.factorial-trailing-zeroes.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/172.%20Factorial%20Trailing%20Zeroes/172.factorial-trailing-zeroes.java)|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/191.%20Number%20of%201%20Bits/191.number-of-1-bits.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/191.%20Number%20of%201%20Bits/191.number-of-1-bits.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/191.%20Number%20of%201%20Bits/191.number-of-1-bits.java)|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/200.%20Number%20of%20Islands/200.number-of-islands.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/200.%20Number%20of%20Islands/200.number-of-islands.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/200.%20Number%20of%20Islands/200.number-of-islands.java)|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/202.%20Happy%20Number/202.happy-number.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/202.%20Happy%20Number/202.happy-number.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/202.%20Happy%20Number/202.happy-number.java)|
