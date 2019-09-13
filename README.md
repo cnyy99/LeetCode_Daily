@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **120** / **1104** problems while **182** are still locked.
+In this repository, I have solved **121** / **1104** problems while **182** are still locked.
 
 Completion statistic: 
-1. Python: 120
-2. C++: 120
-3. Java: 119
+1. Python: 121
+2. C++: 121
+3. Java: 120
 ----------------
 ## LeetCode Solution Table
 <div align=center>
@@ -86,6 +86,7 @@ Completion statistic:
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/237.%20Delete%20Node%20in%20a%20Linked%20List/237.delete-node-in-a-linked-list.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/237.%20Delete%20Node%20in%20a%20Linked%20List/237.delete-node-in-a-linked-list.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/237.%20Delete%20Node%20in%20a%20Linked%20List/237.delete-node-in-a-linked-list.java)|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/238.%20Product%20of%20Array%20Except%20Self/238.product-of-array-except-self.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/238.%20Product%20of%20Array%20Except%20Self/238.product-of-array-except-self.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/238.%20Product%20of%20Array%20Except%20Self/238.product-of-array-except-self.java)|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/242.%20Valid%20Anagram/242.valid-anagram.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/242.%20Valid%20Anagram/242.valid-anagram.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/242.%20Valid%20Anagram/242.valid-anagram.java)|
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/263.%20Ugly%20Number/263.ugly-number.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/263.%20Ugly%20Number/263.ugly-number.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/263.%20Ugly%20Number/263.ugly-number.java)|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/268.%20Missing%20Number/268.missing-number.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/268.%20Missing%20Number/268.missing-number.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/268.%20Missing%20Number/268.missing-number.java)|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/283.%20Move%20Zeroes/283.move-zeroes.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/283.%20Move%20Zeroes/283.move-zeroes.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/283.%20Move%20Zeroes/283.move-zeroes.java)|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/287.%20Find%20the%20Duplicate%20Number/287.find-the-duplicate-number.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/287.%20Find%20the%20Duplicate%20Number/287.find-the-duplicate-number.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/287.%20Find%20the%20Duplicate%20Number/287.find-the-duplicate-number.java)|
