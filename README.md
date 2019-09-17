@@ -6,7 +6,7 @@
 
 </div>
 
-In this repository, I have solved **121** / **1104** problems while **182** are still locked.
+In this repository, I have solved **121** / **1108** problems while **182** are still locked.
 
 Completion statistic: 
 1. Python: 121
