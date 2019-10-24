@@ -49,11 +49,9 @@
  */
 class Solution {
     public boolean isUgly(int num) {
-        int[] prime = {2, 3, 5};
-        for (int i : prime)
-        {
-            while (num!=0 && num % i == 0)
-            {
+        int[] prime = { 2, 3, 5 };
+        for (int i : prime) {
+            while (num != 0 && num % i == 0) {
                 num /= i;
             }
         }

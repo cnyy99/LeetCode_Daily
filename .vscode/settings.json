@@ -34,7 +34,7 @@
     "workbench.editor.enablePreview": false,
     "editor.formatOnSave": true,
     "http.proxySupport": "on",
-    "http.proxy": "socks5://127.0.0.1:1080",
+    "http.proxy": "http://127.0.0.1:1087",
     "files.associations": {
         "vector": "cpp",
         "array": "cpp",
