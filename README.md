@@ -6,11 +6,11 @@
 
 </div>
 
-In this repository, I have solved **122** / **1196** problems while **208** are still locked.
+In this repository, I have solved **122** / **1216** problems while **208** are still locked.
 
 Completion statistic: 
-1. Python: 121
-2. C++: 121
+1. Python: 122
+2. C++: 122
 3. Java: 121
 ----------------
 ## LeetCode Solution Table
@@ -100,7 +100,7 @@ Completion statistic:
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/485.%20Max%20Consecutive%20Ones/485.max-consecutive-ones.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/485.%20Max%20Consecutive%20Ones/485.max-consecutive-ones.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/485.%20Max%20Consecutive%20Ones/485.max-consecutive-ones.java)|
 |495|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/495.%20Teemo%20Attacking/495.teemo-attacking.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/495.%20Teemo%20Attacking/495.teemo-attacking.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/495.%20Teemo%20Attacking/495.teemo-attacking.java)|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/509.%20Fibonacci%20Number/509.fibonacci-number.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/509.%20Fibonacci%20Number/509.fibonacci-number.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/509.%20Fibonacci%20Number/509.fibonacci-number.java)|
-|542|[01 Matrix](https://leetcode.com/problems/01-matrix/description/) |Medium|To Do|To Do|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/542.%2001%20Matrix/542.01-matrix.java)|
+|542|[01 Matrix](https://leetcode.com/problems/01-matrix/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/542.%2001%20Matrix/542.01-matrix.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/542.%2001%20Matrix/542.01-matrix.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/542.%2001%20Matrix/542.01-matrix.java)|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/561.%20Array%20Partition%20I/561.array-partition-i.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/561.%20Array%20Partition%20I/561.array-partition-i.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/561.%20Array%20Partition%20I/561.array-partition-i.java)|
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/566.%20Reshape%20the%20Matrix/566.reshape-the-matrix.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/566.%20Reshape%20the%20Matrix/566.reshape-the-matrix.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/566.%20Reshape%20the%20Matrix/566.reshape-the-matrix.java)|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/628.%20Maximum%20Product%20of%20Three%20Numbers/628.maximum-product-of-three-numbers.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/628.%20Maximum%20Product%20of%20Three%20Numbers/628.maximum-product-of-three-numbers.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/628.%20Maximum%20Product%20of%20Three%20Numbers/628.maximum-product-of-three-numbers.java)|
