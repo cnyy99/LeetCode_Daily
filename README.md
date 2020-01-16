@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **122** / **1216** problems while **208** are still locked.
+In this repository, I have solved **123** / **1216** problems while **208** are still locked.
 
 Completion statistic: 
-1. Python: 122
-2. C++: 122
-3. Java: 121
+1. Python: 123
+2. C++: 123
+3. Java: 122
 ----------------
 ## LeetCode Solution Table
 <div align=center>
@@ -39,6 +39,7 @@ Completion statistic:
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/053.%20Maximum%20Subarray/53.maximum-subarray.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/053.%20Maximum%20Subarray/53.maximum-subarray.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/053.%20Maximum%20Subarray/53.maximum-subarray.java)|
 |055|[Jump Game](https://leetcode.com/problems/jump-game/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/055.%20Jump%20Game/55.jump-game.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/055.%20Jump%20Game/55.jump-game.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/055.%20Jump%20Game/55.jump-game.java)|
 |058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/058.%20Length%20of%20Last%20Word/58.length-of-last-word.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/058.%20Length%20of%20Last%20Word/58.length-of-last-word.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/058.%20Length%20of%20Last%20Word/58.length-of-last-word.java)|
+|065|[Valid Number](https://leetcode.com/problems/valid-number/description/) |Hard|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/065.%20Valid%20Number/65.valid-number.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/065.%20Valid%20Number/65.valid-number.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/065.%20Valid%20Number/65.valid-number.java)|
 |066|[Plus One](https://leetcode.com/problems/plus-one/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/066.%20Plus%20One/66.plus-one.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/066.%20Plus%20One/66.plus-one.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/066.%20Plus%20One/66.plus-one.java)|
 |067|[Add Binary](https://leetcode.com/problems/add-binary/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/067.%20Add%20Binary/67.add-binary.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/067.%20Add%20Binary/67.add-binary.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/067.%20Add%20Binary/67.add-binary.java)|
 |069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/069.%20Sqrt(x)/69.sqrt-x.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/069.%20Sqrt(x)/69.sqrt-x.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/069.%20Sqrt(x)/69.sqrt-x.java)|
