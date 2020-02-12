@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **123** / **1216** problems while **208** are still locked.
+In this repository, I have solved **124** / **1240** problems while **208** are still locked.
 
 Completion statistic: 
-1. Python: 123
-2. C++: 123
-3. Java: 122
+1. Python: 124
+2. C++: 124
+3. Java: 123
 ----------------
 ## LeetCode Solution Table
 <div align=center>
@@ -36,6 +36,7 @@ Completion statistic:
 |034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/034.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/34.find-first-and-last-position-of-element-in-sorted-array.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/034.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/34.find-first-and-last-position-of-element-in-sorted-array.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/034.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/34.find-first-and-last-position-of-element-in-sorted-array.java)|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/035.%20Search%20Insert%20Position/35.search-insert-position.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/035.%20Search%20Insert%20Position/35.search-insert-position.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/035.%20Search%20Insert%20Position/35.search-insert-position.java)|
 |041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) |Hard|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/041.%20First%20Missing%20Positive/41.first-missing-positive.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/041.%20First%20Missing%20Positive/41.first-missing-positive.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/041.%20First%20Missing%20Positive/41.first-missing-positive.java)|
+|048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/048.%20Rotate%20Image/48.rotate-image.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/048.%20Rotate%20Image/48.rotate-image.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/048.%20Rotate%20Image/48.rotate-image.java)|
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/053.%20Maximum%20Subarray/53.maximum-subarray.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/053.%20Maximum%20Subarray/53.maximum-subarray.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/053.%20Maximum%20Subarray/53.maximum-subarray.java)|
 |055|[Jump Game](https://leetcode.com/problems/jump-game/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/055.%20Jump%20Game/55.jump-game.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/055.%20Jump%20Game/55.jump-game.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/055.%20Jump%20Game/55.jump-game.java)|
 |058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/058.%20Length%20of%20Last%20Word/58.length-of-last-word.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/058.%20Length%20of%20Last%20Word/58.length-of-last-word.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/058.%20Length%20of%20Last%20Word/58.length-of-last-word.java)|
