@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **127** / **1293** problems while **208** are still locked.
+In this repository, I have solved **128** / **1293** problems while **208** are still locked.
 
 Completion statistic: 
-1. Python: 127
-2. C++: 127
-3. Java: 126
+1. Python: 128
+2. C++: 128
+3. Java: 127
 ----------------
 ## LeetCode Solution Table
 <div align=center>
@@ -69,6 +69,7 @@ Completion statistic:
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/119.%20Pascal's%20Triangle%20II/119.pascals-triangle-ii.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/119.%20Pascal's%20Triangle%20II/119.pascals-triangle-ii.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/119.%20Pascal's%20Triangle%20II/119.pascals-triangle-ii.java)|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/121.best-time-to-buy-and-sell-stock.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/121.best-time-to-buy-and-sell-stock.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/121.best-time-to-buy-and-sell-stock.java)|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/122.best-time-to-buy-and-sell-stock-ii.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/122.best-time-to-buy-and-sell-stock-ii.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/122.best-time-to-buy-and-sell-stock-ii.java)|
+|124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) |Hard|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/124.%20Binary%20Tree%20Maximum%20Path%20Sum/124.binary-tree-maximum-path-sum.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/124.%20Binary%20Tree%20Maximum%20Path%20Sum/124.binary-tree-maximum-path-sum.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/124.%20Binary%20Tree%20Maximum%20Path%20Sum/124.binary-tree-maximum-path-sum.java)|
 |136|[Single Number](https://leetcode.com/problems/single-number/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/136.%20Single%20Number/136.single-number.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/136.%20Single%20Number/136.single-number.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/136.%20Single%20Number/136.single-number.java)|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/144.%20Binary%20Tree%20Preorder%20Traversal/144.binary-tree-preorder-traversal.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/144.%20Binary%20Tree%20Preorder%20Traversal/144.binary-tree-preorder-traversal.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/144.%20Binary%20Tree%20Preorder%20Traversal/144.binary-tree-preorder-traversal.java)|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) |Hard|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/145.%20Binary%20Tree%20Postorder%20Traversal/145.binary-tree-postorder-traversal.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/145.%20Binary%20Tree%20Postorder%20Traversal/145.binary-tree-postorder-traversal.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/145.%20Binary%20Tree%20Postorder%20Traversal/145.binary-tree-postorder-traversal.java)|
