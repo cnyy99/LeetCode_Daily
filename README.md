@@ -6,13 +6,13 @@
 
 </div>
 
-In this repository, I have solved **132** / **1678** problems while **261** are still locked.
+In this repository, I have solved **132** / **1679** problems while **262** are still locked.
 
 Completion statistic: 
 1. Python: 129
 2. Java: 130
 3. C++: 130
-4. Kotlin: 2
+4. Kotlin: 3
 5. Golang: 0
 ----------------
 ## LeetCode Solution Table
@@ -48,7 +48,7 @@ Completion statistic:
 |066|[Plus One](https://leetcode.com/problems/plus-one/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/066.%20Plus%20One/66.plus-one.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/066.%20Plus%20One/66.plus-one.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/066.%20Plus%20One/66.plus-one.java)|To Do|To Do|
 |067|[Add Binary](https://leetcode.com/problems/add-binary/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/067.%20Add%20Binary/67.add-binary.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/067.%20Add%20Binary/67.add-binary.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/067.%20Add%20Binary/67.add-binary.java)|To Do|To Do|
 |069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/069.%20Sqrt(x)/69.sqrt-x.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/069.%20Sqrt(x)/69.sqrt-x.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/069.%20Sqrt(x)/69.sqrt-x.java)|To Do|To Do|
-|070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/070.%20Climbing%20Stairs/70.climbing-stairs.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/070.%20Climbing%20Stairs/70.climbing-stairs.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/070.%20Climbing%20Stairs/70.climbing-stairs.java)|To Do|To Do|
+|070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/070.%20Climbing%20Stairs/70.climbing-stairs.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/070.%20Climbing%20Stairs/70.climbing-stairs.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/070.%20Climbing%20Stairs/70.climbing-stairs.java)|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/070.%20Climbing%20Stairs/70.climbing-stairs.kt)|To Do|
 |074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/074.%20Search%20a%202D%20Matrix/74.search-a-2-d-matrix.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/074.%20Search%20a%202D%20Matrix/74.search-a-2-d-matrix.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/074.%20Search%20a%202D%20Matrix/74.search-a-2-d-matrix.java)|To Do|To Do|
 |075|[Sort Colors](https://leetcode.com/problems/sort-colors/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/075.%20Sort%20Colors/75.sort-colors.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/075.%20Sort%20Colors/75.sort-colors.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/075.%20Sort%20Colors/75.sort-colors.java)|To Do|To Do|
 |078|[Subsets](https://leetcode.com/problems/subsets/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/078.%20Subsets/78.subsets.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/078.%20Subsets/78.subsets.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/078.%20Subsets/78.subsets.java)|To Do|To Do|
