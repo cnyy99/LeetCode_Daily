@@ -6,13 +6,13 @@
 
 </div>
 
-In this repository, I have solved **133** / **1679** problems while **262** are still locked.
+In this repository, I have solved **134** / **1679** problems while **262** are still locked.
 
 Completion statistic: 
 1. Python: 129
 2. Java: 130
 3. C++: 130
-4. Kotlin: 4
+4. Kotlin: 5
 5. Golang: 0
 ----------------
 ## LeetCode Solution Table
@@ -105,6 +105,7 @@ Completion statistic:
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/287.%20Find%20the%20Duplicate%20Number/287.find-the-duplicate-number.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/287.%20Find%20the%20Duplicate%20Number/287.find-the-duplicate-number.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/287.%20Find%20the%20Duplicate%20Number/287.find-the-duplicate-number.java)|To Do|To Do|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/326.%20Power%20of%20Three/326.power-of-three.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/326.%20Power%20of%20Three/326.power-of-three.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/326.%20Power%20of%20Three/326.power-of-three.java)|To Do|To Do|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/328.%20Odd%20Even%20Linked%20List/328.odd-even-linked-list.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/328.%20Odd%20Even%20Linked%20List/328.odd-even-linked-list.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/328.%20Odd%20Even%20Linked%20List/328.odd-even-linked-list.java)|To Do|To Do|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/description/) |Easy|To Do|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/344.%20Reverse%20String/344.reverse-string.kt)|To Do|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/387.%20First%20Unique%20Character%20in%20a%20String/387.first-unique-character-in-a-string.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/387.%20First%20Unique%20Character%20in%20a%20String/387.first-unique-character-in-a-string.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/387.%20First%20Unique%20Character%20in%20a%20String/387.first-unique-character-in-a-string.java)|To Do|To Do|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/389.%20Find%20the%20Difference/389.find-the-difference.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/389.%20Find%20the%20Difference/389.find-the-difference.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/389.%20Find%20the%20Difference/389.find-the-difference.java)|To Do|To Do|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/415.%20Add%20Strings/415.add-strings.py)|[C++](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/415.%20Add%20Strings/415.add-strings.cpp)|[Java](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/415.%20Add%20Strings/415.add-strings.java)|To Do|To Do|
