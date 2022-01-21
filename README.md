@@ -20,6 +20,6 @@ Completion statistic:
 
 | ID | Title | Difficulty | Python | Java | C++ | Kotlin | Golang |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|001|[Two Sum](https://leetcode-cn.com/problems/two-sum/description/) |Easy|To Do|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/001.%20Two%20Sum/1.两数之和.kt)|To Do|
-|002|[Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/description/) |Medium|To Do|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/master/leetcode-algorithms/002.%20Add%20Two%20Numbers/2.两数相加.kt)|To Do|
+|001|[Two Sum](https://leetcode-cn.com/problems/two-sum/description/) |Easy|To Do|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/001.%20Two%20Sum/1.两数之和.kt)|To Do|
+|002|[Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/description/) |Medium|To Do|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/002.%20Add%20Two%20Numbers/2.两数相加.kt)|To Do|
 </div>
