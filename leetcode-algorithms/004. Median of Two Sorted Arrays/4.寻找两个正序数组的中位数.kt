@@ -73,6 +73,7 @@
 
 // @lc code=start
 class Solution {
+    // 复杂度还没达到要求 目前是 O(m+n)
     fun findMedianSortedArrays(nums1: IntArray, nums2: IntArray): Double {
         // 创建一个新数组
         val array = IntArray(nums1.size + nums2.size)
