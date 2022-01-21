@@ -63,17 +63,26 @@
 // @lc code=start
 class Solution {
     fun lengthOfLongestSubstring(s: String): Int {
+        if (s.length <= 1) {
+            return s.length
+        }
         var maxCount: Int = 0
         val set = HashSet<Char>()
         val map = HashMap<Char, Int>()
         var left = 0
         s.forEachIndexed { end, char ->
+            // 该字母是否存在于目前的窗口内的字符集里
             if (char in set) {
+                // 更新窗口的开始下标为无重复字母且最靠左的位置
                 left = Math.max(map[char]!! + 1, left)
+                // 把该字母移除窗口内的字符集
                 set.remove(char)
             }
+            // 更新最长无重复字符最长子串的长度
             maxCount = Math.max(maxCount, end - left + 1)
+            // 加入目前窗口内存在的字符集中
             set.add(char)
+            // 记录字符最后一次出现的位置
             map[char] = end
         }
         return maxCount
