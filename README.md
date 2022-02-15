@@ -2,7 +2,7 @@
 <div align=center><img src ="https://raw.githubusercontent.com/cnyy7/LeetCode_EY/master/resources/LeetCode.png"/></div>
 <div align=center>
 
-![Solved/Total](https://leetcode-badge.haozibi.dev/v1cn/solved/chennan.svg) ![GitHub language count](https://img.shields.io/github/languages/count/cnyy7/LeetCode_EY/leetcode-cn.svg?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/cnyy7/LeetCode_EY/leetcode-cn.svg?style=flat-square) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/cnyy7/LeetCode_EY/leetcode-cn.svg?style=flat-square) ![GitHub](https://img.shields.io/github/license/cnyy7/LeetCode_EY/leetcode-cn.svg?style=flat-square)
+![Solved/Total](https://leetcode-badge.haozibi.dev/v1cn/solved/chennan.svg) ![GitHub language count](https://img.shields.io/github/languages/count/cnyy7/LeetCode_EY.svg?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/cnyy7/LeetCode_EY/leetcode-cn.svg?style=flat-square) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/cnyy7/LeetCode_EY.svg?style=flat-square) ![GitHub](https://img.shields.io/github/license/cnyy7/LeetCode_EY.svg?style=flat-square)
 
 </div>
 
