@@ -48,23 +48,27 @@
 // @lc code=start
 class Solution {
     fun longestCommonPrefix(strs: Array<String>): String {
-        val prefix = StringBuilder()
+        // 存储公共前缀
+        val prefix = StringBuilder() 
+        // 遍历的下标
         var index = 0
         while (true) {
+            // 标记是否第一次遍历到当前下标
             var first = true
             for (s in strs) {
                 if (s.lastIndex < index) {
-                    // 当前字符串总长度小于 公共前缀长度时，返回结果
+                    // 某个字符串已经遍历完了，返回结果
+                    // 根据是否是第一次遍历到当前下标有不同
                     return if (first) prefix.toString() else prefix.substring(0, prefix.lastIndex)
                 }
                 if (first) {
-                    // 第一次遍历到这个index时，直接添加
+                    // 第一次遍历到当前下标，直接添加当前字符到prefix
                     prefix.append(s[index])
                     first = false
                     continue
                 }
                 if (s[index] != prefix[prefix.lastIndex]) {
-                    // 当前字符串index字符与公共前缀不同时，返回结果
+                    // 字符不同时返回最后结果
                     return prefix.substring(0, prefix.lastIndex)
                 }
             }
