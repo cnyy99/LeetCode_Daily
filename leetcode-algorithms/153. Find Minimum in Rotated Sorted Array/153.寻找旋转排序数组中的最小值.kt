@@ -96,7 +96,7 @@ class Solution {
     // 线性查找
     fun findMinLinear(nums: IntArray): Int {
         // 先取第一个位置
-        var result = nums[0]
+        val result = nums[0]
         for (num in nums) {
             // 遍历所有数字
             if (num < result) {
