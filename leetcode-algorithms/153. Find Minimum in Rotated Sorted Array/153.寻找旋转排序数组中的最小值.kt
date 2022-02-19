@@ -73,8 +73,8 @@ class Solution {
         var left = 0
         // 右侧下标
         var right = nums.lastIndex
+        // 左右不相等时
         while (left < right) {
-            // 左右不相等时
             // 中间位置为mid
             val mid = (right + left) / 2
 
