@@ -6,13 +6,13 @@
 
 </div>
 
-In this repository, I have solved **26** / **1967** problems while **303** are still locked.
+In this repository, I have solved **27** / **1967** problems while **303** are still locked.
 
 Completion statistic: 
 1. Python: 0
 2. Java: 0
 3. C++: 0
-4. Kotlin: 26
+4. Kotlin: 27
 5. Golang: 0
 ----------------
 ## LeetCode Solution Table
@@ -45,5 +45,6 @@ Completion statistic:
 |345|[Reverse Vowels of a String](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/description/) |Easy|To Do|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/345.%20Reverse%20Vowels%20of%20a%20String/345.反转字符串中的元音字母.kt)|To Do|
 |485|[Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/description/) |Easy|To Do|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/485.%20Max%20Consecutive%20Ones/485.最大连续-1-的个数.kt)|To Do|
 |557|[Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/description/) |Easy|To Do|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/557.%20Reverse%20Words%20in%20a%20String%20III/557.反转字符串中的单词-iii.kt)|To Do|
+|561|[Array Partition I](https://leetcode-cn.com/problems/array-partition-i/description/) |Easy|To Do|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/561.%20Array%20Partition%20I/561.数组拆分-i.kt)|To Do|
 |1991|[Find the Middle Index in Array](https://leetcode-cn.com/problems/find-the-middle-index-in-array/description/) |Easy|To Do|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/1991.%20Find%20the%20Middle%20Index%20in%20Array/1991.找到数组的中间位置.kt)|To Do|
 </div>
