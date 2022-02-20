@@ -6,13 +6,13 @@
 
 </div>
 
-In this repository, I have solved **28** / **1967** problems while **303** are still locked.
+In this repository, I have solved **30** / **1975** problems while **303** are still locked.
 
 Completion statistic: 
 1. Python: 0
 2. Java: 0
 3. C++: 0
-4. Kotlin: 28
+4. Kotlin: 30
 5. Golang: 0
 ----------------
 ## LeetCode Solution Table
@@ -31,6 +31,7 @@ Completion statistic:
 |027|[Remove Element](https://leetcode-cn.com/problems/remove-element/description/) |Easy|To Do|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/027.%20Remove%20Element/27.移除元素.kt)|To Do|
 |035|[Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/description/) |Easy|To Do|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/035.%20Search%20Insert%20Position/35.搜索插入位置.kt)|To Do|
 |056|[Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/description/) |Medium|To Do|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/056.%20Merge%20Intervals/56.合并区间.kt)|To Do|
+|069|[Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/description/) |Easy|To Do|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/069.%20Sqrt(x)/69.sqrt-x.kt)|To Do|
 |075|[Sort Colors](https://leetcode-cn.com/problems/sort-colors/description/) |Medium|To Do|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/075.%20Sort%20Colors/75.颜色分类.kt)|To Do|
 |080|[Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/description/) |Medium|To Do|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/80.删除有序数组中的重复项-ii.kt)|To Do|
 |088|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/description/) |Easy|To Do|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/088.%20Merge%20Sorted%20Array/88.合并两个有序数组.kt)|To Do|
@@ -47,5 +48,6 @@ Completion statistic:
 |485|[Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/description/) |Easy|To Do|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/485.%20Max%20Consecutive%20Ones/485.最大连续-1-的个数.kt)|To Do|
 |557|[Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/description/) |Easy|To Do|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/557.%20Reverse%20Words%20in%20a%20String%20III/557.反转字符串中的单词-iii.kt)|To Do|
 |561|[Array Partition I](https://leetcode-cn.com/problems/array-partition-i/description/) |Easy|To Do|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/561.%20Array%20Partition%20I/561.数组拆分-i.kt)|To Do|
+|704|[Binary Search](https://leetcode-cn.com/problems/binary-search/description/) |Easy|To Do|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/704.%20Binary%20Search/704.二分查找.kt)|To Do|
 |1991|[Find the Middle Index in Array](https://leetcode-cn.com/problems/find-the-middle-index-in-array/description/) |Easy|To Do|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/1991.%20Find%20the%20Middle%20Index%20in%20Array/1991.找到数组的中间位置.kt)|To Do|
 </div>
