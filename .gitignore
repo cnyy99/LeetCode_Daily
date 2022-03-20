@@ -28,6 +28,9 @@
 *.app
 **/ipch
 
+.idea
+lib
+out
 
 readme.py
 move_file.py
