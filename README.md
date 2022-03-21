@@ -6,13 +6,13 @@
 
 </div>
 
-In this repository, I have solved **36** / **1995** problems while **307** are still locked.
+In this repository, I have solved **37** / **2003** problems while **307** are still locked.
 
 Completion statistic: 
 1. Python: 0
 2. Java: 0
 3. C++: 0
-4. Kotlin: 36
+4. Kotlin: 37
 5. Golang: 0
 ----------------
 ## LeetCode Solution Table
