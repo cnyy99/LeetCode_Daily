@@ -6,13 +6,13 @@
 
 </div>
 
-In this repository, I have solved **38** / **2003** problems while **307** are still locked.
+In this repository, I have solved **39** / **2008** problems while **308** are still locked.
 
 Completion statistic: 
 1. Python: 0
 2. Java: 0
 3. C++: 0
-4. Kotlin: 38
+4. Kotlin: 39
 5. Golang: 0
 ----------------
 ## LeetCode Solution Table
@@ -50,6 +50,7 @@ Completion statistic:
 |240|[Search a 2D Matrix II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/description/) |Medium|To Do|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/240.%20Search%20a%202D%20Matrix%20II/240.搜索二维矩阵-ii.kt)|To Do|
 |278|[First Bad Version](https://leetcode-cn.com/problems/first-bad-version/description/) |Easy|To Do|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/278.%20First%20Bad%20Version/278.第一个错误的版本.kt)|To Do|
 |283|[Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/description/) |Easy|To Do|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/283.%20Move%20Zeroes/283.移动零.kt)|To Do|
+|343|[Integer Break](https://leetcode-cn.com/problems/integer-break/description/) |Medium|To Do|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/343.%20Integer%20Break/343.整数拆分.kt)|To Do|
 |344|[Reverse String](https://leetcode-cn.com/problems/reverse-string/description/) |Easy|To Do|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/344.%20Reverse%20String/344.反转字符串.kt)|To Do|
 |345|[Reverse Vowels of a String](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/description/) |Easy|To Do|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/345.%20Reverse%20Vowels%20of%20a%20String/345.反转字符串中的元音字母.kt)|To Do|
 |374|[Guess Number Higher or Lower](https://leetcode-cn.com/problems/guess-number-higher-or-lower/description/) |Easy|To Do|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/374.%20Guess%20Number%20Higher%20or%20Lower/374.猜数字大小.kt)|To Do|
