@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **40** / **2008** problems while **308** are still locked.
+In this repository, I have solved **41** / **2024** problems while **310** are still locked.
 
 Completion statistic: 
 1. Python: 0
 2. Java: 0
-3. Kotlin: 40
+3. Kotlin: 41
 4. Golang: 1
 ----------------
 ## LeetCode Solution Table
@@ -26,6 +26,7 @@ Completion statistic:
 |005|[Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/005.%20Longest%20Palindromic%20Substring/5.最长回文子串.kt)|To Do|
 |011|[Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/011.%20Container%20With%20Most%20Water/11.盛最多水的容器.kt)|To Do|
 |014|[Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/014.%20Longest%20Common%20Prefix/14.最长公共前缀.kt)|To Do|
+|021|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/021.%20Merge%20Two%20Sorted%20Lists/21.合并两个有序链表.kt)|To Do|
 |026|[Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/026.%20Remove%20Duplicates%20from%20Sorted%20Array/26.删除有序数组中的重复项.kt)|To Do|
 |027|[Remove Element](https://leetcode-cn.com/problems/remove-element/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/027.%20Remove%20Element/27.移除元素.kt)|To Do|
 |033|[Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/033.%20Search%20in%20Rotated%20Sorted%20Array/33.搜索旋转排序数组.kt)|To Do|
