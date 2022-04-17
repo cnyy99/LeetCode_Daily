@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **41** / **2024** problems while **310** are still locked.
+In this repository, I have solved **42** / **2033** problems while **311** are still locked.
 
 Completion statistic: 
 1. Python: 0
 2. Java: 0
-3. Kotlin: 41
+3. Kotlin: 42
 4. Golang: 1
 ----------------
 ## LeetCode Solution Table
@@ -48,6 +48,7 @@ Completion statistic:
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/167.两数之和-ii-输入有序数组.kt)|To Do|
 |191|[Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/191.%20Number%20of%201%20Bits/191.位-1-的个数.kt)|[Golang](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/191.%20Number%20of%201%20Bits/191.位-1-的个数.go)|
 |209|[Minimum Size Subarray Sum](https://leetcode-cn.com/problems/minimum-size-subarray-sum/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/209.%20Minimum%20Size%20Subarray%20Sum/209.长度最小的子数组.kt)|To Do|
+|226|[Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/226.%20Invert%20Binary%20Tree/226.翻转二叉树.kt)|To Do|
 |240|[Search a 2D Matrix II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/240.%20Search%20a%202D%20Matrix%20II/240.搜索二维矩阵-ii.kt)|To Do|
 |278|[First Bad Version](https://leetcode-cn.com/problems/first-bad-version/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/278.%20First%20Bad%20Version/278.第一个错误的版本.kt)|To Do|
 |283|[Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/283.%20Move%20Zeroes/283.移动零.kt)|To Do|
