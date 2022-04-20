@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **42** / **2033** problems while **311** are still locked.
+In this repository, I have solved **43** / **2033** problems while **311** are still locked.
 
 Completion statistic: 
 1. Python: 0
 2. Java: 0
-3. Kotlin: 42
+3. Kotlin: 43
 4. Golang: 1
 ----------------
 ## LeetCode Solution Table
@@ -38,6 +38,7 @@ Completion statistic:
 |079|[Word Search](https://leetcode-cn.com/problems/word-search/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/079.%20Word%20Search/79.单词搜索.kt)|To Do|
 |080|[Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/80.删除有序数组中的重复项-ii.kt)|To Do|
 |088|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/088.%20Merge%20Sorted%20Array/88.合并两个有序数组.kt)|To Do|
+|101|[Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/101.%20Symmetric%20Tree/101.对称二叉树.kt)|To Do|
 |118|[Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/118.%20Pascal's%20Triangle/118.杨辉三角.kt)|To Do|
 |119|[Pascal's Triangle II](https://leetcode-cn.com/problems/pascals-triangle-ii/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/119.%20Pascal's%20Triangle%20II/119.杨辉三角-ii.kt)|To Do|
 |125|[Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/125.%20Valid%20Palindrome/125.验证回文串.kt)|To Do|
