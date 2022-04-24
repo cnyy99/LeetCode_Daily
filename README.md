@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **44** / **2034** problems while **312** are still locked.
+In this repository, I have solved **45** / **2038** problems while **312** are still locked.
 
 Completion statistic: 
 1. Python: 0
 2. Java: 0
-3. Kotlin: 44
+3. Kotlin: 45
 4. Golang: 1
 ----------------
 ## LeetCode Solution Table
@@ -46,6 +46,7 @@ Completion statistic:
 |151|[Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/151.%20Reverse%20Words%20in%20a%20String/151.翻转字符串里的单词.kt)|To Do|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/153.寻找旋转排序数组中的最小值.kt)|To Do|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/description/) |Hard|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/154.寻找旋转排序数组中的最小值-ii.kt)|To Do|
+|155|[Min Stack](https://leetcode-cn.com/problems/min-stack/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/155.%20Min%20Stack/155.最小栈.kt)|To Do|
 |162|[Find Peak Element](https://leetcode-cn.com/problems/find-peak-element/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/162.%20Find%20Peak%20Element/162.寻找峰值.kt)|To Do|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/167.两数之和-ii-输入有序数组.kt)|To Do|
 |191|[Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/191.%20Number%20of%201%20Bits/191.位-1-的个数.kt)|[Golang](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/191.%20Number%20of%201%20Bits/191.位-1-的个数.go)|
