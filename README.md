@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **46** / **2038** problems while **312** are still locked.
+In this repository, I have solved **47** / **2038** problems while **312** are still locked.
 
 Completion statistic: 
 1. Python: 0
 2. Java: 0
-3. Kotlin: 46
+3. Kotlin: 47
 4. Golang: 1
 ----------------
 ## LeetCode Solution Table
@@ -64,5 +64,6 @@ Completion statistic:
 |557|[Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/557.%20Reverse%20Words%20in%20a%20String%20III/557.反转字符串中的单词-iii.kt)|To Do|
 |561|[Array Partition I](https://leetcode-cn.com/problems/array-partition-i/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/561.%20Array%20Partition%20I/561.数组拆分-i.kt)|To Do|
 |704|[Binary Search](https://leetcode-cn.com/problems/binary-search/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/704.%20Binary%20Search/704.二分查找.kt)|To Do|
+|946|[Validate Stack Sequences](https://leetcode-cn.com/problems/validate-stack-sequences/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/946.%20Validate%20Stack%20Sequences/946.验证栈序列.kt)|To Do|
 |1991|[Find the Middle Index in Array](https://leetcode-cn.com/problems/find-the-middle-index-in-array/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/1991.%20Find%20the%20Middle%20Index%20in%20Array/1991.找到数组的中间位置.kt)|To Do|
 </div>
