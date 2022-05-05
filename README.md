@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **48** / **2048** problems while **314** are still locked.
+In this repository, I have solved **49** / **2048** problems while **314** are still locked.
 
 Completion statistic: 
 1. Python: 0
 2. Java: 0
-3. Kotlin: 48
+3. Kotlin: 49
 4. Golang: 1
 ----------------
 ## LeetCode Solution Table
@@ -41,6 +41,7 @@ Completion statistic:
 |088|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/088.%20Merge%20Sorted%20Array/88.合并两个有序数组.kt)|To Do|
 |101|[Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/101.%20Symmetric%20Tree/101.对称二叉树.kt)|To Do|
 |102|[Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/102.%20Binary%20Tree%20Level%20Order%20Traversal/102.二叉树的层序遍历.kt)|To Do|
+|112|[Path Sum](https://leetcode-cn.com/problems/path-sum/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/112.%20Path%20Sum/112.路径总和.kt)|To Do|
 |113|[Path Sum II](https://leetcode-cn.com/problems/path-sum-ii/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/113.%20Path%20Sum%20II/113.路径总和-ii.kt)|To Do|
 |118|[Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/118.%20Pascal's%20Triangle/118.杨辉三角.kt)|To Do|
 |119|[Pascal's Triangle II](https://leetcode-cn.com/problems/pascals-triangle-ii/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/119.%20Pascal's%20Triangle%20II/119.杨辉三角-ii.kt)|To Do|
