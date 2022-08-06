@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **53** / **2137** problems while **327** are still locked.
+In this repository, I have solved **54** / **2137** problems while **327** are still locked.
 
 Completion statistic: 
 1. Python: 0
 2. Java: 0
-3. Kotlin: 53
+3. Kotlin: 54
 4. Golang: 1
 ----------------
 ## LeetCode Solution Table
@@ -27,6 +27,7 @@ Completion statistic:
 |007|[Reverse Integer](https://leetcode.cn/problems/reverse-integer/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/007.%20Reverse%20Integer/7.整数反转.kt)|To Do|
 |011|[Container With Most Water](https://leetcode.cn/problems/container-with-most-water/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/011.%20Container%20With%20Most%20Water/11.盛最多水的容器.kt)|To Do|
 |012|[Integer to Roman](https://leetcode.cn/problems/integer-to-roman/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/012.%20Integer%20to%20Roman/12.整数转罗马数字.kt)|To Do|
+|013|[Roman to Integer](https://leetcode.cn/problems/roman-to-integer/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/013.%20Roman%20to%20Integer/13.罗马数字转整数.kt)|To Do|
 |014|[Longest Common Prefix](https://leetcode.cn/problems/longest-common-prefix/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/014.%20Longest%20Common%20Prefix/14.最长公共前缀.kt)|To Do|
 |021|[Merge Two Sorted Lists](https://leetcode.cn/problems/merge-two-sorted-lists/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/021.%20Merge%20Two%20Sorted%20Lists/21.合并两个有序链表.kt)|To Do|
 |026|[Remove Duplicates from Sorted Array](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/026.%20Remove%20Duplicates%20from%20Sorted%20Array/26.删除有序数组中的重复项.kt)|To Do|
