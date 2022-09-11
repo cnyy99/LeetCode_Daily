@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **55** / **2146** problems while **328** are still locked.
+In this repository, I have solved **56** / **2178** problems while **332** are still locked.
 
 Completion statistic: 
 1. Python: 0
 2. Java: 0
-3. Kotlin: 55
+3. Kotlin: 56
 4. Golang: 1
 ----------------
 ## LeetCode Solution Table
@@ -25,6 +25,7 @@ Completion statistic:
 |004|[Median of Two Sorted Arrays](https://leetcode.cn/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/004.%20Median%20of%20Two%20Sorted%20Arrays/4.寻找两个正序数组的中位数.kt)|To Do|
 |005|[Longest Palindromic Substring](https://leetcode.cn/problems/longest-palindromic-substring/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/005.%20Longest%20Palindromic%20Substring/5.最长回文子串.kt)|To Do|
 |007|[Reverse Integer](https://leetcode.cn/problems/reverse-integer/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/007.%20Reverse%20Integer/7.整数反转.kt)|To Do|
+|009|[Palindrome Number](https://leetcode.cn/problems/palindrome-number/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/009.%20Palindrome%20Number/9.回文数.kt)|To Do|
 |011|[Container With Most Water](https://leetcode.cn/problems/container-with-most-water/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/011.%20Container%20With%20Most%20Water/11.盛最多水的容器.kt)|To Do|
 |012|[Integer to Roman](https://leetcode.cn/problems/integer-to-roman/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/012.%20Integer%20to%20Roman/12.整数转罗马数字.kt)|To Do|
 |013|[Roman to Integer](https://leetcode.cn/problems/roman-to-integer/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/013.%20Roman%20to%20Integer/13.罗马数字转整数.kt)|To Do|
