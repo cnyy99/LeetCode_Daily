@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **56** / **2178** problems while **332** are still locked.
+In this repository, I have solved **58** / **2524** problems while **377** are still locked.
 
 Completion statistic: 
 1. Python: 0
 2. Java: 0
-3. Kotlin: 56
+3. Kotlin: 58
 4. Golang: 1
 ----------------
 ## LeetCode Solution Table
@@ -60,8 +60,10 @@ Completion statistic:
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/167.两数之和-ii-输入有序数组.kt)|To Do|
 |169|[Majority Element](https://leetcode.cn/problems/majority-element/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/169.%20Majority%20Element/169.多数元素.kt)|To Do|
 |191|[Number of 1 Bits](https://leetcode.cn/problems/number-of-1-bits/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/191.%20Number%20of%201%20Bits/191.位-1-的个数.kt)|[Golang](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/191.%20Number%20of%201%20Bits/191.位-1-的个数.go)|
+|206|[Reverse Linked List](https://leetcode.cn/problems/reverse-linked-list/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/206.%20Reverse%20Linked%20List/206.反转链表.kt)|To Do|
 |209|[Minimum Size Subarray Sum](https://leetcode.cn/problems/minimum-size-subarray-sum/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/209.%20Minimum%20Size%20Subarray%20Sum/209.长度最小的子数组.kt)|To Do|
 |226|[Invert Binary Tree](https://leetcode.cn/problems/invert-binary-tree/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/226.%20Invert%20Binary%20Tree/226.翻转二叉树.kt)|To Do|
+|228|[Summary Ranges](https://leetcode.cn/problems/summary-ranges/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/228.%20Summary%20Ranges/228.汇总区间.kt)|To Do|
 |240|[Search a 2D Matrix II](https://leetcode.cn/problems/search-a-2d-matrix-ii/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/240.%20Search%20a%202D%20Matrix%20II/240.搜索二维矩阵-ii.kt)|To Do|
 |278|[First Bad Version](https://leetcode.cn/problems/first-bad-version/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/278.%20First%20Bad%20Version/278.第一个错误的版本.kt)|To Do|
 |283|[Move Zeroes](https://leetcode.cn/problems/move-zeroes/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/283.%20Move%20Zeroes/283.移动零.kt)|To Do|
