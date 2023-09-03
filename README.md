@@ -6,12 +6,12 @@
 
 </div>
 
-In this repository, I have solved **58** / **2524** problems while **377** are still locked.
+In this repository, I have solved **59** / **2533** problems while **378** are still locked.
 
 Completion statistic: 
 1. Python: 0
 2. Java: 0
-3. Kotlin: 58
+3. Kotlin: 59
 4. Golang: 1
 ----------------
 ## LeetCode Solution Table
@@ -76,5 +76,6 @@ Completion statistic:
 |561|[Array Partition](https://leetcode.cn/problems/array-partition/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/561.%20Array%20Partition%20I/561.数组拆分-i.kt)|To Do|
 |704|[Binary Search](https://leetcode.cn/problems/binary-search/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/704.%20Binary%20Search/704.二分查找.kt)|To Do|
 |946|[Validate Stack Sequences](https://leetcode.cn/problems/validate-stack-sequences/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/946.%20Validate%20Stack%20Sequences/946.验证栈序列.kt)|To Do|
+|1921|[Eliminate Maximum Number of Monsters](https://leetcode.cn/problems/eliminate-maximum-number-of-monsters/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/1921.%20Eliminate%20Maximum%20Number%20of%20Monsters/1921.消灭怪物的最大数量.kt)|To Do|
 |1991|[Find the Middle Index in Array](https://leetcode.cn/problems/find-the-middle-index-in-array/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/1991.%20Find%20the%20Middle%20Index%20in%20Array/1991.找到数组的中间位置.kt)|To Do|
 </div>
