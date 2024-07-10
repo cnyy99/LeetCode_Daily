@@ -6,10 +6,10 @@
 
 </div>
 
-In this repository, I have solved **62** / **2842** problems while **423** are still locked.
+In this repository, I have solved **63** / **2842** problems while **423** are still locked.
 
 Completion statistic: 
-1. Python: 0
+1. Python: 1
 2. Java: 0
 3. Kotlin: 59
 4. Golang: 4
@@ -77,6 +77,7 @@ Completion statistic:
 |557|[Reverse Words in a String III](https://leetcode.cn/problems/reverse-words-in-a-string-iii/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/557.%20Reverse%20Words%20in%20a%20String%20III/557.反转字符串中的单词-iii.kt)|To Do|
 |561|[Array Partition](https://leetcode.cn/problems/array-partition/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/561.%20Array%20Partition%20I/561.数组拆分-i.kt)|To Do|
 |633|[Sum of Square Numbers](https://leetcode.cn/problems/sum-of-square-numbers/description/) |Medium|To Do|To Do|To Do|[Golang](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/633.%20Sum%20of%20Square%20Numbers/633.平方数之和.go)|
+|680|[Valid Palindrome II](https://leetcode.cn/problems/valid-palindrome-ii/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/680.%20Valid%20Palindrome%20II/680.验证回文串-ii.py)|To Do|To Do|To Do|
 |704|[Binary Search](https://leetcode.cn/problems/binary-search/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/704.%20Binary%20Search/704.二分查找.kt)|To Do|
 |946|[Validate Stack Sequences](https://leetcode.cn/problems/validate-stack-sequences/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/946.%20Validate%20Stack%20Sequences/946.验证栈序列.kt)|To Do|
 |1921|[Eliminate Maximum Number of Monsters](https://leetcode.cn/problems/eliminate-maximum-number-of-monsters/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/1921.%20Eliminate%20Maximum%20Number%20of%20Monsters/1921.消灭怪物的最大数量.kt)|To Do|
