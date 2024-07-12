@@ -6,10 +6,10 @@
 
 </div>
 
-In this repository, I have solved **63** / **2842** problems while **423** are still locked.
+In this repository, I have solved **63** / **2843** problems while **424** are still locked.
 
 Completion statistic: 
-1. Python: 1
+1. Python: 2
 2. Java: 0
 3. Kotlin: 59
 4. Golang: 4
@@ -45,7 +45,7 @@ Completion statistic:
 |075|[Sort Colors](https://leetcode.cn/problems/sort-colors/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/075.%20Sort%20Colors/75.颜色分类.kt)|To Do|
 |079|[Word Search](https://leetcode.cn/problems/word-search/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/079.%20Word%20Search/79.单词搜索.kt)|To Do|
 |080|[Remove Duplicates from Sorted Array II](https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/80.删除有序数组中的重复项-ii.kt)|To Do|
-|088|[Merge Sorted Array](https://leetcode.cn/problems/merge-sorted-array/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/088.%20Merge%20Sorted%20Array/88.合并两个有序数组.kt)|To Do|
+|088|[Merge Sorted Array](https://leetcode.cn/problems/merge-sorted-array/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/088.%20Merge%20Sorted%20Array/88.合并两个有序数组.py)|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/088.%20Merge%20Sorted%20Array/88.合并两个有序数组.kt)|To Do|
 |101|[Symmetric Tree](https://leetcode.cn/problems/symmetric-tree/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/101.%20Symmetric%20Tree/101.对称二叉树.kt)|To Do|
 |102|[Binary Tree Level Order Traversal](https://leetcode.cn/problems/binary-tree-level-order-traversal/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/102.%20Binary%20Tree%20Level%20Order%20Traversal/102.二叉树的层序遍历.kt)|To Do|
 |112|[Path Sum](https://leetcode.cn/problems/path-sum/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/112.%20Path%20Sum/112.路径总和.kt)|To Do|
