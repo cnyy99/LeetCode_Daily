@@ -6,10 +6,10 @@
 
 </div>
 
-In this repository, I have solved **63** / **2843** problems while **424** are still locked.
+In this repository, I have solved **64** / **2843** problems while **424** are still locked.
 
 Completion statistic: 
-1. Python: 2
+1. Python: 3
 2. Java: 0
 3. Kotlin: 59
 4. Golang: 4
@@ -54,6 +54,7 @@ Completion statistic:
 |119|[Pascal's Triangle II](https://leetcode.cn/problems/pascals-triangle-ii/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/119.%20Pascal's%20Triangle%20II/119.杨辉三角-ii.kt)|To Do|
 |125|[Valid Palindrome](https://leetcode.cn/problems/valid-palindrome/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/125.%20Valid%20Palindrome/125.验证回文串.kt)|To Do|
 |138|[Copy List with Random Pointer](https://leetcode.cn/problems/copy-list-with-random-pointer/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/138.%20Copy%20List%20with%20Random%20Pointer/138.复制带随机指针的链表.kt)|To Do|
+|141|[Linked List Cycle](https://leetcode.cn/problems/linked-list-cycle/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/141.%20Linked%20List%20Cycle/141.环形链表.py)|To Do|To Do|To Do|
 |151|[Reverse Words in a String](https://leetcode.cn/problems/reverse-words-in-a-string/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/151.%20Reverse%20Words%20in%20a%20String/151.翻转字符串里的单词.kt)|To Do|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/153.寻找旋转排序数组中的最小值.kt)|To Do|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array-ii/description/) |Hard|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/154.寻找旋转排序数组中的最小值-ii.kt)|To Do|
