@@ -6,10 +6,10 @@
 
 </div>
 
-In this repository, I have solved **66** / **2848** problems while **425** are still locked.
+In this repository, I have solved **67** / **2848** problems while **425** are still locked.
 
 Completion statistic: 
-1. Python: 5
+1. Python: 6
 2. Java: 0
 3. Kotlin: 59
 4. Golang: 4
@@ -74,6 +74,7 @@ Completion statistic:
 |344|[Reverse String](https://leetcode.cn/problems/reverse-string/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/344.%20Reverse%20String/344.反转字符串.kt)|To Do|
 |345|[Reverse Vowels of a String](https://leetcode.cn/problems/reverse-vowels-of-a-string/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/345.%20Reverse%20Vowels%20of%20a%20String/345.反转字符串中的元音字母.kt)|To Do|
 |374|[Guess Number Higher or Lower](https://leetcode.cn/problems/guess-number-higher-or-lower/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/374.%20Guess%20Number%20Higher%20or%20Lower/374.猜数字大小.kt)|To Do|
+|452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.cn/problems/minimum-number-of-arrows-to-burst-balloons/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons/452.用最少数量的箭引爆气球.py)|To Do|To Do|To Do|
 |455|[Assign Cookies](https://leetcode.cn/problems/assign-cookies/description/) |Easy|[Python](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/455.%20Assign%20Cookies/455.分发饼干.py)|To Do|To Do|To Do|
 |485|[Max Consecutive Ones](https://leetcode.cn/problems/max-consecutive-ones/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/485.%20Max%20Consecutive%20Ones/485.最大连续-1-的个数.kt)|To Do|
 |524|[Longest Word in Dictionary through Deleting](https://leetcode.cn/problems/longest-word-in-dictionary-through-deleting/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/524.%20Longest%20Word%20in%20Dictionary%20through%20Deleting/524.通过删除字母匹配到字典里最长单词.py)|To Do|To Do|To Do|
