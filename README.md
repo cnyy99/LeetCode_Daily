@@ -6,10 +6,10 @@
 
 </div>
 
-In this repository, I have solved **71** / **2912** problems while **432** are still locked.
+In this repository, I have solved **72** / **2912** problems while **432** are still locked.
 
 Completion statistic: 
-1. Python: 13
+1. Python: 14
 2. Java: 0
 3. Kotlin: 59
 4. Golang: 4
@@ -71,6 +71,7 @@ Completion statistic:
 |240|[Search a 2D Matrix II](https://leetcode.cn/problems/search-a-2d-matrix-ii/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy99/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/240.%20Search%20a%202D%20Matrix%20II/240.搜索二维矩阵-ii.kt)|To Do|
 |278|[First Bad Version](https://leetcode.cn/problems/first-bad-version/description/) |Easy|[Python](https://github.com/cnyy99/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/278.%20First%20Bad%20Version/278.第一个错误的版本.py)|To Do|[Kotlin](https://github.com/cnyy99/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/278.%20First%20Bad%20Version/278.第一个错误的版本.kt)|To Do|
 |283|[Move Zeroes](https://leetcode.cn/problems/move-zeroes/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy99/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/283.%20Move%20Zeroes/283.移动零.kt)|To Do|
+|287|[Find the Duplicate Number](https://leetcode.cn/problems/find-the-duplicate-number/description/) |Medium|[Python](https://github.com/cnyy99/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/287.%20Find%20the%20Duplicate%20Number/287.寻找重复数.py)|To Do|To Do|To Do|
 |343|[Integer Break](https://leetcode.cn/problems/integer-break/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy99/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/343.%20Integer%20Break/343.整数拆分.kt)|To Do|
 |344|[Reverse String](https://leetcode.cn/problems/reverse-string/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy99/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/344.%20Reverse%20String/344.反转字符串.kt)|To Do|
 |345|[Reverse Vowels of a String](https://leetcode.cn/problems/reverse-vowels-of-a-string/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy99/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/345.%20Reverse%20Vowels%20of%20a%20String/345.反转字符串中的元音字母.kt)|To Do|
