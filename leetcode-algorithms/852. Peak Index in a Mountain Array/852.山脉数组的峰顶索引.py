@@ -62,7 +62,6 @@ class Solution:
         left, right, ans = 1, len(arr) - 2, 0
         while left <= right:
             mid = (left + right) // 2
-            
             if arr[mid] > arr[mid + 1]:
                 # 中间值大于右边的值时，代表最大值在[left, mid]中
                 # 或者mid本身就是最大值，先记录下ans=mid，当后续再进入该分支时再更新
