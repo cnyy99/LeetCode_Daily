@@ -9,7 +9,7 @@
 In this repository, I have solved **71** / **2912** problems while **432** are still locked.
 
 Completion statistic: 
-1. Python: 12
+1. Python: 13
 2. Java: 0
 3. Kotlin: 59
 4. Golang: 4
@@ -40,7 +40,7 @@ Completion statistic:
 |054|[Spiral Matrix](https://leetcode.cn/problems/spiral-matrix/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy99/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/054.%20Spiral%20Matrix/54.螺旋矩阵.kt)|To Do|
 |056|[Merge Intervals](https://leetcode.cn/problems/merge-intervals/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy99/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/056.%20Merge%20Intervals/56.合并区间.kt)|To Do|
 |066|[Plus One](https://leetcode.cn/problems/plus-one/description/) |Easy|To Do|To Do|To Do|[Golang](https://github.com/cnyy99/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/066.%20Plus%20One/66.加一.go)|
-|069|[Sqrt(x)](https://leetcode.cn/problems/sqrtx/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy99/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/069.%20Sqrt(x)/69.sqrt-x.kt)|To Do|
+|069|[Sqrt(x)](https://leetcode.cn/problems/sqrtx/description/) |Easy|[Python](https://github.com/cnyy99/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/069.%20Sqrt(x)/69.x-的平方根.py)|To Do|[Kotlin](https://github.com/cnyy99/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/069.%20Sqrt(x)/69.sqrt-x.kt)|To Do|
 |070|[Climbing Stairs](https://leetcode.cn/problems/climbing-stairs/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy99/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/070.%20Climbing%20Stairs/70.爬楼梯.kt)|To Do|
 |075|[Sort Colors](https://leetcode.cn/problems/sort-colors/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy99/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/075.%20Sort%20Colors/75.颜色分类.kt)|To Do|
 |079|[Word Search](https://leetcode.cn/problems/word-search/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy99/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/079.%20Word%20Search/79.单词搜索.kt)|To Do|
