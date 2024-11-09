@@ -6,10 +6,10 @@
 
 </div>
 
-In this repository, I have solved **75** / **2912** problems while **432** are still locked.
+In this repository, I have solved **76** / **2959** problems while **439** are still locked.
 
 Completion statistic: 
-1. Python: 17
+1. Python: 18
 2. Java: 0
 3. Kotlin: 59
 4. Golang: 4
@@ -53,6 +53,7 @@ Completion statistic:
 |113|[Path Sum II](https://leetcode.cn/problems/path-sum-ii/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy99/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/113.%20Path%20Sum%20II/113.路径总和-ii.kt)|To Do|
 |118|[Pascal's Triangle](https://leetcode.cn/problems/pascals-triangle/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy99/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/118.%20Pascal's%20Triangle/118.杨辉三角.kt)|To Do|
 |119|[Pascal's Triangle II](https://leetcode.cn/problems/pascals-triangle-ii/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy99/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/119.%20Pascal's%20Triangle%20II/119.杨辉三角-ii.kt)|To Do|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/description/) |Easy|[Python](https://github.com/cnyy99/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/121.买卖股票的最佳时机.py)|To Do|To Do|To Do|
 |125|[Valid Palindrome](https://leetcode.cn/problems/valid-palindrome/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy99/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/125.%20Valid%20Palindrome/125.验证回文串.kt)|To Do|
 |138|[Copy List with Random Pointer](https://leetcode.cn/problems/copy-list-with-random-pointer/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy99/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/138.%20Copy%20List%20with%20Random%20Pointer/138.复制带随机指针的链表.kt)|To Do|
 |141|[Linked List Cycle](https://leetcode.cn/problems/linked-list-cycle/description/) |Easy|[Python](https://github.com/cnyy99/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/141.%20Linked%20List%20Cycle/141.环形链表.py)|To Do|To Do|To Do|
