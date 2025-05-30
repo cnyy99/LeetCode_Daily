@@ -6,10 +6,10 @@
 
 </div>
 
-In this repository, I have solved **68** / **2848** problems while **425** are still locked.
+In this repository, I have solved **68** / **3163** problems while **467** are still locked.
 
 Completion statistic: 
-1. Python: 8
+1. Python: 9
 2. Java: 0
 3. Kotlin: 59
 4. Golang: 4
@@ -28,7 +28,7 @@ Completion statistic:
 |008|[String to Integer (atoi)](https://leetcode.cn/problems/string-to-integer-atoi/description/) |Medium|To Do|To Do|To Do|[Golang](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/008.%20String%20to%20Integer%20(atoi)/8.字符串转换整数-atoi.go)|
 |009|[Palindrome Number](https://leetcode.cn/problems/palindrome-number/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/009.%20Palindrome%20Number/9.回文数.kt)|To Do|
 |011|[Container With Most Water](https://leetcode.cn/problems/container-with-most-water/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/011.%20Container%20With%20Most%20Water/11.盛最多水的容器.kt)|To Do|
-|012|[Integer to Roman](https://leetcode.cn/problems/integer-to-roman/description/) |Medium|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/012.%20Integer%20to%20Roman/12.整数转罗马数字.kt)|To Do|
+|012|[Integer to Roman](https://leetcode.cn/problems/integer-to-roman/description/) |Medium|[Python](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/012.%20Integer%20to%20Roman/12.整数转罗马数字.py)|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/012.%20Integer%20to%20Roman/12.整数转罗马数字.kt)|To Do|
 |013|[Roman to Integer](https://leetcode.cn/problems/roman-to-integer/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/013.%20Roman%20to%20Integer/13.罗马数字转整数.kt)|To Do|
 |014|[Longest Common Prefix](https://leetcode.cn/problems/longest-common-prefix/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/014.%20Longest%20Common%20Prefix/14.最长公共前缀.kt)|To Do|
 |020|[Valid Parentheses](https://leetcode.cn/problems/valid-parentheses/description/) |Easy|To Do|To Do|[Kotlin](https://github.com/cnyy7/LeetCode_EY/blob/leetcode-cn/leetcode-algorithms/020.%20Valid%20Parentheses/20.有效的括号.kt)|To Do|
