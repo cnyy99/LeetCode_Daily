@@ -9,7 +9,7 @@
 In this repository, I have solved **68** / **3163** problems while **467** are still locked.
 
 Completion statistic: 
-1. Python: 9
+1. Python: 19
 2. Java: 0
 3. Kotlin: 59
 4. Golang: 4
